@@ -1,6 +1,8 @@
 name: Google Trends market collector
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '17 0,6,12,18 * * *'
 permissions:
   contents: write
   id-token: write

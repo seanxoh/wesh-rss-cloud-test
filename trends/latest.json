@@ -1,0 +1,230 @@
+{
+  "version": 1,
+  "market": {
+    "id": "orlando",
+    "name": "Orlando market",
+    "dmaId": 534,
+    "dmaName": "Orlando-Daytona Beach-Melbourne FL"
+  },
+  "capturedAt": "2026-09-14T04:48:30.913Z",
+  "runId": "34807376148",
+  "source": "Google Trends",
+  "granularity": "daily",
+  "bytesProcessed": 173307760,
+  "lists": [
+    {
+      "type": "RISING",
+      "sourceDate": "2026-09-13",
+      "table": "top_rising_terms",
+      "terms": [
+        {
+          "query": "real madrid rayo vallecano",
+          "rank": 1
+        },
+        {
+          "query": "real madrid vs rayo vallecano",
+          "rank": 2
+        },
+        {
+          "query": "michigan vs oklahoma",
+          "rank": 3
+        },
+        {
+          "query": "alabama vs kentucky",
+          "rank": 4
+        },
+        {
+          "query": "oregon vs oklahoma st",
+          "rank": 5
+        },
+        {
+          "query": "wku vs georgia",
+          "rank": 6
+        },
+        {
+          "query": "mets vs yankees",
+          "rank": 7
+        },
+        {
+          "query": "lady gaga baby",
+          "rank": 8
+        },
+        {
+          "query": "pirates vs cubs",
+          "rank": 9
+        },
+        {
+          "query": "dodgers vs marlins",
+          "rank": 10
+        },
+        {
+          "query": "oregon football",
+          "rank": 11
+        },
+        {
+          "query": "lady gaga",
+          "rank": 12
+        },
+        {
+          "query": "college football scores",
+          "rank": 13
+        },
+        {
+          "query": "oklahoma football",
+          "rank": 14
+        },
+        {
+          "query": "ohio state vs texas",
+          "rank": 15
+        },
+        {
+          "query": "arizona state vs texas a&m",
+          "rank": 16
+        },
+        {
+          "query": "ncaa football scores",
+          "rank": 17
+        },
+        {
+          "query": "phillies vs braves",
+          "rank": 18
+        },
+        {
+          "query": "college football today",
+          "rank": 19
+        },
+        {
+          "query": "chelsea vs hull",
+          "rank": 20
+        },
+        {
+          "query": "aster",
+          "rank": 21
+        },
+        {
+          "query": "flood watch",
+          "rank": 22
+        },
+        {
+          "query": "alabama football",
+          "rank": 23
+        },
+        {
+          "query": "kentucky football",
+          "rank": 24
+        },
+        {
+          "query": "ncaa football",
+          "rank": 25
+        }
+      ]
+    },
+    {
+      "type": "TOP",
+      "sourceDate": "2026-09-13",
+      "table": "top_terms",
+      "terms": [
+        {
+          "query": "saints vs lions",
+          "rank": 1
+        },
+        {
+          "query": "falcons vs steelers",
+          "rank": 2
+        },
+        {
+          "query": "commanders vs eagles",
+          "rank": 3
+        },
+        {
+          "query": "bills vs texans",
+          "rank": 4
+        },
+        {
+          "query": "packers vs vikings",
+          "rank": 5
+        },
+        {
+          "query": "ravens vs colts",
+          "rank": 6
+        },
+        {
+          "query": "bears vs panthers",
+          "rank": 7
+        },
+        {
+          "query": "nfl scores",
+          "rank": 8
+        },
+        {
+          "query": "dolphins vs raiders",
+          "rank": 9
+        },
+        {
+          "query": "bears",
+          "rank": 10
+        },
+        {
+          "query": "bloodhound q50",
+          "rank": 11
+        },
+        {
+          "query": "buccaneers vs bengals",
+          "rank": 12
+        },
+        {
+          "query": "bears game",
+          "rank": 13
+        },
+        {
+          "query": "jets vs titans",
+          "rank": 14
+        },
+        {
+          "query": "panthers",
+          "rank": 15
+        },
+        {
+          "query": "browns vs jaguars",
+          "rank": 16
+        },
+        {
+          "query": "cardinals vs chargers",
+          "rank": 17
+        },
+        {
+          "query": "cowboys",
+          "rank": 18
+        },
+        {
+          "query": "us open",
+          "rank": 19
+        },
+        {
+          "query": "cleveland browns",
+          "rank": 20
+        },
+        {
+          "query": "kyler murray",
+          "rank": 21
+        },
+        {
+          "query": "real sociedad - atlético madrid",
+          "rank": 22
+        },
+        {
+          "query": "nfl schedule",
+          "rank": 23
+        },
+        {
+          "query": "country musician brian duckworth",
+          "rank": 24
+        },
+        {
+          "query": "levante vs barcelona",
+          "rank": 25
+        }
+      ]
+    }
+  ]
+}

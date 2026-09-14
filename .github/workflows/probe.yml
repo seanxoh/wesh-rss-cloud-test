@@ -1,0 +1,14 @@
+name: WESH cloud feed diagnostic
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Check official RSS response, dates, and article URLs
+        run: python3 probe.py

@@ -6,15 +6,15 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-09-14T21:48:35.737Z",
-  "runId": "34900812837",
+  "capturedAt": "2026-09-15T04:52:37.640Z",
+  "runId": "34930497728",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 182276020,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-09-13",
+      "sourceDate": "2026-09-14",
       "table": "top_rising_terms",
       "terms": [
         {
@@ -22,206 +22,206 @@
           "rank": 1
         },
         {
-          "query": "real madrid vs rayo vallecano",
+          "query": "saints vs lions",
           "rank": 2
         },
         {
-          "query": "michigan vs oklahoma",
+          "query": "bloodhound q50",
           "rank": 3
         },
         {
-          "query": "alabama vs kentucky",
+          "query": "bears vs panthers",
           "rank": 4
         },
         {
-          "query": "oregon vs oklahoma st",
+          "query": "levante barcelona",
           "rank": 5
         },
         {
-          "query": "wku vs georgia",
+          "query": "falcons vs steelers",
           "rank": 6
         },
         {
-          "query": "mets vs yankees",
+          "query": "commanders vs eagles",
           "rank": 7
         },
         {
-          "query": "lady gaga baby",
+          "query": "dolphins vs raiders",
           "rank": 8
         },
         {
-          "query": "pirates vs cubs",
+          "query": "packers vs vikings",
           "rank": 9
         },
         {
-          "query": "dodgers vs marlins",
+          "query": "real madrid vs rayo vallecano",
           "rank": 10
         },
         {
-          "query": "oregon football",
+          "query": "texas vs ohio state",
           "rank": 11
         },
         {
-          "query": "lady gaga",
+          "query": "bills vs texans",
           "rank": 12
         },
         {
-          "query": "college football scores",
+          "query": "michigan vs oklahoma",
           "rank": 13
         },
         {
-          "query": "oklahoma football",
+          "query": "oregon vs oklahoma st",
           "rank": 14
         },
         {
-          "query": "ohio state vs texas",
+          "query": "lady gaga baby",
           "rank": 15
         },
         {
-          "query": "arizona state vs texas a&m",
+          "query": "ravens vs colts",
           "rank": 16
         },
         {
-          "query": "ncaa football scores",
+          "query": "buccaneers vs bengals",
           "rank": 17
         },
         {
-          "query": "phillies vs braves",
+          "query": "levante vs barcelona",
           "rank": 18
         },
         {
-          "query": "college football today",
+          "query": "alabama vs kentucky",
           "rank": 19
         },
         {
-          "query": "chelsea vs hull",
+          "query": "browns vs jaguars",
           "rank": 20
         },
         {
-          "query": "aster",
+          "query": "wku vs georgia",
           "rank": 21
         },
         {
-          "query": "flood watch",
+          "query": "texas ohio state",
           "rank": 22
         },
         {
-          "query": "alabama football",
+          "query": "kewpie",
           "rank": 23
         },
         {
-          "query": "kentucky football",
+          "query": "lady gaga",
           "rank": 24
         },
         {
-          "query": "ncaa football",
+          "query": "cardinals vs chargers",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-09-13",
+      "sourceDate": "2026-09-14",
       "table": "top_terms",
       "terms": [
         {
-          "query": "saints vs lions",
+          "query": "bob mackie",
           "rank": 1
         },
         {
-          "query": "falcons vs steelers",
+          "query": "king charles letter about harry and meghan",
           "rank": 2
         },
         {
-          "query": "commanders vs eagles",
+          "query": "social security cola 2027 forecast",
           "rank": 3
         },
         {
-          "query": "bills vs texans",
+          "query": "inter vs udinese",
           "rank": 4
         },
         {
-          "query": "packers vs vikings",
+          "query": "macklemore",
           "rank": 5
         },
         {
-          "query": "ravens vs colts",
+          "query": "leeds vs newcastle",
           "rank": 6
         },
         {
-          "query": "bears vs panthers",
+          "query": "todd blanche joe digenova call",
           "rank": 7
         },
         {
-          "query": "nfl scores",
+          "query": "social security september 16 distribution",
           "rank": 8
         },
         {
-          "query": "dolphins vs raiders",
+          "query": "villarreal - real betis",
           "rank": 9
         },
         {
-          "query": "bears",
+          "query": "mitch mcconnell",
           "rank": 10
         },
         {
-          "query": "bloodhound q50",
+          "query": "villarreal vs betis",
           "rank": 11
         },
         {
-          "query": "buccaneers vs bengals",
+          "query": "ios 27",
           "rank": 12
         },
         {
-          "query": "bears game",
+          "query": "talarico leading paxton in survey",
           "rank": 13
         },
         {
-          "query": "jets vs titans",
+          "query": "inter - udinese",
           "rank": 14
         },
         {
-          "query": "panthers",
+          "query": "steam frame",
           "rank": 15
         },
         {
-          "query": "browns vs jaguars",
+          "query": "airline",
           "rank": 16
         },
         {
-          "query": "cardinals vs chargers",
+          "query": "house of the dragon season 4",
           "rank": 17
         },
         {
-          "query": "cowboys",
+          "query": "oracle layoffs",
           "rank": 18
         },
         {
-          "query": "us open",
+          "query": "ford vehicle recall fuel tank",
           "rank": 19
         },
         {
-          "query": "cleveland browns",
+          "query": "hayden panettiere toxicology and tmz",
           "rank": 20
         },
         {
-          "query": "kyler murray",
+          "query": "clarity act",
           "rank": 21
         },
         {
-          "query": "real sociedad - atlético madrid",
+          "query": "invictus games",
           "rank": 22
         },
         {
-          "query": "nfl schedule",
+          "query": "oasis",
           "rank": 23
         },
         {
-          "query": "country musician brian duckworth",
+          "query": "caitlin clark angel reese friendship comments",
           "rank": 24
         },
         {
-          "query": "levante vs barcelona",
+          "query": "amal clooney baria alamuddin athens airport",
           "rank": 25
         }
       ]

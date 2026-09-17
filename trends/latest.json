@@ -6,23 +6,23 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-09-16T21:16:46.108Z",
-  "runId": "35151464489",
+  "capturedAt": "2026-09-17T04:51:30.863Z",
+  "runId": "35183454464",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 174628240,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-09-15",
+      "sourceDate": "2026-09-16",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "bloodhound q50",
+          "query": "how do i register to vote",
           "rank": 1
         },
         {
-          "query": "giants vs cowboys",
+          "query": "stoolie",
           "rank": 2
         },
         {
@@ -30,198 +30,198 @@
           "rank": 3
         },
         {
-          "query": "stoolie",
+          "query": "broncos vs chiefs",
           "rank": 4
         },
         {
-          "query": "saints vs lions",
+          "query": "bob mackie",
           "rank": 5
         },
         {
-          "query": "commanders vs eagles",
+          "query": "elche vs real madrid",
           "rank": 6
         },
         {
-          "query": "levante barcelona",
+          "query": "elche c. f. real madrid",
           "rank": 7
         },
         {
-          "query": "dolphins vs raiders",
+          "query": "emmy winners 2026",
           "rank": 8
         },
         {
-          "query": "bears vs panthers",
+          "query": "stirrer",
           "rank": 9
         },
         {
-          "query": "packers vs vikings",
+          "query": "social security cola 2027 forecast",
           "rank": 10
         },
         {
-          "query": "falcons vs steelers",
+          "query": "blooket join",
           "rank": 11
         },
         {
-          "query": "bills vs texans",
+          "query": "monday night football",
           "rank": 12
         },
         {
-          "query": "buccaneers vs bengals",
+          "query": "broncos",
           "rank": 13
         },
         {
-          "query": "browns vs jaguars",
+          "query": "yankees vs twins",
           "rank": 14
         },
         {
-          "query": "kewpie",
+          "query": "braves vs cubs",
           "rank": 15
         },
         {
-          "query": "ravens vs colts",
+          "query": "blooket",
           "rank": 16
         },
         {
-          "query": "levante vs barcelona",
+          "query": "macklemore",
           "rank": 17
         },
         {
-          "query": "kyler murray",
+          "query": "chiefs",
           "rank": 18
         },
         {
-          "query": "odie",
+          "query": "kahoot",
           "rank": 19
         },
         {
-          "query": "john tuggle",
+          "query": "snake google",
           "rank": 20
         },
         {
-          "query": "cardinals vs chargers",
+          "query": "mnf",
           "rank": 21
         },
         {
-          "query": "bob mackie",
+          "query": "wayground",
           "rank": 22
         },
         {
-          "query": "student suspended for bringing coffee",
+          "query": "loon",
           "rank": 23
         },
         {
-          "query": "stirrer",
+          "query": "matthew rhys",
           "rank": 24
         },
         {
-          "query": "broncos vs chiefs",
+          "query": "gimkit",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-09-15",
+      "sourceDate": "2026-09-16",
       "table": "top_terms",
       "terms": [
         {
-          "query": "elche c. f. - real madrid",
+          "query": "barcelona vs racing santander",
           "rank": 1
         },
         {
-          "query": "liverpool vs spurs",
+          "query": "man utd vs brighton",
           "rank": 2
         },
         {
-          "query": "ipswich town vs arsenal",
+          "query": "fed rates",
           "rank": 3
         },
         {
-          "query": "finneas",
+          "query": "europa league",
           "rank": 4
         },
         {
-          "query": "ticketmaster",
+          "query": "la liga",
           "rank": 5
         },
         {
-          "query": "impeachment",
+          "query": "san francisco musician jeanie poling",
           "rank": 6
         },
         {
-          "query": "today",
+          "query": "atlético vs osasuna",
           "rank": 7
         },
         {
-          "query": "west ham vs fulham",
+          "query": "ben saunders",
           "rank": 8
         },
         {
-          "query": "national park service grand canyon discovery",
+          "query": "olympiacos vs jagiellonia białystok",
           "rank": 9
         },
         {
-          "query": "real madrid vs elche",
+          "query": "lena dunham",
           "rank": 10
         },
         {
-          "query": "clarity act news",
+          "query": "coventry vs aston villa",
           "rank": 11
         },
         {
-          "query": "jj gabriel",
+          "query": "queen camilla",
           "rank": 12
         },
         {
-          "query": "wedding",
+          "query": "everton vs wolves",
           "rank": 13
         },
         {
-          "query": "rayo vallecano vs espanyol",
+          "query": "sean combs unpaid legal fees",
           "rank": 14
         },
         {
-          "query": "eng vs sl",
+          "query": "fire emblem fortune's weave",
           "rank": 15
         },
         {
-          "query": "peanuts collection",
+          "query": "levante vs athletic",
           "rank": 16
         },
         {
-          "query": "jimmy horn jr",
+          "query": "luniz producer tone capone passes",
           "rank": 17
         },
         {
-          "query": "what time is dancing with the stars on",
+          "query": "taylor swift travis kelce",
           "rank": 18
         },
         {
-          "query": "max dowman",
+          "query": "trump deferred resignation program federal workers",
           "rank": 19
         },
         {
-          "query": "alavés vs valencia",
+          "query": "metallica",
           "rank": 20
         },
         {
-          "query": "al ain vs al-nassr",
+          "query": "bailee lynn rios",
           "rank": 21
         },
         {
-          "query": "yuri nakamura",
+          "query": "prince harry meghan markle uk move",
           "rank": 22
         },
         {
-          "query": "quantum entanglement",
+          "query": "jelly roll",
           "rank": 23
         },
         {
-          "query": "alavés - valencia c. f.",
+          "query": "kelly osbourne",
           "rank": 24
         },
         {
-          "query": "kash patel",
+          "query": "tyler chambers washington land dispute",
           "rank": 25
         }
       ]

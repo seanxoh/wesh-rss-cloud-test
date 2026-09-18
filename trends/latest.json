@@ -6,15 +6,15 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-09-17T21:20:42.221Z",
-  "runId": "35276115876",
+  "capturedAt": "2026-09-18T04:41:32.857Z",
+  "runId": "35307914669",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 171106960,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-09-16",
+      "sourceDate": "2026-09-17",
       "table": "top_rising_terms",
       "terms": [
         {
@@ -22,206 +22,206 @@
           "rank": 1
         },
         {
-          "query": "stoolie",
+          "query": "elche vs real madrid",
           "rank": 2
         },
         {
-          "query": "coot",
+          "query": "barcelona racing de santander",
           "rank": 3
         },
         {
-          "query": "broncos vs chiefs",
+          "query": "elche c. f. real madrid",
           "rank": 4
         },
         {
-          "query": "bob mackie",
+          "query": "helicopter crash",
           "rank": 5
         },
         {
-          "query": "elche vs real madrid",
+          "query": "borat",
           "rank": 6
         },
         {
-          "query": "elche c. f. real madrid",
+          "query": "widener",
           "rank": 7
         },
         {
-          "query": "emmy winners 2026",
+          "query": "wadsworth",
           "rank": 8
         },
         {
-          "query": "stirrer",
+          "query": "cómo me registro para votar",
           "rank": 9
         },
         {
-          "query": "social security cola 2027 forecast",
+          "query": "emmy winners 2026",
           "rank": 10
         },
         {
-          "query": "blooket join",
+          "query": "yankees vs twins",
           "rank": 11
         },
         {
-          "query": "monday night football",
+          "query": "man utd vs brighton",
           "rank": 12
         },
         {
-          "query": "broncos",
+          "query": "matthew rhys",
           "rank": 13
         },
         {
-          "query": "yankees vs twins",
+          "query": "drake fomo",
           "rank": 14
         },
         {
-          "query": "braves vs cubs",
+          "query": "widows bay",
           "rank": 15
         },
         {
-          "query": "blooket",
+          "query": "ed sheeran",
           "rank": 16
         },
         {
-          "query": "macklemore",
+          "query": "dancing with the stars",
           "rank": 17
         },
         {
-          "query": "chiefs",
+          "query": "braves vs cubs",
           "rank": 18
         },
         {
-          "query": "kahoot",
+          "query": "white sox vs guardians",
           "rank": 19
         },
         {
-          "query": "snake google",
+          "query": "tigers vs blue jays",
           "rank": 20
         },
         {
-          "query": "mnf",
+          "query": "broncos vs chiefs",
           "rank": 21
         },
         {
-          "query": "wayground",
+          "query": "kaley cuoco",
           "rank": 22
         },
         {
-          "query": "loon",
+          "query": "macklemore",
           "rank": 23
         },
         {
-          "query": "matthew rhys",
+          "query": "orioles vs mets",
           "rank": 24
         },
         {
-          "query": "gimkit",
+          "query": "the beast in me",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-09-16",
+      "sourceDate": "2026-09-17",
       "table": "top_terms",
       "terms": [
         {
-          "query": "barcelona vs racing santander",
+          "query": "man city vs norwich city",
           "rank": 1
         },
         {
-          "query": "man utd vs brighton",
+          "query": "asteroid",
           "rank": 2
         },
         {
-          "query": "fed rates",
+          "query": "real sociedad vs bournemouth",
           "rank": 3
         },
         {
-          "query": "europa league",
+          "query": "millie bobby brown",
           "rank": 4
         },
         {
-          "query": "la liga",
+          "query": "bills vs lions",
           "rank": 5
         },
         {
-          "query": "san francisco musician jeanie poling",
+          "query": "tiger cat",
           "rank": 6
         },
         {
-          "query": "atlético vs osasuna",
+          "query": "juventus vs nec",
           "rank": 7
         },
         {
-          "query": "ben saunders",
+          "query": "málaga - villarreal",
           "rank": 8
         },
         {
-          "query": "olympiacos vs jagiellonia białystok",
+          "query": "debby ryan brain injury",
           "rank": 9
         },
         {
-          "query": "lena dunham",
+          "query": "tay keith",
           "rank": 10
         },
         {
-          "query": "coventry vs aston villa",
+          "query": "lizzie borden netflix",
           "rank": 11
         },
         {
-          "query": "queen camilla",
+          "query": "sway",
           "rank": 12
         },
         {
-          "query": "everton vs wolves",
+          "query": "michael sweetney",
           "rank": 13
         },
         {
-          "query": "sean combs unpaid legal fees",
+          "query": "steve belichick",
           "rank": 14
         },
         {
-          "query": "fire emblem fortune's weave",
+          "query": "palace vs lech poznań",
           "rank": 15
         },
         {
-          "query": "levante vs athletic",
+          "query": "beach hazards statement",
           "rank": 16
         },
         {
-          "query": "luniz producer tone capone passes",
+          "query": "brain eating amoeba",
           "rank": 17
         },
         {
-          "query": "taylor swift travis kelce",
+          "query": "real betis - getafe",
           "rank": 18
         },
         {
-          "query": "trump deferred resignation program federal workers",
+          "query": "morgan freeman",
           "rank": 19
         },
         {
-          "query": "metallica",
+          "query": "grand theft auto vi",
           "rank": 20
         },
         {
-          "query": "bailee lynn rios",
+          "query": "1970s",
           "rank": 21
         },
         {
-          "query": "prince harry meghan markle uk move",
+          "query": "betis vs getafe",
           "rank": 22
         },
         {
-          "query": "jelly roll",
+          "query": "sienna miller",
           "rank": 23
         },
         {
-          "query": "kelly osbourne",
+          "query": "shooting",
           "rank": 24
         },
         {
-          "query": "tyler chambers washington land dispute",
+          "query": "halle berry",
           "rank": 25
         }
       ]

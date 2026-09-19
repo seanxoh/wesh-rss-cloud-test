@@ -6,222 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-09-18T20:53:16.456Z",
-  "runId": "35393850344",
+  "capturedAt": "2026-09-19T04:35:55.878Z",
+  "runId": "35421712160",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 174400200,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-09-17",
+      "sourceDate": "2026-09-18",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "how do i register to vote",
+          "query": "barcelona vs racing santander",
           "rank": 1
         },
         {
-          "query": "elche vs real madrid",
+          "query": "barcelona racing de santander",
           "rank": 2
         },
         {
-          "query": "barcelona racing de santander",
+          "query": "helicopter crash",
           "rank": 3
         },
         {
-          "query": "elche c. f. real madrid",
+          "query": "widener",
           "rank": 4
         },
         {
-          "query": "helicopter crash",
+          "query": "borat",
           "rank": 5
         },
         {
-          "query": "borat",
+          "query": "wadsworth",
           "rank": 6
         },
         {
-          "query": "widener",
+          "query": "inter miami vs cruz azul",
           "rank": 7
         },
         {
-          "query": "wadsworth",
+          "query": "man utd vs brighton",
           "rank": 8
         },
         {
-          "query": "cómo me registro para votar",
+          "query": "inter miami",
           "rank": 9
         },
         {
-          "query": "emmy winners 2026",
+          "query": "lizzie borden",
           "rank": 10
         },
         {
-          "query": "yankees vs twins",
+          "query": "julia stiles",
           "rank": 11
         },
         {
-          "query": "man utd vs brighton",
+          "query": "lions vs bills",
           "rank": 12
         },
         {
-          "query": "matthew rhys",
+          "query": "theta",
           "rank": 13
         },
         {
-          "query": "drake fomo",
+          "query": "red sox vs rangers",
           "rank": 14
         },
         {
-          "query": "widows bay",
+          "query": "thursday night football",
           "rank": 15
         },
         {
-          "query": "ed sheeran",
+          "query": "royals vs astros",
           "rank": 16
         },
         {
-          "query": "dancing with the stars",
+          "query": "brewers vs pirates",
           "rank": 17
         },
         {
-          "query": "braves vs cubs",
+          "query": "drake fomo",
           "rank": 18
         },
         {
-          "query": "white sox vs guardians",
+          "query": "barcelona",
           "rank": 19
         },
         {
-          "query": "tigers vs blue jays",
+          "query": "dancing with the stars",
           "rank": 20
         },
         {
-          "query": "broncos vs chiefs",
+          "query": "brewers",
           "rank": 21
         },
         {
-          "query": "kaley cuoco",
+          "query": "astros",
           "rank": 22
         },
         {
-          "query": "macklemore",
+          "query": "resident evil movie",
           "rank": 23
         },
         {
-          "query": "orioles vs mets",
+          "query": "ed sheeran",
           "rank": 24
         },
         {
-          "query": "the beast in me",
+          "query": "yankees vs twins",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-09-17",
+      "sourceDate": "2026-09-18",
       "table": "top_terms",
       "terms": [
         {
-          "query": "man city vs norwich city",
+          "query": "brentford vs chelsea",
           "rank": 1
         },
         {
-          "query": "asteroid",
+          "query": "bayern vs union berlin",
           "rank": 2
         },
         {
-          "query": "real sociedad vs bournemouth",
+          "query": "amazon settlement",
           "rank": 3
         },
         {
-          "query": "millie bobby brown",
+          "query": "social security administration 2027 adjustment",
           "rank": 4
         },
         {
-          "query": "bills vs lions",
+          "query": "barely breathing",
           "rank": 5
         },
         {
-          "query": "tiger cat",
+          "query": "alavés gloriosas - barcelona",
           "rank": 6
         },
         {
-          "query": "juventus vs nec",
+          "query": "espanyol vs elche",
           "rank": 7
         },
         {
-          "query": "málaga - villarreal",
+          "query": "prince harry return uk interview",
           "rank": 8
         },
         {
-          "query": "debby ryan brain injury",
+          "query": "bayern munich vs union berlin standings",
           "rank": 9
         },
         {
-          "query": "tay keith",
+          "query": "rcd espanyol - elche c. f.",
           "rank": 10
         },
         {
-          "query": "lizzie borden netflix",
+          "query": "frankie muniz",
           "rank": 11
         },
         {
-          "query": "sway",
+          "query": "national cheeseburger day 2026",
           "rank": 12
         },
         {
-          "query": "michael sweetney",
+          "query": "traitors cast",
           "rank": 13
         },
         {
-          "query": "steve belichick",
+          "query": "monaco vs lens",
           "rank": 14
         },
         {
-          "query": "palace vs lech poznań",
+          "query": "data center bill",
           "rank": 15
         },
         {
-          "query": "beach hazards statement",
+          "query": "warren buffett",
           "rank": 16
         },
         {
-          "query": "brain eating amoeba",
+          "query": "politico",
           "rank": 17
         },
         {
-          "query": "real betis - getafe",
+          "query": "control resonant",
           "rank": 18
         },
         {
-          "query": "morgan freeman",
+          "query": "tornado warning",
           "rank": 19
         },
         {
-          "query": "grand theft auto vi",
+          "query": "iranians rally",
           "rank": 20
         },
         {
-          "query": "1970s",
+          "query": "mets baseball",
           "rank": 21
         },
         {
-          "query": "betis vs getafe",
+          "query": "irgc captured american underwater drone",
           "rank": 22
         },
         {
-          "query": "sienna miller",
+          "query": "oswaldo cabrera",
           "rank": 23
         },
         {
-          "query": "shooting",
+          "query": "gta 6 online",
           "rank": 24
         },
         {
-          "query": "halle berry",
+          "query": "on",
           "rank": 25
         }
       ]

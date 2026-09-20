@@ -6,222 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-09-19T20:38:11.290Z",
-  "runId": "35467988510",
+  "capturedAt": "2026-09-20T04:52:31.485Z",
+  "runId": "35490225336",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 166343130,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-09-18",
+      "sourceDate": "2026-09-19",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "barcelona vs racing santander",
+          "query": "lions vs bills",
           "rank": 1
         },
         {
-          "query": "barcelona racing de santander",
+          "query": "duncan sheik",
           "rank": 2
         },
         {
-          "query": "helicopter crash",
+          "query": "lions bills",
           "rank": 3
         },
         {
-          "query": "widener",
+          "query": "omni aviacao insolvency process",
           "rank": 4
         },
         {
-          "query": "borat",
+          "query": "dj moore",
           "rank": 5
         },
         {
-          "query": "wadsworth",
+          "query": "man city vs norwich city",
           "rank": 6
         },
         {
-          "query": "inter miami vs cruz azul",
+          "query": "bills game",
           "rank": 7
         },
         {
-          "query": "man utd vs brighton",
+          "query": "lions",
           "rank": 8
         },
         {
-          "query": "inter miami",
+          "query": "bills",
           "rank": 9
         },
         {
-          "query": "lizzie borden",
+          "query": "theta",
           "rank": 10
         },
         {
-          "query": "julia stiles",
+          "query": "lizzie borden",
           "rank": 11
         },
         {
-          "query": "lions vs bills",
+          "query": "buffalo bills",
           "rank": 12
         },
         {
-          "query": "theta",
+          "query": "lizzie borden netflix",
           "rank": 13
         },
         {
-          "query": "red sox vs rangers",
+          "query": "thursday night football",
           "rank": 14
         },
         {
-          "query": "thursday night football",
+          "query": "detroit lions",
           "rank": 15
         },
         {
-          "query": "royals vs astros",
+          "query": "maura higgins",
           "rank": 16
         },
         {
-          "query": "brewers vs pirates",
+          "query": "inter miami",
           "rank": 17
         },
         {
-          "query": "drake fomo",
+          "query": "five guys",
           "rank": 18
         },
         {
-          "query": "barcelona",
+          "query": "julia stiles",
           "rank": 19
         },
         {
-          "query": "dancing with the stars",
+          "query": "resident evil movie",
           "rank": 20
         },
         {
-          "query": "brewers",
+          "query": "wnba",
           "rank": 21
         },
         {
-          "query": "astros",
+          "query": "resident evil",
           "rank": 22
         },
         {
-          "query": "resident evil movie",
+          "query": "astros",
           "rank": 23
         },
         {
-          "query": "ed sheeran",
+          "query": "nfl games today",
           "rank": 24
         },
         {
-          "query": "yankees vs twins",
+          "query": "phillies",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-09-18",
+      "sourceDate": "2026-09-19",
       "table": "top_terms",
       "terms": [
         {
-          "query": "brentford vs chelsea",
+          "query": "clemson football",
           "rank": 1
         },
         {
-          "query": "bayern vs union berlin",
+          "query": "utep",
           "rank": 2
         },
         {
-          "query": "amazon settlement",
+          "query": "vanderbilt football",
           "rank": 3
         },
         {
-          "query": "social security administration 2027 adjustment",
+          "query": "alabama football",
           "rank": 4
         },
         {
-          "query": "barely breathing",
+          "query": "barcelona",
           "rank": 5
         },
         {
-          "query": "alavés gloriosas - barcelona",
+          "query": "south carolina football",
           "rank": 6
         },
         {
-          "query": "espanyol vs elche",
+          "query": "sevilla vs barcelona",
           "rank": 7
         },
         {
-          "query": "prince harry return uk interview",
+          "query": "texas a&m football",
           "rank": 8
         },
         {
-          "query": "bayern munich vs union berlin standings",
+          "query": "clemson football schedule",
           "rank": 9
         },
         {
-          "query": "rcd espanyol - elche c. f.",
+          "query": "rutgers football",
           "rank": 10
         },
         {
-          "query": "frankie muniz",
+          "query": "iu football",
           "rank": 11
         },
         {
-          "query": "national cheeseburger day 2026",
+          "query": "illinois football",
           "rank": 12
         },
         {
-          "query": "traitors cast",
+          "query": "georgia vs arkansas",
           "rank": 13
         },
         {
-          "query": "monaco vs lens",
+          "query": "raphinha",
           "rank": 14
         },
         {
-          "query": "data center bill",
+          "query": "ufc tonight",
           "rank": 15
         },
         {
-          "query": "warren buffett",
+          "query": "ole miss lsu",
           "rank": 16
         },
         {
-          "query": "politico",
+          "query": "kent state vs ohio state",
           "rank": 17
         },
         {
-          "query": "control resonant",
+          "query": "giga chikadze",
           "rank": 18
         },
         {
-          "query": "tornado warning",
+          "query": "smu vs louisville",
           "rank": 19
         },
         {
-          "query": "iranians rally",
+          "query": "umass football",
           "rank": 20
         },
         {
-          "query": "mets baseball",
+          "query": "cincinnati football",
           "rank": 21
         },
         {
-          "query": "irgc captured american underwater drone",
+          "query": "mn gopher football",
           "rank": 22
         },
         {
-          "query": "oswaldo cabrera",
+          "query": "new york times",
           "rank": 23
         },
         {
-          "query": "gta 6 online",
+          "query": "arizona state football",
           "rank": 24
         },
         {
-          "query": "on",
+          "query": "toledo football",
           "rank": 25
         }
       ]

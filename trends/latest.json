@@ -6,222 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-09-20T20:47:33.076Z",
-  "runId": "35536660666",
+  "capturedAt": "2026-09-21T04:53:22.328Z",
+  "runId": "35562551064",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 164119420,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-09-19",
+      "sourceDate": "2026-09-20",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "lions vs bills",
+          "query": "fever vs tempo",
           "rank": 1
         },
         {
-          "query": "duncan sheik",
+          "query": "miami fl vs wake forest",
           "rank": 2
         },
         {
-          "query": "lions bills",
+          "query": "duncan sheik",
           "rank": 3
         },
         {
-          "query": "omni aviacao insolvency process",
+          "query": "brentford vs chelsea",
           "rank": 4
         },
         {
-          "query": "dj moore",
+          "query": "houston vs texas tech",
           "rank": 5
         },
         {
-          "query": "man city vs norwich city",
+          "query": "dj moore",
           "rank": 6
         },
         {
-          "query": "bills game",
+          "query": "brewers vs orioles",
           "rank": 7
         },
         {
-          "query": "lions",
+          "query": "bayern vs union berlin",
           "rank": 8
         },
         {
-          "query": "bills",
+          "query": "yankees vs diamondbacks",
           "rank": 9
         },
         {
-          "query": "theta",
+          "query": "texas tech football",
           "rank": 10
         },
         {
-          "query": "lizzie borden",
+          "query": "lions vs bills",
           "rank": 11
         },
         {
-          "query": "buffalo bills",
+          "query": "college football scores",
           "rank": 12
         },
         {
-          "query": "lizzie borden netflix",
+          "query": "clemson football",
           "rank": 13
         },
         {
-          "query": "thursday night football",
+          "query": "tigers vs white sox",
           "rank": 14
         },
         {
-          "query": "detroit lions",
+          "query": "miami hurricanes football",
           "rank": 15
         },
         {
-          "query": "maura higgins",
+          "query": "josh allen",
           "rank": 16
         },
         {
-          "query": "inter miami",
+          "query": "lions bills",
           "rank": 17
         },
         {
-          "query": "five guys",
+          "query": "ncaa football",
           "rank": 18
         },
         {
-          "query": "julia stiles",
+          "query": "lizzie borden",
           "rank": 19
         },
         {
-          "query": "resident evil movie",
+          "query": "alabama football",
           "rank": 20
         },
         {
-          "query": "wnba",
+          "query": "new cat species",
           "rank": 21
         },
         {
-          "query": "resident evil",
+          "query": "nfl scores",
           "rank": 22
         },
         {
-          "query": "astros",
+          "query": "bills",
           "rank": 23
         },
         {
-          "query": "nfl games today",
+          "query": "oregon football",
           "rank": 24
         },
         {
-          "query": "phillies",
+          "query": "lions",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-09-19",
+      "sourceDate": "2026-09-20",
       "table": "top_terms",
       "terms": [
         {
-          "query": "clemson football",
+          "query": "caleb williams",
           "rank": 1
         },
         {
-          "query": "utep",
+          "query": "browns",
           "rank": 2
         },
         {
-          "query": "vanderbilt football",
+          "query": "packers",
           "rank": 3
         },
         {
-          "query": "alabama football",
+          "query": "steelers",
           "rank": 4
         },
         {
-          "query": "barcelona",
+          "query": "eagles",
           "rank": 5
         },
         {
-          "query": "south carolina football",
+          "query": "ravens",
           "rank": 6
         },
         {
-          "query": "sevilla vs barcelona",
+          "query": "cowboys",
           "rank": 7
         },
         {
-          "query": "texas a&m football",
+          "query": "raiders",
           "rank": 8
         },
         {
-          "query": "clemson football schedule",
+          "query": "chad gilbert",
           "rank": 9
         },
         {
-          "query": "rutgers football",
+          "query": "49ers",
           "rank": 10
         },
         {
-          "query": "iu football",
+          "query": "nfl scores today",
           "rank": 11
         },
         {
-          "query": "illinois football",
+          "query": "saquon barkley",
           "rank": 12
         },
         {
-          "query": "georgia vs arkansas",
+          "query": "jayden reed",
           "rank": 13
         },
         {
-          "query": "raphinha",
+          "query": "texans",
           "rank": 14
         },
         {
-          "query": "ufc tonight",
+          "query": "falcons",
           "rank": 15
         },
         {
-          "query": "ole miss lsu",
+          "query": "eagles vs titans",
           "rank": 16
         },
         {
-          "query": "kent state vs ohio state",
+          "query": "seahawks vs cardinals",
           "rank": 17
         },
         {
-          "query": "giga chikadze",
+          "query": "patrick clancy",
           "rank": 18
         },
         {
-          "query": "smu vs louisville",
+          "query": "jaguars vs broncos",
           "rank": 19
         },
         {
-          "query": "umass football",
+          "query": "bengals vs texans",
           "rank": 20
         },
         {
-          "query": "cincinnati football",
+          "query": "indiana fever",
           "rank": 21
         },
         {
-          "query": "mn gopher football",
+          "query": "espn",
           "rank": 22
         },
         {
-          "query": "new york times",
+          "query": "yom kippur",
           "rank": 23
         },
         {
-          "query": "arizona state football",
+          "query": "kate beckinsale",
           "rank": 24
         },
         {
-          "query": "toledo football",
+          "query": "vikings schedule",
           "rank": 25
         }
       ]

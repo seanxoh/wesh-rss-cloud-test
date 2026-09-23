@@ -6,222 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-09-22T21:17:10.901Z",
-  "runId": "35785673067",
+  "capturedAt": "2026-09-23T04:43:26.990Z",
+  "runId": "35819478372",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 174573220,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-09-20",
+      "sourceDate": "2026-09-22",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "fever vs tempo",
+          "query": "presley gerber",
           "rank": 1
         },
         {
-          "query": "miami fl vs wake forest",
+          "query": "caleb williams injury",
           "rank": 2
         },
         {
-          "query": "duncan sheik",
+          "query": "cindy crawford",
           "rank": 3
         },
         {
-          "query": "brentford vs chelsea",
+          "query": "caleb williams",
           "rank": 4
         },
         {
-          "query": "houston vs texas tech",
+          "query": "jayden daniels injury",
           "rank": 5
         },
         {
-          "query": "dj moore",
+          "query": "colts vs chiefs",
           "rank": 6
         },
         {
-          "query": "brewers vs orioles",
+          "query": "chad gilbert",
           "rank": 7
         },
         {
-          "query": "bayern vs union berlin",
+          "query": "colts",
           "rank": 8
         },
         {
-          "query": "yankees vs diamondbacks",
+          "query": "monday night football",
           "rank": 9
         },
         {
-          "query": "texas tech football",
+          "query": "chiefs game",
           "rank": 10
         },
         {
-          "query": "lions vs bills",
+          "query": "cowboys game",
           "rank": 11
         },
         {
-          "query": "college football scores",
+          "query": "tampa bay buccaneers",
           "rank": 12
         },
         {
-          "query": "clemson football",
+          "query": "trinidad chambliss",
           "rank": 13
         },
         {
-          "query": "tigers vs white sox",
+          "query": "chiefs",
           "rank": 14
         },
         {
-          "query": "miami hurricanes football",
+          "query": "commanders vs cowboys",
           "rank": 15
         },
         {
-          "query": "josh allen",
+          "query": "kansas city chiefs",
           "rank": 16
         },
         {
-          "query": "lions bills",
+          "query": "nfl scores today",
           "rank": 17
         },
         {
-          "query": "ncaa football",
+          "query": "cleveland browns",
           "rank": 18
         },
         {
-          "query": "lizzie borden",
+          "query": "chivas vs america",
           "rank": 19
         },
         {
-          "query": "alabama football",
+          "query": "eagles vs titans",
           "rank": 20
         },
         {
-          "query": "new cat species",
+          "query": "browns",
           "rank": 21
         },
         {
-          "query": "nfl scores",
+          "query": "kc chiefs",
           "rank": 22
         },
         {
-          "query": "bills",
+          "query": "dolphins vs 49ers",
           "rank": 23
         },
         {
-          "query": "oregon football",
+          "query": "vikings vs bears",
           "rank": 24
         },
         {
-          "query": "lions",
+          "query": "steelers game",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-09-20",
+      "sourceDate": "2026-09-22",
       "table": "top_terms",
       "terms": [
         {
-          "query": "caleb williams",
+          "query": "rays vs yankees",
           "rank": 1
         },
         {
-          "query": "browns",
+          "query": "measles",
           "rank": 2
         },
         {
-          "query": "packers",
+          "query": "taylor swift",
           "rank": 3
         },
         {
-          "query": "steelers",
+          "query": "kratom",
           "rank": 4
         },
         {
-          "query": "eagles",
+          "query": "walmart pasta listeria recall",
           "rank": 5
         },
         {
-          "query": "ravens",
+          "query": "states passing daylight saving laws",
           "rank": 6
         },
         {
-          "query": "cowboys",
+          "query": "amazon ftc prime settlement update",
           "rank": 7
         },
         {
-          "query": "raiders",
+          "query": "brewers vs phillies",
           "rank": 8
         },
         {
-          "query": "chad gilbert",
+          "query": "opus 5.5",
           "rank": 9
         },
         {
-          "query": "49ers",
+          "query": "alprazolam",
           "rank": 10
         },
         {
-          "query": "nfl scores today",
+          "query": "case keenum",
           "rank": 11
         },
         {
-          "query": "saquon barkley",
+          "query": "beats 360",
           "rank": 12
         },
         {
-          "query": "jayden reed",
+          "query": "guardians vs red sox",
           "rank": 13
         },
         {
-          "query": "texans",
+          "query": "ashley padilla",
           "rank": 14
         },
         {
-          "query": "falcons",
+          "query": "cychlorphine",
           "rank": 15
         },
         {
-          "query": "eagles vs titans",
+          "query": "is today the first day of fall",
           "rank": 16
         },
         {
-          "query": "seahawks vs cardinals",
+          "query": "cardinals vs pirates",
           "rank": 17
         },
         {
-          "query": "patrick clancy",
+          "query": "muse",
           "rank": 18
         },
         {
-          "query": "jaguars vs broncos",
+          "query": "susan collins",
           "rank": 19
         },
         {
-          "query": "bengals vs texans",
+          "query": "stoke",
           "rank": 20
         },
         {
-          "query": "indiana fever",
+          "query": "dairy queen oreo halloween blizzard",
           "rank": 21
         },
         {
-          "query": "espn",
+          "query": "saturday night live",
           "rank": 22
         },
         {
-          "query": "yom kippur",
+          "query": "brandin cooks",
           "rank": 23
         },
         {
-          "query": "kate beckinsale",
+          "query": "utah postal worker discarded ballots",
           "rank": 24
         },
         {
-          "query": "vikings schedule",
+          "query": "why was dolly parton's nephew bryan seaver fired from his security role",
           "rank": 25
         }
       ]

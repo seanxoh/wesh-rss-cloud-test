@@ -6,222 +6,218 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-09-24T21:29:49.128Z",
-  "runId": "36061820765",
+  "capturedAt": "2026-09-25T04:55:41.759Z",
+  "runId": "36096416274",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 166466678,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-09-22",
+      "sourceDate": "2026-09-24",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "presley gerber",
+          "query": "latin pop",
           "rank": 1
         },
         {
-          "query": "caleb williams injury",
+          "query": "suriname",
           "rank": 2
         },
         {
-          "query": "cindy crawford",
+          "query": "hurricane polo",
           "rank": 3
         },
         {
-          "query": "caleb williams",
+          "query": "rays vs yankees",
           "rank": 4
         },
         {
-          "query": "jayden daniels injury",
+          "query": "chris spatola",
           "rank": 5
         },
         {
-          "query": "colts vs chiefs",
+          "query": "brewers vs phillies",
           "rank": 6
         },
         {
-          "query": "chad gilbert",
+          "query": "lynx vs fever",
           "rank": 7
         },
         {
-          "query": "colts",
+          "query": "best coffee grinder",
           "rank": 8
         },
         {
-          "query": "monday night football",
+          "query": "french singer catherine ringer",
           "rank": 9
         },
         {
-          "query": "chiefs game",
+          "query": "jaxson dart injury",
           "rank": 10
         },
         {
-          "query": "cowboys game",
+          "query": "jaxson dart",
           "rank": 11
         },
         {
-          "query": "tampa bay buccaneers",
+          "query": "marlins vs cubs",
           "rank": 12
         },
         {
-          "query": "trinidad chambliss",
+          "query": "clavicular",
           "rank": 13
         },
         {
-          "query": "chiefs",
+          "query": "tiempo de mañana",
           "rank": 14
         },
         {
-          "query": "commanders vs cowboys",
+          "query": "padres vs dodgers",
           "rank": 15
         },
         {
-          "query": "kansas city chiefs",
+          "query": "paywall",
           "rank": 16
         },
         {
-          "query": "nfl scores today",
+          "query": "pop latino",
           "rank": 17
         },
         {
-          "query": "cleveland browns",
+          "query": "rub a dub",
           "rank": 18
         },
         {
-          "query": "chivas vs america",
+          "query": "kratom",
           "rank": 19
         },
         {
-          "query": "eagles vs titans",
+          "query": "jaxon dart",
           "rank": 20
         },
         {
-          "query": "browns",
+          "query": "weather tomorrow",
           "rank": 21
         },
         {
-          "query": "kc chiefs",
+          "query": "twins vs giants",
           "rank": 22
         },
         {
-          "query": "dolphins vs 49ers",
+          "query": "captcha meaning",
           "rank": 23
         },
         {
-          "query": "vikings vs bears",
+          "query": "lonzo ball",
           "rank": 24
         },
         {
-          "query": "steelers game",
+          "query": "nationals vs tigers",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-09-22",
+      "sourceDate": "2026-09-24",
       "table": "top_terms",
       "terms": [
         {
-          "query": "rays vs yankees",
+          "query": "jonathan taylor thomas",
           "rank": 1
         },
         {
-          "query": "measles",
+          "query": "dream vs liberty",
           "rank": 2
         },
         {
-          "query": "taylor swift",
+          "query": "love hypothesis",
           "rank": 3
         },
         {
-          "query": "kratom",
-          "rank": 4
-        },
-        {
-          "query": "walmart pasta listeria recall",
+          "query": "congressional budget office social security projection",
           "rank": 5
         },
         {
-          "query": "states passing daylight saving laws",
+          "query": "woody harrelson",
           "rank": 6
         },
         {
-          "query": "amazon ftc prime settlement update",
+          "query": "finian shea johnson",
           "rank": 7
         },
         {
-          "query": "brewers vs phillies",
+          "query": "survivor",
           "rank": 8
         },
         {
-          "query": "opus 5.5",
+          "query": "wings vs storm",
           "rank": 9
         },
         {
-          "query": "alprazolam",
+          "query": "meta vr glasses",
           "rank": 10
         },
         {
-          "query": "case keenum",
+          "query": "you can see everything",
           "rank": 11
         },
         {
-          "query": "beats 360",
+          "query": "gregg popovich",
           "rank": 12
         },
         {
-          "query": "guardians vs red sox",
+          "query": "blue jays vs orioles",
           "rank": 13
         },
         {
-          "query": "ashley padilla",
+          "query": "joe flacco",
           "rank": 14
         },
         {
-          "query": "cychlorphine",
+          "query": "theranos",
           "rank": 15
         },
         {
-          "query": "is today the first day of fall",
+          "query": "white sox",
           "rank": 16
         },
         {
-          "query": "cardinals vs pirates",
+          "query": "diamondbacks vs rockies",
           "rank": 17
         },
         {
-          "query": "muse",
+          "query": "harvey weinstein",
           "rank": 18
         },
         {
-          "query": "susan collins",
+          "query": "donald trump approval rating 29 percent",
           "rank": 19
         },
         {
-          "query": "stoke",
+          "query": "darrell waltrip",
           "rank": 20
         },
         {
-          "query": "dairy queen oreo halloween blizzard",
+          "query": "carnival panorama",
           "rank": 21
         },
         {
-          "query": "saturday night live",
+          "query": "lioness season 4",
           "rank": 22
         },
         {
-          "query": "brandin cooks",
+          "query": "jason landry",
           "rank": 23
         },
         {
-          "query": "utah postal worker discarded ballots",
+          "query": "fafsa",
           "rank": 24
         },
         {
-          "query": "why was dolly parton's nephew bryan seaver fired from his security role",
+          "query": "sailor",
           "rank": 25
         }
       ]

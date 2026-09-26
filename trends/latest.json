@@ -6,15 +6,15 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-09-25T21:33:44.452Z",
-  "runId": "36192203627",
+  "capturedAt": "2026-09-26T04:56:27.300Z",
+  "runId": "36219305962",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 162250128,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-09-24",
+      "sourceDate": "2026-09-25",
       "table": "top_rising_terms",
       "terms": [
         {
@@ -26,198 +26,194 @@
           "rank": 2
         },
         {
-          "query": "hurricane polo",
+          "query": "portugal vs wales",
           "rank": 3
         },
         {
-          "query": "rays vs yankees",
+          "query": "best coffee grinder",
           "rank": 4
         },
         {
-          "query": "chris spatola",
+          "query": "norway vs denmark",
           "rank": 5
         },
         {
-          "query": "brewers vs phillies",
+          "query": "chris spatola",
           "rank": 6
         },
         {
-          "query": "lynx vs fever",
+          "query": "creation of adam",
           "rank": 7
         },
         {
-          "query": "best coffee grinder",
+          "query": "padres vs dodgers",
           "rank": 8
         },
         {
-          "query": "french singer catherine ringer",
+          "query": "pop latino",
           "rank": 9
         },
         {
-          "query": "jaxson dart injury",
+          "query": "netherlands vs germany",
           "rank": 10
         },
         {
-          "query": "jaxson dart",
+          "query": "jonathan taylor thomas",
           "rank": 11
         },
         {
-          "query": "marlins vs cubs",
+          "query": "portugal gales",
           "rank": 12
         },
         {
-          "query": "clavicular",
+          "query": "tiempo de mañana",
           "rank": 13
         },
         {
-          "query": "tiempo de mañana",
+          "query": "south korea vs ecuador",
           "rank": 14
         },
         {
-          "query": "padres vs dodgers",
+          "query": "weather tomorrow",
           "rank": 15
         },
         {
-          "query": "paywall",
+          "query": "tucker wetmore",
           "rank": 16
         },
         {
-          "query": "pop latino",
+          "query": "paywall",
           "rank": 17
         },
         {
-          "query": "rub a dub",
+          "query": "falcons vs packers",
           "rank": 18
         },
         {
-          "query": "kratom",
+          "query": "elizabeth holmes",
           "rank": 19
         },
         {
-          "query": "jaxon dart",
+          "query": "corea del sur ecuador",
           "rank": 20
         },
         {
-          "query": "weather tomorrow",
+          "query": "thursday night football",
           "rank": 21
         },
         {
-          "query": "twins vs giants",
+          "query": "the love hypothesis",
           "rank": 22
         },
         {
-          "query": "captcha meaning",
+          "query": "rub-a-dub",
           "rank": 23
         },
         {
-          "query": "lonzo ball",
+          "query": "marlins vs cubs",
           "rank": 24
         },
         {
-          "query": "nationals vs tigers",
+          "query": "nations league",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-09-24",
+      "sourceDate": "2026-09-25",
       "table": "top_terms",
       "terms": [
         {
-          "query": "jonathan taylor thomas",
-          "rank": 1
-        },
-        {
-          "query": "dream vs liberty",
+          "query": "falcons",
           "rank": 2
         },
         {
-          "query": "love hypothesis",
+          "query": "fever vs lynx",
           "rank": 3
         },
         {
-          "query": "congressional budget office social security projection",
+          "query": "patient zero lyrics",
+          "rank": 4
+        },
+        {
+          "query": "benjamin netanyahu",
           "rank": 5
         },
         {
-          "query": "woody harrelson",
+          "query": "wind advisory",
           "rank": 6
         },
         {
-          "query": "finian shea johnson",
-          "rank": 7
-        },
-        {
-          "query": "survivor",
+          "query": "brian robinson jr.",
           "rank": 8
         },
         {
-          "query": "wings vs storm",
+          "query": "astros vs athletics",
           "rank": 9
         },
         {
-          "query": "meta vr glasses",
+          "query": "angels vs mariners",
           "rank": 10
         },
         {
-          "query": "you can see everything",
+          "query": "pink clouding lyrics",
           "rank": 11
         },
         {
-          "query": "gregg popovich",
+          "query": "kelly clarkson new short haircut",
           "rank": 12
         },
         {
-          "query": "blue jays vs orioles",
+          "query": "padres",
           "rank": 13
         },
         {
-          "query": "joe flacco",
+          "query": "babylon lyrics",
           "rank": 14
         },
         {
-          "query": "theranos",
+          "query": "bankruptcy",
           "rank": 15
         },
         {
-          "query": "white sox",
+          "query": "mark carney donald trump canada",
           "rank": 16
         },
         {
-          "query": "diamondbacks vs rockies",
+          "query": "cleveland lyrics",
           "rank": 17
         },
         {
-          "query": "harvey weinstein",
+          "query": "valkyries vs sparks",
           "rank": 18
         },
         {
-          "query": "donald trump approval rating 29 percent",
+          "query": "ahs 13",
           "rank": 19
         },
         {
-          "query": "darrell waltrip",
+          "query": "bob pettit",
           "rank": 20
         },
         {
-          "query": "carnival panorama",
+          "query": "aykroyd",
           "rank": 21
         },
         {
-          "query": "lioness season 4",
+          "query": "chris hansen",
           "rank": 22
         },
         {
-          "query": "jason landry",
+          "query": "matthew golden",
           "rank": 23
         },
         {
-          "query": "fafsa",
+          "query": "teacher",
           "rank": 24
         },
         {
-          "query": "sailor",
+          "query": "fulton sheen",
           "rank": 25
         }
       ]

@@ -6,31 +6,31 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-09-26T21:08:35.867Z",
-  "runId": "36271902834",
+  "capturedAt": "2026-09-27T05:16:43.568Z",
+  "runId": "36296731175",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 162359748,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-09-25",
+      "sourceDate": "2026-09-26",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "latin pop",
+          "query": "falcons vs packers",
           "rank": 1
         },
         {
-          "query": "suriname",
+          "query": "copse",
           "rank": 2
         },
         {
-          "query": "portugal vs wales",
+          "query": "foamily",
           "rank": 3
         },
         {
-          "query": "best coffee grinder",
+          "query": "portugal vs wales",
           "rank": 4
         },
         {
@@ -38,182 +38,182 @@
           "rank": 5
         },
         {
-          "query": "chris spatola",
+          "query": "creation of adam",
           "rank": 6
         },
         {
-          "query": "creation of adam",
+          "query": "netherlands vs germany",
           "rank": 7
         },
         {
-          "query": "padres vs dodgers",
+          "query": "copse definition",
           "rank": 8
         },
         {
-          "query": "pop latino",
+          "query": "australia vs brazil",
           "rank": 9
         },
         {
-          "query": "netherlands vs germany",
+          "query": "escapement",
           "rank": 10
         },
         {
-          "query": "jonathan taylor thomas",
+          "query": "türkiye vs france",
           "rank": 11
         },
         {
-          "query": "portugal gales",
+          "query": "wind advisory",
           "rank": 12
         },
         {
-          "query": "tiempo de mañana",
+          "query": "falcons",
           "rank": 13
         },
         {
-          "query": "south korea vs ecuador",
+          "query": "aykroyd",
           "rank": 14
         },
         {
-          "query": "weather tomorrow",
+          "query": "packers",
           "rank": 15
         },
         {
-          "query": "tucker wetmore",
+          "query": "cubs vs red sox",
           "rank": 16
         },
         {
-          "query": "paywall",
+          "query": "packers game",
           "rank": 17
         },
         {
-          "query": "falcons vs packers",
+          "query": "bijan robinson",
           "rank": 18
         },
         {
-          "query": "elizabeth holmes",
+          "query": "beer hat",
           "rank": 19
         },
         {
-          "query": "corea del sur ecuador",
+          "query": "patient zero lyrics",
           "rank": 20
         },
         {
-          "query": "thursday night football",
+          "query": "green bay packers",
           "rank": 21
         },
         {
-          "query": "the love hypothesis",
+          "query": "thursday night football",
           "rank": 22
         },
         {
-          "query": "rub-a-dub",
+          "query": "national daughters day 2026",
           "rank": 23
         },
         {
-          "query": "marlins vs cubs",
+          "query": "orioles vs yankees",
           "rank": 24
         },
         {
-          "query": "nations league",
+          "query": "swank",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-09-25",
+      "sourceDate": "2026-09-26",
       "table": "top_terms",
       "terms": [
         {
-          "query": "falcons",
+          "query": "northwestern vs indiana",
+          "rank": 1
+        },
+        {
+          "query": "dodgers vs giants",
           "rank": 2
         },
         {
-          "query": "fever vs lynx",
+          "query": "clemson vs california",
           "rank": 3
         },
         {
-          "query": "patient zero lyrics",
+          "query": "unabomber",
           "rank": 4
         },
         {
-          "query": "benjamin netanyahu",
-          "rank": 5
-        },
-        {
-          "query": "wind advisory",
+          "query": "guardians vs royals",
           "rank": 6
         },
         {
-          "query": "brian robinson jr.",
+          "query": "tijuana - atlas",
+          "rank": 7
+        },
+        {
+          "query": "diamondbacks vs padres",
           "rank": 8
         },
         {
-          "query": "astros vs athletics",
-          "rank": 9
-        },
-        {
-          "query": "angels vs mariners",
+          "query": "atlante - monterrey",
           "rank": 10
         },
         {
-          "query": "pink clouding lyrics",
+          "query": "nigella lawson",
           "rank": 11
         },
         {
-          "query": "kelly clarkson new short haircut",
+          "query": "cardinals vs brewers",
           "rank": 12
         },
         {
-          "query": "padres",
+          "query": "coastal flood warning",
           "rank": 13
         },
         {
-          "query": "babylon lyrics",
+          "query": "rockies vs white sox",
           "rank": 14
         },
         {
-          "query": "bankruptcy",
+          "query": "刘欢",
           "rank": 15
         },
         {
-          "query": "mark carney donald trump canada",
+          "query": "rangers vs twins",
           "rank": 16
         },
         {
-          "query": "cleveland lyrics",
+          "query": "pirates vs tigers",
           "rank": 17
         },
         {
-          "query": "valkyries vs sparks",
+          "query": "rays vs phillies",
           "rank": 18
         },
         {
-          "query": "ahs 13",
+          "query": "chip kelly",
           "rank": 19
         },
         {
-          "query": "bob pettit",
+          "query": "navy football",
           "rank": 20
         },
         {
-          "query": "aykroyd",
+          "query": "el salvador vs martinique",
           "rank": 21
         },
         {
-          "query": "chris hansen",
+          "query": "fred astaire",
           "rank": 22
         },
         {
-          "query": "matthew golden",
+          "query": "nick bosa",
           "rank": 23
         },
         {
-          "query": "teacher",
+          "query": "olivia rodrigo tour",
           "rank": 24
         },
         {
-          "query": "fulton sheen",
+          "query": "cornell university",
           "rank": 25
         }
       ]

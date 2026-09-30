@@ -6,214 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-09-29T22:13:37.213Z",
-  "runId": "36638276699",
+  "capturedAt": "2026-09-30T05:30:29.433Z",
+  "runId": "36673710424",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 178369600,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-09-26",
+      "sourceDate": "2026-09-29",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "falcons vs packers",
+          "query": "google's birthday",
           "rank": 1
         },
         {
-          "query": "copse",
+          "query": "dante moore",
           "rank": 2
         },
         {
-          "query": "foamily",
+          "query": "rams vs broncos",
           "rank": 3
         },
         {
-          "query": "portugal vs wales",
+          "query": "chiefs vs dolphins",
           "rank": 4
         },
         {
-          "query": "norway vs denmark",
+          "query": "seahawks vs commanders",
           "rank": 5
         },
         {
-          "query": "creation of adam",
+          "query": "cardinals vs 49ers",
           "rank": 6
         },
         {
-          "query": "netherlands vs germany",
+          "query": "mignonette",
           "rank": 7
         },
         {
-          "query": "copse definition",
+          "query": "vikings vs buccaneers",
           "rank": 8
         },
         {
-          "query": "australia vs brazil",
+          "query": "ravens vs cowboys",
           "rank": 9
         },
         {
-          "query": "escapement",
+          "query": "raiders vs saints",
           "rank": 10
         },
         {
-          "query": "türkiye vs france",
+          "query": "bengals vs steelers",
           "rank": 11
         },
         {
-          "query": "wind advisory",
+          "query": "norway vs portugal",
           "rank": 12
         },
         {
-          "query": "falcons",
+          "query": "panthers vs browns",
           "rank": 13
         },
         {
-          "query": "aykroyd",
+          "query": "chargers vs bills",
           "rank": 14
         },
         {
-          "query": "packers",
+          "query": "patriots vs jaguars",
           "rank": 15
         },
         {
-          "query": "cubs vs red sox",
+          "query": "fda chlorthalidone dissolution testing recall",
           "rank": 16
         },
         {
-          "query": "packers game",
+          "query": "aew pac",
           "rank": 17
         },
         {
-          "query": "bijan robinson",
+          "query": "jets vs lions",
           "rank": 18
         },
         {
-          "query": "beer hat",
+          "query": "sloop",
           "rank": 19
         },
         {
-          "query": "patient zero lyrics",
+          "query": "titans vs giants",
           "rank": 20
         },
         {
-          "query": "green bay packers",
+          "query": "noruega portugal",
           "rank": 21
         },
         {
-          "query": "thursday night football",
+          "query": "delta flight dl251 diversion porto",
           "rank": 22
         },
         {
-          "query": "national daughters day 2026",
+          "query": "jj mccarthy",
           "rank": 23
         },
         {
-          "query": "orioles vs yankees",
+          "query": "texans vs colts",
           "rank": 24
         },
         {
-          "query": "swank",
+          "query": "how old is madonna",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-09-26",
+      "sourceDate": "2026-09-29",
       "table": "top_terms",
       "terms": [
         {
-          "query": "northwestern vs indiana",
+          "query": "wnba playoffs",
           "rank": 1
         },
         {
-          "query": "dodgers vs giants",
+          "query": "phillies vs braves",
           "rank": 2
         },
         {
-          "query": "clemson vs california",
+          "query": "spain vs croatia",
           "rank": 3
         },
         {
-          "query": "unabomber",
+          "query": "mlb",
           "rank": 4
         },
         {
-          "query": "guardians vs royals",
+          "query": "españa - croacia",
+          "rank": 5
+        },
+        {
+          "query": "white sox vs astros",
           "rank": 6
         },
         {
-          "query": "tijuana - atlas",
+          "query": "czechia vs england",
           "rank": 7
         },
         {
-          "query": "diamondbacks vs padres",
+          "query": "jack smith",
           "rank": 8
         },
         {
-          "query": "atlante - monterrey",
+          "query": "odell beckham jr",
+          "rank": 9
+        },
+        {
+          "query": "caleb flynn",
           "rank": 10
         },
         {
-          "query": "nigella lawson",
+          "query": "october 2026 visa bulletin changes",
           "rank": 11
         },
         {
-          "query": "cardinals vs brewers",
+          "query": "chequia - inglaterra",
           "rank": 12
         },
         {
-          "query": "coastal flood warning",
+          "query": "mike lee blocks kennedy center bill",
           "rank": 13
         },
         {
-          "query": "rockies vs white sox",
+          "query": "wnba 2026",
           "rank": 14
         },
         {
-          "query": "刘欢",
+          "query": "earthquakes today",
           "rank": 15
         },
         {
-          "query": "rangers vs twins",
+          "query": "panthers vs hurricanes",
           "rank": 16
         },
         {
-          "query": "pirates vs tigers",
+          "query": "pete hegseth general officer reduction",
           "rank": 17
         },
         {
-          "query": "rays vs phillies",
+          "query": "will reeve",
           "rank": 18
         },
         {
-          "query": "chip kelly",
+          "query": "lindsay clancy trial",
           "rank": 19
         },
         {
-          "query": "navy football",
+          "query": "parachuting",
           "rank": 20
         },
         {
-          "query": "el salvador vs martinique",
+          "query": "jason kelce espn broadcast apology",
           "rank": 21
         },
         {
-          "query": "fred astaire",
+          "query": "james hetfield new hairstyle vegas",
           "rank": 22
         },
         {
-          "query": "nick bosa",
+          "query": "somalia vs côte d'ivoire",
           "rank": 23
         },
         {
-          "query": "olivia rodrigo tour",
+          "query": "six flags x2 roller coaster closure",
           "rank": 24
         },
         {
-          "query": "cornell university",
+          "query": "nhl",
           "rank": 25
         }
       ]

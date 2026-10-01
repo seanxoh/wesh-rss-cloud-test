@@ -6,222 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-09-30T22:14:03.968Z",
-  "runId": "36784344394",
+  "capturedAt": "2026-10-01T05:49:54.357Z",
+  "runId": "36821660650",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 169016200,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-09-29",
+      "sourceDate": "2026-09-30",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "google's birthday",
+          "query": "eagles vs bears",
           "rank": 1
         },
         {
-          "query": "dante moore",
+          "query": "mignonette",
           "rank": 2
         },
         {
-          "query": "rams vs broncos",
+          "query": "wnba playoffs",
           "rank": 3
         },
         {
-          "query": "chiefs vs dolphins",
+          "query": "fda chlorthalidone dissolution testing recall",
           "rank": 4
         },
         {
-          "query": "seahawks vs commanders",
+          "query": "case keenum",
           "rank": 5
         },
         {
-          "query": "cardinals vs 49ers",
+          "query": "aew pac",
           "rank": 6
         },
         {
-          "query": "mignonette",
+          "query": "belgium vs france",
           "rank": 7
         },
         {
-          "query": "vikings vs buccaneers",
+          "query": "dennis haskins",
           "rank": 8
         },
         {
-          "query": "ravens vs cowboys",
+          "query": "spain vs croatia",
           "rank": 9
         },
         {
-          "query": "raiders vs saints",
+          "query": "jj mccarthy",
           "rank": 10
         },
         {
-          "query": "bengals vs steelers",
+          "query": "phillies vs braves",
           "rank": 11
         },
         {
-          "query": "norway vs portugal",
+          "query": "national coffee day",
           "rank": 12
         },
         {
-          "query": "panthers vs browns",
+          "query": "pac wrestler",
           "rank": 13
         },
         {
-          "query": "chargers vs bills",
+          "query": "monday night football",
           "rank": 14
         },
         {
-          "query": "patriots vs jaguars",
+          "query": "españa croacia",
           "rank": 15
         },
         {
-          "query": "fda chlorthalidone dissolution testing recall",
+          "query": "blooket join",
           "rank": 16
         },
         {
-          "query": "aew pac",
+          "query": "state fare kitchen & bar",
           "rank": 17
         },
         {
-          "query": "jets vs lions",
+          "query": "mnf",
           "rank": 18
         },
         {
-          "query": "sloop",
+          "query": "kelvin wave",
           "rank": 19
         },
         {
-          "query": "titans vs giants",
+          "query": "blooket",
           "rank": 20
         },
         {
-          "query": "noruega portugal",
+          "query": "wayground",
           "rank": 21
         },
         {
-          "query": "delta flight dl251 diversion porto",
+          "query": "white sox vs astros",
           "rank": 22
         },
         {
-          "query": "jj mccarthy",
+          "query": "google classroom",
           "rank": 23
         },
         {
-          "query": "texans vs colts",
+          "query": "pac",
           "rank": 24
         },
         {
-          "query": "how old is madonna",
+          "query": "kahoot",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-09-29",
+      "sourceDate": "2026-09-30",
       "table": "top_terms",
       "terms": [
         {
-          "query": "wnba playoffs",
+          "query": "trump aca refund checks",
           "rank": 1
         },
         {
-          "query": "phillies vs braves",
+          "query": "phillies",
           "rank": 2
         },
         {
-          "query": "spain vs croatia",
+          "query": "braves",
           "rank": 3
         },
         {
-          "query": "mlb",
+          "query": "phillies score",
           "rank": 4
         },
         {
-          "query": "españa - croacia",
+          "query": "astros",
           "rank": 5
         },
         {
-          "query": "white sox vs astros",
+          "query": "strait of hormuz news",
           "rank": 6
         },
         {
-          "query": "czechia vs england",
+          "query": "tj maxx closing",
           "rank": 7
         },
         {
-          "query": "jack smith",
+          "query": "flydubai",
           "rank": 8
         },
         {
-          "query": "odell beckham jr",
+          "query": "fiona lowe chad lowe",
           "rank": 9
         },
         {
-          "query": "caleb flynn",
+          "query": "mu stock",
           "rank": 10
         },
         {
-          "query": "october 2026 visa bulletin changes",
+          "query": "riverbend maximum security institution",
           "rank": 11
         },
         {
-          "query": "chequia - inglaterra",
+          "query": "extreme heat watch",
           "rank": 12
         },
         {
-          "query": "mike lee blocks kennedy center bill",
+          "query": "sophia bush",
           "rank": 13
         },
         {
-          "query": "wnba 2026",
+          "query": "hegseth",
           "rank": 14
         },
         {
-          "query": "earthquakes today",
+          "query": "cristiano ronaldo",
           "rank": 15
         },
         {
-          "query": "panthers vs hurricanes",
+          "query": "lawsuit",
           "rank": 16
         },
         {
-          "query": "pete hegseth general officer reduction",
+          "query": "pete hegseth military academy tenure",
           "rank": 17
         },
         {
-          "query": "will reeve",
+          "query": "ken griffin",
           "rank": 18
         },
         {
-          "query": "lindsay clancy trial",
+          "query": "braves game today",
           "rank": 19
         },
         {
-          "query": "parachuting",
+          "query": "graziers raw milk cheese recall",
           "rank": 20
         },
         {
-          "query": "jason kelce espn broadcast apology",
+          "query": "kaliningrad",
           "rank": 21
         },
         {
-          "query": "james hetfield new hairstyle vegas",
+          "query": "ncis",
           "rank": 22
         },
         {
-          "query": "somalia vs côte d'ivoire",
+          "query": "tyreek hill",
           "rank": 23
         },
         {
-          "query": "six flags x2 roller coaster closure",
+          "query": "minnesota federal judges misconduct complaint",
           "rank": 24
         },
         {
-          "query": "nhl",
+          "query": "gemini 4",
           "rank": 25
         }
       ]

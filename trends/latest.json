@@ -6,222 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-01T22:39:56.499Z",
-  "runId": "36936400857",
+  "capturedAt": "2026-10-02T05:34:26.225Z",
+  "runId": "36969532805",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 174573220,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-09-30",
+      "sourceDate": "2026-10-01",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "eagles vs bears",
+          "query": "wnba playoffs",
           "rank": 1
         },
         {
-          "query": "mignonette",
+          "query": "chad lowe",
           "rank": 2
         },
         {
-          "query": "wnba playoffs",
+          "query": "spain vs croatia",
           "rank": 3
         },
         {
-          "query": "fda chlorthalidone dissolution testing recall",
+          "query": "trump aca refund checks",
           "rank": 4
         },
         {
-          "query": "case keenum",
+          "query": "tj maxx store closures list",
           "rank": 5
         },
         {
-          "query": "aew pac",
+          "query": "phillies vs braves",
           "rank": 6
         },
         {
-          "query": "belgium vs france",
+          "query": "dennis haskins",
           "rank": 7
         },
         {
-          "query": "dennis haskins",
+          "query": "méxico perú",
           "rank": 8
         },
         {
-          "query": "spain vs croatia",
+          "query": "usa vs chile",
           "rank": 9
         },
         {
-          "query": "jj mccarthy",
+          "query": "octopussy",
           "rank": 10
         },
         {
-          "query": "phillies vs braves",
+          "query": "mexico vs peru",
           "rank": 11
         },
         {
-          "query": "national coffee day",
+          "query": "donnie brasco",
           "rank": 12
         },
         {
-          "query": "pac wrestler",
+          "query": "españa croacia",
           "rank": 13
         },
         {
-          "query": "monday night football",
+          "query": "white sox vs astros",
           "rank": 14
         },
         {
-          "query": "españa croacia",
+          "query": "bugsy",
           "rank": 15
         },
         {
-          "query": "blooket join",
+          "query": "red sox vs yankees",
           "rank": 16
         },
         {
-          "query": "state fare kitchen & bar",
+          "query": "wnba",
           "rank": 17
         },
         {
-          "query": "mnf",
+          "query": "state fare kitchen & bar",
           "rank": 18
         },
         {
-          "query": "kelvin wave",
+          "query": "oral phase",
           "rank": 19
         },
         {
-          "query": "blooket",
+          "query": "christa pike",
           "rank": 20
         },
         {
-          "query": "wayground",
+          "query": "cubs vs padres",
           "rank": 21
         },
         {
-          "query": "white sox vs astros",
+          "query": "tj maxx closing",
           "rank": 22
         },
         {
-          "query": "google classroom",
+          "query": "national coffee day",
           "rank": 23
         },
         {
-          "query": "pac",
+          "query": "case keenum",
           "rank": 24
         },
         {
-          "query": "kahoot",
+          "query": "eagles vs bears",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-09-30",
+      "sourceDate": "2026-10-01",
       "table": "top_terms",
       "terms": [
         {
-          "query": "trump aca refund checks",
+          "query": "denmark vs portugal",
           "rank": 1
         },
         {
-          "query": "phillies",
+          "query": "cornell 7 case",
           "rank": 2
         },
         {
-          "query": "braves",
+          "query": "wales vs norway",
           "rank": 3
         },
         {
-          "query": "phillies score",
+          "query": "dinamarca - portugal",
           "rank": 4
         },
         {
-          "query": "astros",
+          "query": "rick ross",
           "rank": 5
         },
         {
-          "query": "strait of hormuz news",
+          "query": "what did christa pike do to be executed",
           "rank": 6
         },
         {
-          "query": "tj maxx closing",
+          "query": "sperm whale sinks yacht",
           "rank": 7
         },
         {
-          "query": "flydubai",
+          "query": "kylie kelce kate middleton apology",
           "rank": 8
         },
         {
-          "query": "fiona lowe chad lowe",
+          "query": "uss klakring sinking exercise",
           "rank": 9
         },
         {
-          "query": "mu stock",
+          "query": "social security benefit increase projection",
           "rank": 10
         },
         {
-          "query": "riverbend maximum security institution",
+          "query": "steelers vs browns",
           "rank": 11
         },
         {
-          "query": "extreme heat watch",
+          "query": "min ah jim carrey",
           "rank": 12
         },
         {
-          "query": "sophia bush",
+          "query": "amazon ftc settlement payouts",
           "rank": 13
         },
         {
-          "query": "hegseth",
+          "query": "david hearn reflecting pool case",
           "rank": 14
         },
         {
-          "query": "cristiano ronaldo",
+          "query": "trina braxton",
           "rank": 15
         },
         {
-          "query": "lawsuit",
+          "query": "the oval office",
           "rank": 16
         },
         {
-          "query": "pete hegseth military academy tenure",
+          "query": "gales - noruega",
           "rank": 17
         },
         {
-          "query": "ken griffin",
+          "query": "germany vs serbia",
           "rank": 18
         },
         {
-          "query": "braves game today",
+          "query": "retirement age",
           "rank": 19
         },
         {
-          "query": "graziers raw milk cheese recall",
+          "query": "gears of war e day",
           "rank": 20
         },
         {
-          "query": "kaliningrad",
+          "query": "heat advisory",
           "rank": 21
         },
         {
-          "query": "ncis",
+          "query": "flex",
           "rank": 22
         },
         {
-          "query": "tyreek hill",
+          "query": "aircraft carrier",
           "rank": 23
         },
         {
-          "query": "minnesota federal judges misconduct complaint",
+          "query": "tate mcrae perfume",
           "rank": 24
         },
         {
-          "query": "gemini 4",
+          "query": "nike stock",
           "rank": 25
         }
       ]

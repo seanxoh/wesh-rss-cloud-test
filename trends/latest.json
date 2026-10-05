@@ -6,222 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-04T21:22:31.366Z",
-  "runId": "37235825638",
+  "capturedAt": "2026-10-05T05:36:33.071Z",
+  "runId": "37268536228",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 171987280,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-01",
+      "sourceDate": "2026-10-04",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "wnba playoffs",
+          "query": "ken urker",
           "rank": 1
         },
         {
-          "query": "chad lowe",
+          "query": "gypsy rose",
           "rank": 2
         },
         {
-          "query": "spain vs croatia",
+          "query": "usury",
           "rank": 3
         },
         {
-          "query": "trump aca refund checks",
+          "query": "croatia vs england",
           "rank": 4
         },
         {
-          "query": "tj maxx store closures list",
+          "query": "spain vs czechia",
           "rank": 5
         },
         {
-          "query": "phillies vs braves",
+          "query": "ohio state vs iowa",
           "rank": 6
         },
         {
-          "query": "dennis haskins",
+          "query": "france vs italy",
           "rank": 7
         },
         {
-          "query": "méxico perú",
+          "query": "alabama vs ms state",
           "rank": 8
         },
         {
-          "query": "usa vs chile",
+          "query": "michigan vs minnesota",
           "rank": 9
         },
         {
-          "query": "octopussy",
+          "query": "gypsy rose blanchard",
           "rank": 10
         },
         {
-          "query": "mexico vs peru",
+          "query": "braves vs dodgers",
           "rank": 11
         },
         {
-          "query": "donnie brasco",
+          "query": "penn state vs northwestern",
           "rank": 12
         },
         {
-          "query": "españa croacia",
+          "query": "usury definition",
           "rank": 13
         },
         {
-          "query": "white sox vs astros",
+          "query": "vanderbilt vs georgia",
           "rank": 14
         },
         {
-          "query": "bugsy",
+          "query": "auburn vs tennessee",
           "rank": 15
         },
         {
-          "query": "red sox vs yankees",
+          "query": "florida vs missouri",
           "rank": 16
         },
         {
-          "query": "wnba",
+          "query": "notre dame vs unc",
           "rank": 17
         },
         {
-          "query": "state fare kitchen & bar",
+          "query": "españa chequia",
           "rank": 18
         },
         {
-          "query": "oral phase",
+          "query": "college football today",
           "rank": 19
         },
         {
-          "query": "christa pike",
+          "query": "college football scores",
           "rank": 20
         },
         {
-          "query": "cubs vs padres",
+          "query": "broad bean",
           "rank": 21
         },
         {
-          "query": "tj maxx closing",
+          "query": "northwestern football",
           "rank": 22
         },
         {
-          "query": "national coffee day",
+          "query": "pak vs ind",
           "rank": 23
         },
         {
-          "query": "case keenum",
+          "query": "ncaa football scores",
           "rank": 24
         },
         {
-          "query": "eagles vs bears",
+          "query": "kentucky vs south carolina",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-10-01",
+      "sourceDate": "2026-10-04",
       "table": "top_terms",
       "terms": [
         {
-          "query": "denmark vs portugal",
+          "query": "cowboys vs texans",
           "rank": 1
         },
         {
-          "query": "cornell 7 case",
+          "query": "chiefs vs raiders",
           "rank": 2
         },
         {
-          "query": "wales vs norway",
+          "query": "broncos vs 49ers",
           "rank": 3
         },
         {
-          "query": "dinamarca - portugal",
+          "query": "patriots vs bills",
           "rank": 4
         },
         {
-          "query": "rick ross",
+          "query": "rams vs eagles",
           "rank": 5
         },
         {
-          "query": "what did christa pike do to be executed",
+          "query": "jets vs bears",
           "rank": 6
         },
         {
-          "query": "sperm whale sinks yacht",
+          "query": "dolphins vs vikings",
           "rank": 7
         },
         {
-          "query": "kylie kelce kate middleton apology",
+          "query": "chargers vs seahawks",
           "rank": 8
         },
         {
-          "query": "uss klakring sinking exercise",
+          "query": "packers vs buccaneers",
           "rank": 9
         },
         {
-          "query": "social security benefit increase projection",
+          "query": "titans vs ravens",
           "rank": 10
         },
         {
-          "query": "steelers vs browns",
+          "query": "portugal vs norway",
           "rank": 11
         },
         {
-          "query": "min ah jim carrey",
+          "query": "cardinals vs giants",
           "rank": 12
         },
         {
-          "query": "amazon ftc settlement payouts",
+          "query": "jaguars vs bengals",
           "rank": 13
         },
         {
-          "query": "david hearn reflecting pool case",
+          "query": "portugal - noruega",
           "rank": 14
         },
         {
-          "query": "trina braxton",
+          "query": "49ers",
           "rank": 15
         },
         {
-          "query": "the oval office",
+          "query": "aces vs valkyries",
           "rank": 16
         },
         {
-          "query": "gales - noruega",
+          "query": "athan kaliakmanis",
           "rank": 17
         },
         {
-          "query": "germany vs serbia",
+          "query": "liberty vs dream",
           "rank": 18
         },
         {
-          "query": "retirement age",
+          "query": "eagles vs rams",
           "rank": 19
         },
         {
-          "query": "gears of war e day",
+          "query": "greece vs germany",
           "rank": 20
         },
         {
-          "query": "heat advisory",
+          "query": "eagles",
           "rank": 21
         },
         {
-          "query": "flex",
+          "query": "shooting",
           "rank": 22
         },
         {
-          "query": "aircraft carrier",
+          "query": "kirk cousins",
           "rank": 23
         },
         {
-          "query": "tate mcrae perfume",
+          "query": "lula",
           "rank": 24
         },
         {
-          "query": "nike stock",
+          "query": "flávio bolsonaro",
           "rank": 25
         }
       ]

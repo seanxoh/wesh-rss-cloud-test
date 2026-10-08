@@ -6,222 +6,202 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-06T18:20:31.191Z",
-  "runId": "37510515318",
+  "capturedAt": "2026-10-08T06:01:03.580Z",
+  "runId": "37735314438",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 154783050,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-04",
+      "sourceDate": "2026-10-07",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "ken urker",
+          "query": "saints vs falcons",
           "rank": 1
         },
         {
-          "query": "gypsy rose",
+          "query": "freddie jackson",
           "rank": 2
         },
         {
-          "query": "usury",
+          "query": "world space week 2026",
           "rank": 3
         },
         {
-          "query": "croatia vs england",
+          "query": "eames",
           "rank": 4
         },
         {
-          "query": "spain vs czechia",
+          "query": "argentina vs benin",
           "rank": 5
         },
         {
-          "query": "ohio state vs iowa",
+          "query": "france vs belgium",
           "rank": 6
         },
         {
-          "query": "france vs italy",
+          "query": "pianoforte",
           "rank": 7
         },
         {
-          "query": "alabama vs ms state",
+          "query": "steve gleason",
           "rank": 8
         },
         {
-          "query": "michigan vs minnesota",
+          "query": "sloan meaning",
           "rank": 9
         },
         {
-          "query": "gypsy rose blanchard",
+          "query": "monday night football",
           "rank": 10
         },
         {
-          "query": "braves vs dodgers",
+          "query": "robert kelker kelly",
           "rank": 11
         },
         {
-          "query": "penn state vs northwestern",
+          "query": "why did i get $90 from social security",
           "rank": 12
         },
         {
-          "query": "usury definition",
+          "query": "sloan",
           "rank": 13
         },
         {
-          "query": "vanderbilt vs georgia",
+          "query": "blooket join",
           "rank": 14
         },
         {
-          "query": "auburn vs tennessee",
+          "query": "falcons",
           "rank": 15
         },
         {
-          "query": "florida vs missouri",
+          "query": "croatia vs spain",
           "rank": 16
         },
         {
-          "query": "notre dame vs unc",
+          "query": "wayground",
           "rank": 17
         },
         {
-          "query": "españa chequia",
+          "query": "mnf",
           "rank": 18
         },
         {
-          "query": "college football today",
+          "query": "croacia españa",
           "rank": 19
         },
         {
-          "query": "college football scores",
+          "query": "kahoot",
           "rank": 20
         },
         {
-          "query": "broad bean",
+          "query": "blooket",
           "rank": 21
         },
         {
-          "query": "northwestern football",
+          "query": "lane johnson",
           "rank": 22
         },
         {
-          "query": "pak vs ind",
+          "query": "google classroom",
           "rank": 23
         },
         {
-          "query": "ncaa football scores",
+          "query": "pneumonic plague",
           "rank": 24
         },
         {
-          "query": "kentucky vs south carolina",
+          "query": "russian plague",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-10-04",
+      "sourceDate": "2026-10-07",
       "table": "top_terms",
       "terms": [
         {
-          "query": "cowboys vs texans",
-          "rank": 1
-        },
-        {
-          "query": "chiefs vs raiders",
-          "rank": 2
-        },
-        {
-          "query": "broncos vs 49ers",
+          "query": "brewers vs padres",
           "rank": 3
         },
         {
-          "query": "patriots vs bills",
-          "rank": 4
-        },
-        {
-          "query": "rams vs eagles",
+          "query": "dodgers vs braves",
           "rank": 5
         },
         {
-          "query": "jets vs bears",
+          "query": "méxico - chile",
           "rank": 6
         },
         {
-          "query": "dolphins vs vikings",
+          "query": "usa vs canada",
           "rank": 7
         },
         {
-          "query": "chargers vs seahawks",
+          "query": "semana mundial del espacio 2026",
           "rank": 8
         },
         {
-          "query": "packers vs buccaneers",
+          "query": "eva marie saint",
           "rank": 9
         },
         {
-          "query": "titans vs ravens",
+          "query": "argentina - benín",
           "rank": 10
         },
         {
-          "query": "portugal vs norway",
-          "rank": 11
-        },
-        {
-          "query": "cardinals vs giants",
+          "query": "hurricane tracker",
           "rank": 12
         },
         {
-          "query": "jaguars vs bengals",
-          "rank": 13
-        },
-        {
-          "query": "portugal - noruega",
+          "query": "padres",
           "rank": 14
         },
         {
-          "query": "49ers",
+          "query": "who got eliminated on dancing with the stars",
           "rank": 15
         },
         {
-          "query": "aces vs valkyries",
+          "query": "marshals yellowstone spin off season two",
           "rank": 16
         },
         {
-          "query": "athan kaliakmanis",
+          "query": "padres game today",
           "rank": 17
         },
         {
-          "query": "liberty vs dream",
+          "query": "mexico vs",
           "rank": 18
         },
         {
-          "query": "eagles vs rams",
+          "query": "colombia vs peru",
           "rank": 19
         },
         {
-          "query": "greece vs germany",
+          "query": "wrestling",
           "rank": 20
         },
         {
-          "query": "eagles",
+          "query": "chet hanks",
           "rank": 21
         },
         {
-          "query": "shooting",
+          "query": "25th amendment",
           "rank": 22
         },
         {
-          "query": "kirk cousins",
+          "query": "dolly parton estate bryan seaver lawsuit",
           "rank": 23
         },
         {
-          "query": "lula",
+          "query": "milwaukee brewers",
           "rank": 24
         },
         {
-          "query": "flávio bolsonaro",
+          "query": "jeanne tripplehorn",
           "rank": 25
         }
       ]

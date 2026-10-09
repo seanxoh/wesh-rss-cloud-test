@@ -6,23 +6,23 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-08T23:19:36.110Z",
-  "runId": "37858782429",
+  "capturedAt": "2026-10-09T06:06:10.979Z",
+  "runId": "37891781047",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 170978318,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-07",
+      "sourceDate": "2026-10-08",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "saints vs falcons",
+          "query": "freddie jackson",
           "rank": 1
         },
         {
-          "query": "freddie jackson",
+          "query": "eames",
           "rank": 2
         },
         {
@@ -30,178 +30,194 @@
           "rank": 3
         },
         {
-          "query": "eames",
+          "query": "argentina vs benin",
           "rank": 4
         },
         {
-          "query": "argentina vs benin",
+          "query": "pianoforte",
           "rank": 5
         },
         {
-          "query": "france vs belgium",
+          "query": "croatia vs spain",
           "rank": 6
         },
         {
-          "query": "pianoforte",
+          "query": "why did i get $90 from social security",
           "rank": 7
         },
         {
-          "query": "steve gleason",
+          "query": "olive garden closing",
           "rank": 8
         },
         {
-          "query": "sloan meaning",
+          "query": "chile vs mexico",
           "rank": 9
         },
         {
-          "query": "monday night football",
+          "query": "dichotomy",
           "rank": 10
         },
         {
-          "query": "robert kelker kelly",
+          "query": "tetracycline",
           "rank": 11
         },
         {
-          "query": "why did i get $90 from social security",
+          "query": "croacia españa",
           "rank": 12
         },
         {
-          "query": "sloan",
+          "query": "usa vs canada",
           "rank": 13
         },
         {
-          "query": "blooket join",
+          "query": "why did i receive $90 from social security",
           "rank": 14
         },
         {
-          "query": "falcons",
+          "query": "dichotomy meaning",
           "rank": 15
         },
         {
-          "query": "croatia vs spain",
+          "query": "cam jurgens",
           "rank": 16
         },
         {
-          "query": "wayground",
+          "query": "tetracycline meaning",
           "rank": 17
         },
         {
-          "query": "mnf",
+          "query": "steve gleason",
           "rank": 18
         },
         {
-          "query": "croacia españa",
+          "query": "hurricane tracker",
           "rank": 19
         },
         {
-          "query": "kahoot",
+          "query": "lane johnson",
           "rank": 20
         },
         {
-          "query": "blooket",
+          "query": "falcons vs saints",
           "rank": 21
         },
         {
-          "query": "lane johnson",
+          "query": "tropical storm isaias forecast",
           "rank": 22
         },
         {
-          "query": "google classroom",
+          "query": "hurricane",
           "rank": 23
         },
         {
-          "query": "pneumonic plague",
+          "query": "home workout routines",
           "rank": 24
         },
         {
-          "query": "russian plague",
+          "query": "popular movies 2025",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-10-07",
+      "sourceDate": "2026-10-08",
       "table": "top_terms",
       "terms": [
         {
-          "query": "brewers vs padres",
+          "query": "susan dell",
+          "rank": 1
+        },
+        {
+          "query": "rays vs yankees",
+          "rank": 2
+        },
+        {
+          "query": "hurricane watch",
           "rank": 3
         },
         {
-          "query": "dodgers vs braves",
+          "query": "nana patekar",
+          "rank": 4
+        },
+        {
+          "query": "aces vs valkyries",
           "rank": 5
         },
         {
-          "query": "méxico - chile",
+          "query": "guardians vs white sox",
           "rank": 6
         },
         {
-          "query": "usa vs canada",
+          "query": "mia goth",
           "rank": 7
         },
         {
-          "query": "semana mundial del espacio 2026",
-          "rank": 8
-        },
-        {
-          "query": "eva marie saint",
+          "query": "travis kelce birthday chiefs win",
           "rank": 9
         },
         {
-          "query": "argentina - benín",
+          "query": "liberty vs dream",
           "rank": 10
         },
         {
-          "query": "hurricane tracker",
+          "query": "jennifer coffindaffer",
+          "rank": 11
+        },
+        {
+          "query": "heather thompson day",
           "rank": 12
         },
         {
-          "query": "padres",
+          "query": "rays - yankees",
+          "rank": 13
+        },
+        {
+          "query": "airport",
           "rank": 14
         },
         {
-          "query": "who got eliminated on dancing with the stars",
+          "query": "costco lemon cream caramelized croissant",
           "rank": 15
         },
         {
-          "query": "marshals yellowstone spin off season two",
+          "query": "pacers",
           "rank": 16
         },
         {
-          "query": "padres game today",
+          "query": "jax state vs kennesaw st",
           "rank": 17
         },
         {
-          "query": "mexico vs",
+          "query": "tormenta",
           "rank": 18
         },
         {
-          "query": "colombia vs peru",
+          "query": "carrie 2026",
           "rank": 19
         },
         {
-          "query": "wrestling",
+          "query": "dodgers",
           "rank": 20
         },
         {
-          "query": "chet hanks",
+          "query": "yankees game today",
           "rank": 21
         },
         {
-          "query": "25th amendment",
+          "query": "penguins vs capitals",
           "rank": 22
         },
         {
-          "query": "dolly parton estate bryan seaver lawsuit",
+          "query": "fiu football",
           "rank": 23
         },
         {
-          "query": "milwaukee brewers",
+          "query": "tampa bay rays",
           "rank": 24
         },
         {
-          "query": "jeanne tripplehorn",
+          "query": "publix sales slump store closures",
           "rank": 25
         }
       ]

@@ -6,134 +6,27 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-09T22:36:54.138Z",
-  "runId": "38000146786",
+  "capturedAt": "2026-10-10T05:49:56.508Z",
+  "runId": "38028829095",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 168242949,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-08",
+      "sourceDate": "2026-10-09",
       "table": "top_rising_terms",
-      "terms": [
-        {
-          "query": "freddie jackson",
-          "rank": 1
-        },
-        {
-          "query": "eames",
-          "rank": 2
-        },
-        {
-          "query": "world space week 2026",
-          "rank": 3
-        },
-        {
-          "query": "argentina vs benin",
-          "rank": 4
-        },
-        {
-          "query": "pianoforte",
-          "rank": 5
-        },
-        {
-          "query": "croatia vs spain",
-          "rank": 6
-        },
-        {
-          "query": "why did i get $90 from social security",
-          "rank": 7
-        },
-        {
-          "query": "olive garden closing",
-          "rank": 8
-        },
-        {
-          "query": "chile vs mexico",
-          "rank": 9
-        },
-        {
-          "query": "dichotomy",
-          "rank": 10
-        },
-        {
-          "query": "tetracycline",
-          "rank": 11
-        },
-        {
-          "query": "croacia españa",
-          "rank": 12
-        },
-        {
-          "query": "usa vs canada",
-          "rank": 13
-        },
-        {
-          "query": "why did i receive $90 from social security",
-          "rank": 14
-        },
-        {
-          "query": "dichotomy meaning",
-          "rank": 15
-        },
-        {
-          "query": "cam jurgens",
-          "rank": 16
-        },
-        {
-          "query": "tetracycline meaning",
-          "rank": 17
-        },
-        {
-          "query": "steve gleason",
-          "rank": 18
-        },
-        {
-          "query": "hurricane tracker",
-          "rank": 19
-        },
-        {
-          "query": "lane johnson",
-          "rank": 20
-        },
-        {
-          "query": "falcons vs saints",
-          "rank": 21
-        },
-        {
-          "query": "tropical storm isaias forecast",
-          "rank": 22
-        },
-        {
-          "query": "hurricane",
-          "rank": 23
-        },
-        {
-          "query": "home workout routines",
-          "rank": 24
-        },
-        {
-          "query": "popular movies 2025",
-          "rank": 25
-        }
-      ]
-    },
-    {
-      "type": "TOP",
-      "sourceDate": "2026-10-08",
-      "table": "top_terms",
       "terms": [
         {
           "query": "susan dell",
           "rank": 1
         },
         {
-          "query": "rays vs yankees",
+          "query": "isaias hurricane",
           "rank": 2
         },
         {
-          "query": "hurricane watch",
+          "query": "flood watch",
           "rank": 3
         },
         {
@@ -141,83 +34,190 @@
           "rank": 4
         },
         {
-          "query": "aces vs valkyries",
+          "query": "strew",
           "rank": 5
         },
         {
-          "query": "guardians vs white sox",
+          "query": "buccaneers vs cowboys",
           "rank": 6
         },
         {
-          "query": "mia goth",
+          "query": "mulholland",
           "rank": 7
         },
         {
-          "query": "travis kelce birthday chiefs win",
+          "query": "tropical storm watch",
+          "rank": 8
+        },
+        {
+          "query": "mulholland meaning",
           "rank": 9
         },
         {
-          "query": "liberty vs dream",
+          "query": "padres vs brewers",
           "rank": 10
         },
         {
-          "query": "jennifer coffindaffer",
+          "query": "carrie tv show",
           "rank": 11
         },
         {
-          "query": "heather thompson day",
+          "query": "hurricane tracker",
           "rank": 12
         },
         {
-          "query": "rays - yankees",
+          "query": "hurricane",
           "rank": 13
         },
         {
-          "query": "airport",
+          "query": "thursday night football",
           "rank": 14
         },
         {
-          "query": "costco lemon cream caramelized croissant",
+          "query": "aces vs valkyries",
           "rank": 15
         },
         {
-          "query": "pacers",
+          "query": "méxico chile",
           "rank": 16
         },
         {
-          "query": "jax state vs kennesaw st",
+          "query": "mexico vs chile",
           "rank": 17
         },
         {
-          "query": "tormenta",
+          "query": "brewers score",
           "rank": 18
         },
         {
-          "query": "carrie 2026",
+          "query": "trump accounts",
           "rank": 19
         },
         {
-          "query": "dodgers",
+          "query": "padres",
           "rank": 20
         },
         {
-          "query": "yankees game today",
+          "query": "omura's whale raja ampat feeding",
           "rank": 21
         },
         {
-          "query": "penguins vs capitals",
+          "query": "brewers",
           "rank": 22
         },
         {
-          "query": "fiu football",
+          "query": "home workout routines",
           "rank": 23
         },
         {
-          "query": "tampa bay rays",
+          "query": "pet care tips",
           "rank": 24
         },
         {
-          "query": "publix sales slump store closures",
+          "query": "olive garden closing",
+          "rank": 25
+        }
+      ]
+    },
+    {
+      "type": "TOP",
+      "sourceDate": "2026-10-09",
+      "table": "top_terms",
+      "terms": [
+        {
+          "query": "white sox",
+          "rank": 2
+        },
+        {
+          "query": "fort hood shooter",
+          "rank": 3
+        },
+        {
+          "query": "ceedee lamb",
+          "rank": 4
+        },
+        {
+          "query": "below netflix",
+          "rank": 5
+        },
+        {
+          "query": "baker mayfield",
+          "rank": 6
+        },
+        {
+          "query": "anne carson",
+          "rank": 7
+        },
+        {
+          "query": "south florida vs utsa",
+          "rank": 8
+        },
+        {
+          "query": "white sox score",
+          "rank": 9
+        },
+        {
+          "query": "tampa bay buccaneers vs dallas cowboys match player stats",
+          "rank": 10
+        },
+        {
+          "query": "76ers",
+          "rank": 11
+        },
+        {
+          "query": "george pickens",
+          "rank": 12
+        },
+        {
+          "query": "meteor shower tonight",
+          "rank": 13
+        },
+        {
+          "query": "mms marvel candy collection",
+          "rank": 14
+        },
+        {
+          "query": "spurs game",
+          "rank": 15
+        },
+        {
+          "query": "bladen county military aircraft fire",
+          "rank": 16
+        },
+        {
+          "query": "marvel zodiac",
+          "rank": 17
+        },
+        {
+          "query": "jerry jones",
+          "rank": 18
+        },
+        {
+          "query": "south alabama vs ar state",
+          "rank": 19
+        },
+        {
+          "query": "todd bowles",
+          "rank": 20
+        },
+        {
+          "query": "tropical storm hurricane isaias",
+          "rank": 21
+        },
+        {
+          "query": "ice bronx",
+          "rank": 22
+        },
+        {
+          "query": "buccaneers qb",
+          "rank": 23
+        },
+        {
+          "query": "jake ferguson",
+          "rank": 24
+        },
+        {
+          "query": "cassidy hutchinson",
           "rank": 25
         }
       ]

@@ -6,218 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-10T21:41:58.087Z",
-  "runId": "38088606914",
+  "capturedAt": "2026-10-11T05:43:57.574Z",
+  "runId": "38115725183",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 172591470,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-09",
+      "sourceDate": "2026-10-10",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "susan dell",
+          "query": "ditka",
           "rank": 1
         },
         {
-          "query": "isaias hurricane",
+          "query": "mike ditka",
           "rank": 2
         },
         {
-          "query": "flood watch",
+          "query": "cowboys vs buccaneers",
           "rank": 3
         },
         {
-          "query": "nana patekar",
+          "query": "flood watch",
           "rank": 4
         },
         {
-          "query": "strew",
+          "query": "nana patekar",
           "rank": 5
         },
         {
-          "query": "buccaneers vs cowboys",
+          "query": "susan dell",
           "rank": 6
         },
         {
-          "query": "mulholland",
+          "query": "cowboys game",
           "rank": 7
         },
         {
-          "query": "tropical storm watch",
+          "query": "mulholland",
           "rank": 8
         },
         {
-          "query": "mulholland meaning",
+          "query": "jalon daniels",
           "rank": 9
         },
         {
-          "query": "padres vs brewers",
+          "query": "hurricane isaias",
           "rank": 10
         },
         {
-          "query": "carrie tv show",
+          "query": "cowboys",
           "rank": 11
         },
         {
-          "query": "hurricane tracker",
+          "query": "leif erikson day",
           "rank": 12
         },
         {
-          "query": "hurricane",
+          "query": "aces vs valkyries",
           "rank": 13
         },
         {
-          "query": "thursday night football",
+          "query": "tropical storm watch",
           "rank": 14
         },
         {
-          "query": "aces vs valkyries",
+          "query": "thursday night football",
           "rank": 15
         },
         {
-          "query": "méxico chile",
+          "query": "dallas cowboys",
           "rank": 16
         },
         {
-          "query": "mexico vs chile",
+          "query": "hurricane isaias track",
           "rank": 17
         },
         {
-          "query": "brewers score",
+          "query": "verne allison",
           "rank": 18
         },
         {
-          "query": "trump accounts",
+          "query": "ceedee lamb",
           "rank": 19
         },
         {
-          "query": "padres",
+          "query": "bucky irving",
           "rank": 20
         },
         {
-          "query": "omura's whale raja ampat feeding",
+          "query": "hurricane isaias 2026 path",
           "rank": 21
         },
         {
-          "query": "brewers",
+          "query": "hurricane",
           "rank": 22
         },
         {
-          "query": "home workout routines",
+          "query": "fort hood shooting",
           "rank": 23
         },
         {
-          "query": "pet care tips",
+          "query": "carrie",
           "rank": 24
         },
         {
-          "query": "olive garden closing",
+          "query": "other mommy",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-10-09",
+      "sourceDate": "2026-10-10",
       "table": "top_terms",
       "terms": [
         {
-          "query": "white sox",
+          "query": "real madrid vs villarreal",
+          "rank": 1
+        },
+        {
+          "query": "maryland vs ohio state",
           "rank": 2
         },
         {
-          "query": "fort hood shooter",
+          "query": "marvin harrison jr",
           "rank": 3
         },
         {
-          "query": "ceedee lamb",
+          "query": "south carolina vs florida",
           "rank": 4
         },
         {
-          "query": "below netflix",
+          "query": "texas football",
           "rank": 5
         },
         {
-          "query": "baker mayfield",
+          "query": "indiana vs nebraska",
           "rank": 6
         },
         {
-          "query": "anne carson",
+          "query": "tennessee vs arkansas",
           "rank": 7
         },
         {
-          "query": "south florida vs utsa",
+          "query": "ucla vs oregon",
           "rank": 8
         },
         {
-          "query": "white sox score",
+          "query": "barcelona vs getafe",
           "rank": 9
         },
         {
-          "query": "tampa bay buccaneers vs dallas cowboys match player stats",
+          "query": "ole miss vs vanderbilt",
           "rank": 10
         },
         {
-          "query": "76ers",
+          "query": "barcelona - getafe",
           "rank": 11
         },
         {
-          "query": "george pickens",
+          "query": "texas a&m vs missouri",
           "rank": 12
         },
         {
-          "query": "meteor shower tonight",
+          "query": "stanford vs notre dame",
           "rank": 13
         },
         {
-          "query": "mms marvel candy collection",
+          "query": "la liga",
           "rank": 14
         },
         {
-          "query": "spurs game",
+          "query": "man utd vs spurs",
           "rank": 15
         },
         {
-          "query": "bladen county military aircraft fire",
+          "query": "erie pa mass shooting",
           "rank": 16
         },
         {
-          "query": "marvel zodiac",
+          "query": "illinois vs mi state",
           "rank": 17
         },
         {
-          "query": "jerry jones",
+          "query": "ucf vs oklahoma st",
           "rank": 18
         },
         {
-          "query": "south alabama vs ar state",
+          "query": "psg vs le mans",
           "rank": 19
         },
         {
-          "query": "todd bowles",
+          "query": "social security extra deposit 90",
           "rank": 20
         },
         {
-          "query": "tropical storm hurricane isaias",
+          "query": "usa vs spain",
           "rank": 21
         },
         {
-          "query": "ice bronx",
+          "query": "houston vs kansas state",
           "rank": 22
         },
         {
-          "query": "buccaneers qb",
+          "query": "duke vs georgia tech",
           "rank": 23
         },
         {
-          "query": "jake ferguson",
+          "query": "virginia tech vs california",
           "rank": 24
         },
         {
-          "query": "cassidy hutchinson",
+          "query": "unc vs pittsburgh",
           "rank": 25
         }
       ]

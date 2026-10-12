@@ -6,15 +6,15 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-11T21:56:22.083Z",
-  "runId": "38178392605",
+  "capturedAt": "2026-10-12T05:54:16.065Z",
+  "runId": "38209989695",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 177929440,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-10",
+      "sourceDate": "2026-10-11",
       "table": "top_rising_terms",
       "terms": [
         {
@@ -26,202 +26,202 @@
           "rank": 2
         },
         {
-          "query": "cowboys vs buccaneers",
+          "query": "real madrid villarreal",
           "rank": 3
         },
         {
-          "query": "flood watch",
+          "query": "barcelona getafe",
           "rank": 4
         },
         {
-          "query": "nana patekar",
+          "query": "texas vs oklahoma",
           "rank": 5
         },
         {
-          "query": "susan dell",
+          "query": "katie zacharia",
           "rank": 6
         },
         {
-          "query": "cowboys game",
+          "query": "maryland vs ohio state",
           "rank": 7
         },
         {
-          "query": "mulholland",
+          "query": "panama earthquake",
           "rank": 8
         },
         {
-          "query": "jalon daniels",
+          "query": "south carolina vs florida",
           "rank": 9
         },
         {
-          "query": "hurricane isaias",
+          "query": "barcelona vs getafe",
           "rank": 10
         },
         {
-          "query": "cowboys",
+          "query": "social security november payment date change",
           "rank": 11
         },
         {
-          "query": "leif erikson day",
+          "query": "real madrid vs villarreal",
           "rank": 12
         },
         {
-          "query": "aces vs valkyries",
+          "query": "florida state vs louisville",
           "rank": 13
         },
         {
-          "query": "tropical storm watch",
+          "query": "indiana vs nebraska",
           "rank": 14
         },
         {
-          "query": "thursday night football",
+          "query": "tennessee vs arkansas",
           "rank": 15
         },
         {
-          "query": "dallas cowboys",
+          "query": "texas a&m vs missouri",
           "rank": 16
         },
         {
-          "query": "hurricane isaias track",
+          "query": "iowa vs washington",
           "rank": 17
         },
         {
-          "query": "verne allison",
+          "query": "marvin harrison jr",
           "rank": 18
         },
         {
-          "query": "ceedee lamb",
+          "query": "tropical storm rachel",
           "rank": 19
         },
         {
-          "query": "bucky irving",
+          "query": "tornado watch",
           "rank": 20
         },
         {
-          "query": "hurricane isaias 2026 path",
+          "query": "ole miss vs vanderbilt",
           "rank": 21
         },
         {
-          "query": "hurricane",
+          "query": "college football today",
           "rank": 22
         },
         {
-          "query": "fort hood shooting",
+          "query": "ou vs texas",
           "rank": 23
         },
         {
-          "query": "carrie",
+          "query": "college football scores",
           "rank": 24
         },
         {
-          "query": "other mommy",
+          "query": "real madrid",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-10-10",
+      "sourceDate": "2026-10-11",
       "table": "top_terms",
       "terms": [
         {
-          "query": "real madrid vs villarreal",
+          "query": "lions vs cardinals",
           "rank": 1
         },
         {
-          "query": "maryland vs ohio state",
+          "query": "broncos vs chargers",
           "rank": 2
         },
         {
-          "query": "marvin harrison jr",
+          "query": "colts vs steelers",
           "rank": 3
         },
         {
-          "query": "south carolina vs florida",
+          "query": "vikings vs saints",
           "rank": 4
         },
         {
-          "query": "texas football",
+          "query": "browns vs jets",
           "rank": 5
         },
         {
-          "query": "indiana vs nebraska",
+          "query": "social security 2027 cola announcement",
           "rank": 6
         },
         {
-          "query": "tennessee vs arkansas",
+          "query": "bengals vs dolphins",
           "rank": 7
         },
         {
-          "query": "ucla vs oregon",
+          "query": "texans vs titans",
           "rank": 8
         },
         {
-          "query": "barcelona vs getafe",
+          "query": "scarlett johansson sci fi thriller",
           "rank": 9
         },
         {
-          "query": "ole miss vs vanderbilt",
+          "query": "49ers vs seahawks where to watch",
           "rank": 10
         },
         {
-          "query": "barcelona - getafe",
+          "query": "dan quinn",
           "rank": 11
         },
         {
-          "query": "texas a&m vs missouri",
+          "query": "bears packers",
           "rank": 12
         },
         {
-          "query": "stanford vs notre dame",
+          "query": "peso mexicano",
           "rank": 13
         },
         {
-          "query": "la liga",
+          "query": "cam little",
           "rank": 14
         },
         {
-          "query": "man utd vs spurs",
+          "query": "jennifer meyer",
           "rank": 15
         },
         {
-          "query": "erie pa mass shooting",
+          "query": "seahawks",
           "rank": 16
         },
         {
-          "query": "illinois vs mi state",
+          "query": "tanker",
           "rank": 17
         },
         {
-          "query": "ucf vs oklahoma st",
+          "query": "pope leo",
           "rank": 18
         },
         {
-          "query": "psg vs le mans",
+          "query": "niners vs seahawks",
           "rank": 19
         },
         {
-          "query": "social security extra deposit 90",
+          "query": "ravens vs falcons",
           "rank": 20
         },
         {
-          "query": "usa vs spain",
+          "query": "chicago marathon results",
           "rank": 21
         },
         {
-          "query": "houston vs kansas state",
+          "query": "flood warning",
           "rank": 22
         },
         {
-          "query": "duke vs georgia tech",
+          "query": "rande gerber cindy crawford beach",
           "rank": 23
         },
         {
-          "query": "virginia tech vs california",
+          "query": "trevon diggs",
           "rank": 24
         },
         {
-          "query": "unc vs pittsburgh",
+          "query": "david lipsky",
           "rank": 25
         }
       ]

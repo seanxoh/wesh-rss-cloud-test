@@ -6,222 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-13T00:37:37.442Z",
-  "runId": "38328163255",
+  "capturedAt": "2026-10-13T14:08:51.371Z",
+  "runId": "38410838415",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 190308940,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-11",
+      "sourceDate": "2026-10-12",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "ditka",
+          "query": "eagles vs jaguars",
           "rank": 1
         },
         {
-          "query": "mike ditka",
+          "query": "real madrid villarreal",
           "rank": 2
         },
         {
-          "query": "real madrid villarreal",
+          "query": "barcelona getafe",
           "rank": 3
         },
         {
-          "query": "barcelona getafe",
+          "query": "giants vs commanders",
           "rank": 4
         },
         {
-          "query": "texas vs oklahoma",
+          "query": "raiders vs patriots",
           "rank": 5
         },
         {
-          "query": "katie zacharia",
+          "query": "49ers vs seahawks",
           "rank": 6
         },
         {
-          "query": "maryland vs ohio state",
+          "query": "post-tropical cyclone isaias",
           "rank": 7
         },
         {
-          "query": "panama earthquake",
+          "query": "texas vs oklahoma",
           "rank": 8
         },
         {
-          "query": "south carolina vs florida",
+          "query": "broncos vs chargers",
           "rank": 9
         },
         {
-          "query": "barcelona vs getafe",
+          "query": "lions vs cardinals",
           "rank": 10
         },
         {
-          "query": "social security november payment date change",
+          "query": "colts vs steelers",
           "rank": 11
         },
         {
-          "query": "real madrid vs villarreal",
+          "query": "bears vs packers",
           "rank": 12
         },
         {
-          "query": "florida state vs louisville",
+          "query": "maryland vs ohio state",
           "rank": 13
         },
         {
-          "query": "indiana vs nebraska",
+          "query": "lsu vs kentucky",
           "rank": 14
         },
         {
-          "query": "tennessee vs arkansas",
+          "query": "vikings vs saints",
           "rank": 15
         },
         {
-          "query": "texas a&m vs missouri",
+          "query": "south carolina vs florida",
           "rank": 16
         },
         {
-          "query": "iowa vs washington",
+          "query": "real madrid vs villarreal",
           "rank": 17
         },
         {
-          "query": "marvin harrison jr",
+          "query": "barcelona vs getafe",
           "rank": 18
         },
         {
-          "query": "tropical storm rachel",
+          "query": "marvin harrison jr",
           "rank": 19
         },
         {
-          "query": "tornado watch",
+          "query": "bengals vs dolphins",
           "rank": 20
         },
         {
-          "query": "ole miss vs vanderbilt",
+          "query": "browns vs jets",
           "rank": 21
         },
         {
-          "query": "college football today",
+          "query": "ucla vs oregon",
           "rank": 22
         },
         {
-          "query": "ou vs texas",
+          "query": "tennessee vs arkansas",
           "rank": 23
         },
         {
-          "query": "college football scores",
+          "query": "indiana vs nebraska",
           "rank": 24
         },
         {
-          "query": "real madrid",
+          "query": "alabama vs georgia",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-10-11",
+      "sourceDate": "2026-10-12",
       "table": "top_terms",
       "terms": [
         {
-          "query": "lions vs cardinals",
+          "query": "rj mitte",
           "rank": 1
         },
         {
-          "query": "broncos vs chargers",
+          "query": "selma blair",
           "rank": 2
         },
         {
-          "query": "colts vs steelers",
+          "query": "ilhan omar",
           "rank": 3
         },
         {
-          "query": "vikings vs saints",
+          "query": "is today a federal holiday",
           "rank": 4
         },
         {
-          "query": "browns vs jets",
+          "query": "diddy news",
           "rank": 5
         },
         {
-          "query": "social security 2027 cola announcement",
+          "query": "indigo power bank fire flight",
           "rank": 6
         },
         {
-          "query": "bengals vs dolphins",
+          "query": "al-nassr vs neftchi fergana",
           "rank": 7
         },
         {
-          "query": "texans vs titans",
+          "query": "vip millions scratch off winner",
           "rank": 8
         },
         {
-          "query": "scarlett johansson sci fi thriller",
+          "query": "coventry vs newcastle",
           "rank": 9
         },
         {
-          "query": "49ers vs seahawks where to watch",
+          "query": "disney hollywood studios early closure october",
           "rank": 10
         },
         {
-          "query": "dan quinn",
+          "query": "shane gillis snl monologue",
           "rank": 11
         },
         {
-          "query": "bears packers",
+          "query": "upcoming social security payment amounts",
           "rank": 12
         },
         {
-          "query": "peso mexicano",
+          "query": "levante - sevilla",
           "rank": 13
         },
         {
-          "query": "cam little",
+          "query": "trump administration dc golf course halt",
           "rank": 14
         },
         {
-          "query": "jennifer meyer",
+          "query": "canadian couple second lottery win",
           "rank": 15
         },
         {
-          "query": "seahawks",
+          "query": "amber siyavus",
           "rank": 16
         },
         {
-          "query": "tanker",
+          "query": "sahil jilani abrams falls search",
           "rank": 17
         },
         {
-          "query": "pope leo",
+          "query": "lane kiffin kentucky whistle quote",
           "rank": 18
         },
         {
-          "query": "niners vs seahawks",
+          "query": "arby's new chicken cheesesteak sandwiches",
           "rank": 19
         },
         {
-          "query": "ravens vs falcons",
+          "query": "mike pettine",
           "rank": 20
         },
         {
-          "query": "chicago marathon results",
+          "query": "federal reserve inflation policy economic impact",
           "rank": 21
         },
         {
-          "query": "flood warning",
+          "query": "solar power",
           "rank": 22
         },
         {
-          "query": "rande gerber cindy crawford beach",
+          "query": "john wayne",
           "rank": 23
         },
         {
-          "query": "trevon diggs",
+          "query": "kerry kennedy ethel kennedy jacqueline onassis",
           "rank": 24
         },
         {
-          "query": "david lipsky",
+          "query": "geomagnetic storm aurora visibility northern us",
           "rank": 25
         }
       ]

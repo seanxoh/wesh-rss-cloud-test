@@ -6,47 +6,47 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-13T22:42:59.421Z",
-  "runId": "38479605103",
+  "capturedAt": "2026-10-14T04:50:29.234Z",
+  "runId": "38513464377",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 175508560,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-12",
+      "sourceDate": "2026-10-13",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "eagles vs jaguars",
+          "query": "rj mitte",
           "rank": 1
         },
         {
-          "query": "real madrid villarreal",
+          "query": "elision",
           "rank": 2
         },
         {
-          "query": "barcelona getafe",
+          "query": "eagles vs jaguars",
           "rank": 3
         },
         {
-          "query": "giants vs commanders",
+          "query": "ravens vs falcons",
           "rank": 4
         },
         {
-          "query": "raiders vs patriots",
+          "query": "selma blair",
           "rank": 5
         },
         {
-          "query": "49ers vs seahawks",
+          "query": "seahawks vs 49ers",
           "rank": 6
         },
         {
-          "query": "post-tropical cyclone isaias",
+          "query": "alkylamide",
           "rank": 7
         },
         {
-          "query": "texas vs oklahoma",
+          "query": "raiders vs patriots",
           "rank": 8
         },
         {
@@ -54,174 +54,174 @@
           "rank": 9
         },
         {
-          "query": "lions vs cardinals",
+          "query": "giants vs commanders",
           "rank": 10
         },
         {
-          "query": "colts vs steelers",
+          "query": "lions vs cardinals",
           "rank": 11
         },
         {
-          "query": "bears vs packers",
+          "query": "colts vs steelers",
           "rank": 12
         },
         {
-          "query": "maryland vs ohio state",
+          "query": "brewers vs dodgers",
           "rank": 13
         },
         {
-          "query": "lsu vs kentucky",
+          "query": "vikings vs saints",
           "rank": 14
         },
         {
-          "query": "vikings vs saints",
+          "query": "bears vs packers",
           "rank": 15
         },
         {
-          "query": "south carolina vs florida",
+          "query": "bengals vs dolphins",
           "rank": 16
         },
         {
-          "query": "real madrid vs villarreal",
+          "query": "browns vs jets",
           "rank": 17
         },
         {
-          "query": "barcelona vs getafe",
+          "query": "melamine",
           "rank": 18
         },
         {
-          "query": "marvin harrison jr",
+          "query": "ilhan omar",
           "rank": 19
         },
         {
-          "query": "bengals vs dolphins",
+          "query": "alkylamide meaning",
           "rank": 20
         },
         {
-          "query": "browns vs jets",
+          "query": "elision definition",
           "rank": 21
         },
         {
-          "query": "ucla vs oregon",
+          "query": "social security 2027 cola announcement",
           "rank": 22
         },
         {
-          "query": "tennessee vs arkansas",
+          "query": "jaguars",
           "rank": 23
         },
         {
-          "query": "indiana vs nebraska",
+          "query": "texans vs titans",
           "rank": 24
         },
         {
-          "query": "alabama vs georgia",
+          "query": "liverpool vs man city",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-10-12",
+      "sourceDate": "2026-10-13",
       "table": "top_terms",
       "terms": [
         {
-          "query": "rj mitte",
+          "query": "galatasaray vs barcelona",
           "rank": 1
         },
         {
-          "query": "selma blair",
+          "query": "galatasaray - barcelona",
           "rank": 2
         },
         {
-          "query": "ilhan omar",
+          "query": "atlético vs man utd",
           "rank": 3
         },
         {
-          "query": "is today a federal holiday",
+          "query": "viking vs bayern",
           "rank": 4
         },
         {
-          "query": "diddy news",
+          "query": "barcelona",
           "rank": 5
         },
         {
-          "query": "indigo power bank fire flight",
+          "query": "arsenal vs losc",
           "rank": 6
         },
         {
-          "query": "al-nassr vs neftchi fergana",
+          "query": "sotomayor gorsuch immigration case",
           "rank": 7
         },
         {
-          "query": "vip millions scratch off winner",
+          "query": "apple homeview",
           "rank": 8
         },
         {
-          "query": "coventry vs newcastle",
+          "query": "new press secretary",
           "rank": 9
         },
         {
-          "query": "disney hollywood studios early closure october",
+          "query": "hassan jihad ibn kariem",
           "rank": 10
         },
         {
-          "query": "shane gillis snl monologue",
+          "query": "airplane",
           "rank": 11
         },
         {
-          "query": "upcoming social security payment amounts",
+          "query": "dollar tree holiday icon glasses",
           "rank": 12
         },
         {
-          "query": "levante - sevilla",
+          "query": "pope",
           "rank": 13
         },
         {
-          "query": "trump administration dc golf course halt",
+          "query": "inter vs club brugge",
           "rank": 14
         },
         {
-          "query": "canadian couple second lottery win",
+          "query": "lucian piane",
           "rank": 15
         },
         {
-          "query": "amber siyavus",
+          "query": "villarreal vs napoli",
           "rank": 16
         },
         {
-          "query": "sahil jilani abrams falls search",
+          "query": "calvin harris tour",
           "rank": 17
         },
         {
-          "query": "lane kiffin kentucky whistle quote",
+          "query": "spacex launch",
           "rank": 18
         },
         {
-          "query": "arby's new chicken cheesesteak sandwiches",
+          "query": "department of government efficiency",
           "rank": 19
         },
         {
-          "query": "mike pettine",
+          "query": "social security administration 2027 cola",
           "rank": 20
         },
         {
-          "query": "federal reserve inflation policy economic impact",
+          "query": "arsenal - losc",
           "rank": 21
         },
         {
-          "query": "solar power",
+          "query": "manchester united",
           "rank": 22
         },
         {
-          "query": "john wayne",
+          "query": "montez sweat",
           "rank": 23
         },
         {
-          "query": "kerry kennedy ethel kennedy jacqueline onassis",
+          "query": "tupac shakur",
           "rank": 24
         },
         {
-          "query": "geomagnetic storm aurora visibility northern us",
+          "query": "villarreal - napoli",
           "rank": 25
         }
       ]

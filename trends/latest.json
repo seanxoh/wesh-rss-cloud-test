@@ -6,222 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-17T20:34:46.042Z",
-  "runId": "39067298086",
+  "capturedAt": "2026-10-18T04:29:45.687Z",
+  "runId": "39097275264",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 178510950,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-13",
+      "sourceDate": "2026-10-17",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "rj mitte",
+          "query": "oregon shooting",
           "rank": 1
         },
         {
-          "query": "elision",
+          "query": "broncos vs seahawks",
           "rank": 2
         },
         {
-          "query": "eagles vs jaguars",
+          "query": "oregon school shooting",
           "rank": 3
         },
         {
-          "query": "ravens vs falcons",
+          "query": "tesla roadster",
           "rank": 4
         },
         {
-          "query": "selma blair",
+          "query": "tesla flying car",
           "rank": 5
         },
         {
-          "query": "seahawks vs 49ers",
+          "query": "silver rail elementary",
           "rank": 6
         },
         {
-          "query": "alkylamide",
+          "query": "clifton jackie jackson reggae bassist",
           "rank": 7
         },
         {
-          "query": "raiders vs patriots",
+          "query": "david surkamp rock singer passes",
           "rank": 8
         },
         {
-          "query": "broncos vs chargers",
+          "query": "bend oregon school shooting",
           "rank": 9
         },
         {
-          "query": "giants vs commanders",
+          "query": "bulgari",
           "rank": 10
         },
         {
-          "query": "lions vs cardinals",
+          "query": "esther mcgregor",
           "rank": 11
         },
         {
-          "query": "colts vs steelers",
+          "query": "emilio sakraya",
           "rank": 12
         },
         {
-          "query": "brewers vs dodgers",
+          "query": "new tesla roadster",
           "rank": 13
         },
         {
-          "query": "vikings vs saints",
+          "query": "bend oregon",
           "rank": 14
         },
         {
-          "query": "bears vs packers",
+          "query": "racine",
           "rank": 15
         },
         {
-          "query": "bengals vs dolphins",
+          "query": "broncos",
           "rank": 16
         },
         {
-          "query": "browns vs jets",
+          "query": "seahawks",
           "rank": 17
         },
         {
-          "query": "melamine",
+          "query": "tesla roadster price",
           "rank": 18
         },
         {
-          "query": "ilhan omar",
+          "query": "elon musk flying car",
           "rank": 19
         },
         {
-          "query": "alkylamide meaning",
+          "query": "jalen hurts",
           "rank": 20
         },
         {
-          "query": "elision definition",
+          "query": "broncos game",
           "rank": 21
         },
         {
-          "query": "social security 2027 cola announcement",
+          "query": "vanessa trump",
           "rank": 22
         },
         {
-          "query": "jaguars",
+          "query": "freeze watch",
           "rank": 23
         },
         {
-          "query": "texans vs titans",
+          "query": "what happened to tyler ulrich",
           "rank": 24
         },
         {
-          "query": "liverpool vs man city",
+          "query": "thursday night football",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-10-13",
+      "sourceDate": "2026-10-17",
       "table": "top_terms",
       "terms": [
         {
-          "query": "galatasaray vs barcelona",
+          "query": "michael beasley",
           "rank": 1
         },
         {
-          "query": "galatasaray - barcelona",
+          "query": "kaylub giamanco",
           "rank": 2
         },
         {
-          "query": "atlético vs man utd",
+          "query": "press secretary fired",
           "rank": 3
         },
         {
-          "query": "viking vs bayern",
+          "query": "washington vs purdue",
           "rank": 4
         },
         {
-          "query": "barcelona",
+          "query": "norte fire",
           "rank": 5
         },
         {
-          "query": "arsenal vs losc",
+          "query": "memphis vs tulane",
           "rank": 6
         },
         {
-          "query": "sotomayor gorsuch immigration case",
+          "query": "the diplomat rotten tomatoes score",
           "rank": 7
         },
         {
-          "query": "apple homeview",
+          "query": "necaxa - atlas",
           "rank": 8
         },
         {
-          "query": "new press secretary",
+          "query": "how to vote in the us midterms",
           "rank": 9
         },
         {
-          "query": "hassan jihad ibn kariem",
+          "query": "joe milton",
           "rank": 10
         },
         {
-          "query": "airplane",
+          "query": "twitch",
           "rank": 11
         },
         {
-          "query": "dollar tree holiday icon glasses",
+          "query": "what are the new disney mcdonald's boo buckets for halloween",
           "rank": 12
         },
         {
-          "query": "pope",
+          "query": "app state vs coastal carolina",
           "rank": 13
         },
         {
-          "query": "inter vs club brugge",
+          "query": "josh jacobs",
           "rank": 14
         },
         {
-          "query": "lucian piane",
+          "query": "penguins vs avalanche",
           "rank": 15
         },
         {
-          "query": "villarreal vs napoli",
+          "query": "timothy busfield",
           "rank": 16
         },
         {
-          "query": "calvin harris tour",
+          "query": "daylight savings time",
           "rank": 17
         },
         {
-          "query": "spacex launch",
+          "query": "red rising movie",
           "rank": 18
         },
         {
-          "query": "department of government efficiency",
+          "query": "kasey redfern",
           "rank": 19
         },
         {
-          "query": "social security administration 2027 cola",
+          "query": "rays - guardians",
           "rank": 20
         },
         {
-          "query": "arsenal - losc",
+          "query": "cbs action thriller tracker show",
           "rank": 21
         },
         {
-          "query": "manchester united",
+          "query": "tijuana - puebla",
           "rank": 22
         },
         {
-          "query": "montez sweat",
+          "query": "ryan garcia",
           "rank": 23
         },
         {
-          "query": "tupac shakur",
+          "query": "atlante - pumas",
           "rank": 24
         },
         {
-          "query": "villarreal - napoli",
+          "query": "delta flight attendant cabin crew dispute",
           "rank": 25
         }
       ]

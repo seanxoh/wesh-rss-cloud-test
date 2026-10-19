@@ -6,51 +6,51 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-18T20:40:02.006Z",
-  "runId": "39164332242",
+  "capturedAt": "2026-10-19T04:37:55.432Z",
+  "runId": "39200422281",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 178424620,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-17",
+      "sourceDate": "2026-10-18",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "oregon shooting",
+          "query": "ohio state vs indiana",
           "rank": 1
         },
         {
-          "query": "broncos vs seahawks",
+          "query": "tesla flying car",
           "rank": 2
         },
         {
-          "query": "oregon school shooting",
+          "query": "auburn vs georgia",
           "rank": 3
         },
         {
-          "query": "tesla roadster",
+          "query": "florida vs texas",
           "rank": 4
         },
         {
-          "query": "tesla flying car",
+          "query": "betis vs barcelona",
           "rank": 5
         },
         {
-          "query": "silver rail elementary",
+          "query": "alabama vs tennessee",
           "rank": 6
         },
         {
-          "query": "clifton jackie jackson reggae bassist",
+          "query": "penn state vs michigan",
           "rank": 7
         },
         {
-          "query": "david surkamp rock singer passes",
+          "query": "wnba finals",
           "rank": 8
         },
         {
-          "query": "bend oregon school shooting",
+          "query": "real betis barcelona",
           "rank": 9
         },
         {
@@ -58,31 +58,31 @@
           "rank": 10
         },
         {
-          "query": "esther mcgregor",
+          "query": "tesla roadster",
           "rank": 11
         },
         {
-          "query": "emilio sakraya",
+          "query": "gaffe",
           "rank": 12
         },
         {
-          "query": "new tesla roadster",
+          "query": "norte fire",
           "rank": 13
         },
         {
-          "query": "bend oregon",
+          "query": "new tesla roadster",
           "rank": 14
         },
         {
-          "query": "racine",
+          "query": "ms state vs lsu",
           "rank": 15
         },
         {
-          "query": "broncos",
+          "query": "what happened to tyler ulrich",
           "rank": 16
         },
         {
-          "query": "seahawks",
+          "query": "elon musk flying car",
           "rank": 17
         },
         {
@@ -90,138 +90,138 @@
           "rank": 18
         },
         {
-          "query": "elon musk flying car",
+          "query": "college football today",
           "rank": 19
         },
         {
-          "query": "jalen hurts",
+          "query": "dream vs valkyries",
           "rank": 20
         },
         {
-          "query": "broncos game",
+          "query": "ohio state football",
           "rank": 21
         },
         {
-          "query": "vanessa trump",
+          "query": "college football scores",
           "rank": 22
         },
         {
-          "query": "freeze watch",
+          "query": "indiana football",
           "rank": 23
         },
         {
-          "query": "what happened to tyler ulrich",
+          "query": "auburn football",
           "rank": 24
         },
         {
-          "query": "thursday night football",
+          "query": "finales de la wnba",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-10-17",
+      "sourceDate": "2026-10-18",
       "table": "top_terms",
       "terms": [
         {
-          "query": "michael beasley",
+          "query": "steelers vs buccaneers",
           "rank": 1
         },
         {
-          "query": "kaylub giamanco",
+          "query": "chargers vs chiefs",
           "rank": 2
         },
         {
-          "query": "press secretary fired",
+          "query": "panthers vs eagles",
           "rank": 3
         },
         {
-          "query": "washington vs purdue",
+          "query": "saints vs giants",
           "rank": 4
         },
         {
-          "query": "norte fire",
+          "query": "real madrid vs sevilla",
           "rank": 5
         },
         {
-          "query": "memphis vs tulane",
+          "query": "ravens vs browns",
           "rank": 6
         },
         {
-          "query": "the diplomat rotten tomatoes score",
+          "query": "cardinals vs rams",
           "rank": 7
         },
         {
-          "query": "necaxa - atlas",
+          "query": "real madrid - sevilla",
           "rank": 8
         },
         {
-          "query": "how to vote in the us midterms",
+          "query": "jets vs patriots",
           "rank": 9
         },
         {
-          "query": "joe milton",
+          "query": "titans vs colts",
           "rank": 10
         },
         {
-          "query": "twitch",
+          "query": "us coast guard baja rescue",
           "rank": 11
         },
         {
-          "query": "what are the new disney mcdonald's boo buckets for halloween",
+          "query": "cindy crawford son",
           "rank": 12
         },
         {
-          "query": "app state vs coastal carolina",
+          "query": "david hearn",
           "rank": 13
         },
         {
-          "query": "josh jacobs",
+          "query": "steelers game",
           "rank": 14
         },
         {
-          "query": "penguins vs avalanche",
+          "query": "nottm forest vs arsenal",
           "rank": 15
         },
         {
-          "query": "timothy busfield",
+          "query": "cam skattebo",
           "rank": 16
         },
         {
-          "query": "daylight savings time",
+          "query": "raiders vs bills",
           "rank": 17
         },
         {
-          "query": "red rising movie",
+          "query": "what time is the victoria secret fashion show",
           "rank": 18
         },
         {
-          "query": "kasey redfern",
+          "query": "airman falls",
           "rank": 19
         },
         {
-          "query": "rays - guardians",
+          "query": "tiger shroff",
           "rank": 20
         },
         {
-          "query": "cbs action thriller tracker show",
+          "query": "kendal daniels",
           "rank": 21
         },
         {
-          "query": "tijuana - puebla",
+          "query": "el nino west coast weather impact",
           "rank": 22
         },
         {
-          "query": "ryan garcia",
+          "query": "ohio powerball winners october 17",
           "rank": 23
         },
         {
-          "query": "atlante - pumas",
+          "query": "bills vs raiders where to watch",
           "rank": 24
         },
         {
-          "query": "delta flight attendant cabin crew dispute",
+          "query": "falcons vs bears",
           "rank": 25
         }
       ]

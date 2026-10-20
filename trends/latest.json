@@ -6,222 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-19T22:19:51.085Z",
-  "runId": "39334144373",
+  "capturedAt": "2026-10-20T04:47:37.509Z",
+  "runId": "39371437038",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 176388880,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-18",
+      "sourceDate": "2026-10-19",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "ohio state vs indiana",
+          "query": "wnba finals",
           "rank": 1
         },
         {
-          "query": "tesla flying car",
+          "query": "real madrid sevilla",
           "rank": 2
         },
         {
-          "query": "auburn vs georgia",
+          "query": "bills vs raiders",
           "rank": 3
         },
         {
-          "query": "florida vs texas",
+          "query": "steelers vs buccaneers",
           "rank": 4
         },
         {
-          "query": "betis vs barcelona",
+          "query": "vaporetto",
           "rank": 5
         },
         {
-          "query": "alabama vs tennessee",
+          "query": "bears vs falcons",
           "rank": 6
         },
         {
-          "query": "penn state vs michigan",
+          "query": "texans vs jaguars",
           "rank": 7
         },
         {
-          "query": "wnba finals",
+          "query": "chargers vs chiefs",
           "rank": 8
         },
         {
-          "query": "real betis barcelona",
+          "query": "auburn vs georgia",
           "rank": 9
         },
         {
-          "query": "bulgari",
+          "query": "ohio state vs indiana",
           "rank": 10
         },
         {
-          "query": "tesla roadster",
+          "query": "alabama vs tennessee",
           "rank": 11
         },
         {
-          "query": "gaffe",
+          "query": "real madrid vs sevilla",
           "rank": 12
         },
         {
-          "query": "norte fire",
+          "query": "florida vs texas",
           "rank": 13
         },
         {
-          "query": "new tesla roadster",
+          "query": "panthers vs eagles",
           "rank": 14
         },
         {
-          "query": "ms state vs lsu",
+          "query": "cardinals vs rams",
           "rank": 15
         },
         {
-          "query": "what happened to tyler ulrich",
+          "query": "betis vs barcelona",
           "rank": 16
         },
         {
-          "query": "elon musk flying car",
+          "query": "ravens vs browns",
           "rank": 17
         },
         {
-          "query": "tesla roadster price",
+          "query": "penn state vs michigan",
           "rank": 18
         },
         {
-          "query": "college football today",
+          "query": "saints vs giants",
           "rank": 19
         },
         {
-          "query": "dream vs valkyries",
+          "query": "jets vs patriots",
           "rank": 20
         },
         {
-          "query": "ohio state football",
+          "query": "florida state vs miami fl",
           "rank": 21
         },
         {
-          "query": "college football scores",
+          "query": "gaffe",
           "rank": 22
         },
         {
-          "query": "indiana football",
+          "query": "wnba",
           "rank": 23
         },
         {
-          "query": "auburn football",
+          "query": "real betis barcelona",
           "rank": 24
         },
         {
-          "query": "finales de la wnba",
+          "query": "nebraska vs oregon",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-10-18",
+      "sourceDate": "2026-10-19",
       "table": "top_terms",
       "terms": [
         {
-          "query": "steelers vs buccaneers",
+          "query": "kayem foods meat recall usda",
           "rank": 1
         },
         {
-          "query": "chargers vs chiefs",
+          "query": "jalen hurts",
           "rank": 2
         },
         {
-          "query": "panthers vs eagles",
+          "query": "spurs vs coventry",
           "rank": 3
         },
         {
-          "query": "saints vs giants",
+          "query": "richard riehle",
           "rank": 4
         },
         {
-          "query": "real madrid vs sevilla",
+          "query": "social security trust fund depletion",
           "rank": 5
         },
         {
-          "query": "ravens vs browns",
+          "query": "strait of hormuz news",
           "rank": 6
         },
         {
-          "query": "cardinals vs rams",
+          "query": "gluten free ritz cracker launch",
           "rank": 7
         },
         {
-          "query": "real madrid - sevilla",
+          "query": "kim jong un dead",
           "rank": 8
         },
         {
-          "query": "jets vs patriots",
+          "query": "social security administration cola increase",
           "rank": 9
         },
         {
-          "query": "titans vs colts",
+          "query": "pentagon plea deal appeals denied",
           "rank": 10
         },
         {
-          "query": "us coast guard baja rescue",
+          "query": "richard grenell",
           "rank": 11
         },
         {
-          "query": "cindy crawford son",
+          "query": "chris ballard",
           "rank": 12
         },
         {
-          "query": "david hearn",
+          "query": "getafe - rayo vallecano",
           "rank": 13
         },
         {
-          "query": "steelers game",
+          "query": "iran us",
           "rank": 14
         },
         {
-          "query": "nottm forest vs arsenal",
+          "query": "child neglect",
           "rank": 15
         },
         {
-          "query": "cam skattebo",
+          "query": "lay's new holiday potato chips",
           "rank": 16
         },
         {
-          "query": "raiders vs bills",
+          "query": "volcano",
           "rank": 17
         },
         {
-          "query": "what time is the victoria secret fashion show",
+          "query": "getafe vs rayo",
           "rank": 18
         },
         {
-          "query": "airman falls",
+          "query": "alaska",
           "rank": 19
         },
         {
-          "query": "tiger shroff",
+          "query": "davante adams",
           "rank": 20
         },
         {
-          "query": "kendal daniels",
+          "query": "measles",
           "rank": 21
         },
         {
-          "query": "el nino west coast weather impact",
+          "query": "harry and meghan",
           "rank": 22
         },
         {
-          "query": "ohio powerball winners october 17",
+          "query": "christiane amanpour",
           "rank": 23
         },
         {
-          "query": "bills vs raiders where to watch",
+          "query": "north korea",
           "rank": 24
         },
         {
-          "query": "falcons vs bears",
+          "query": "apple iphone duo sold out",
           "rank": 25
         }
       ]

@@ -6,222 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-20T21:35:42.332Z",
-  "runId": "39501597647",
+  "capturedAt": "2026-10-21T04:43:22.694Z",
+  "runId": "39545575566",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 180350320,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-19",
+      "sourceDate": "2026-10-20",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "wnba finals",
+          "query": "cowboys vs packers",
           "rank": 1
         },
         {
-          "query": "real madrid sevilla",
+          "query": "vaporetto",
           "rank": 2
         },
         {
-          "query": "bills vs raiders",
+          "query": "real madrid sevilla",
           "rank": 3
         },
         {
-          "query": "steelers vs buccaneers",
+          "query": "bills vs raiders",
           "rank": 4
         },
         {
-          "query": "vaporetto",
+          "query": "steelers vs buccaneers",
           "rank": 5
         },
         {
-          "query": "bears vs falcons",
+          "query": "chargers vs chiefs",
           "rank": 6
         },
         {
-          "query": "texans vs jaguars",
+          "query": "bears vs falcons",
           "rank": 7
         },
         {
-          "query": "chargers vs chiefs",
+          "query": "texans vs jaguars",
           "rank": 8
         },
         {
-          "query": "auburn vs georgia",
+          "query": "kim jong un",
           "rank": 9
         },
         {
-          "query": "ohio state vs indiana",
+          "query": "cardinals vs rams",
           "rank": 10
         },
         {
-          "query": "alabama vs tennessee",
+          "query": "saints vs giants",
           "rank": 11
         },
         {
-          "query": "real madrid vs sevilla",
+          "query": "panthers vs eagles",
           "rank": 12
         },
         {
-          "query": "florida vs texas",
+          "query": "real madrid vs sevilla",
           "rank": 13
         },
         {
-          "query": "panthers vs eagles",
+          "query": "jets vs patriots",
           "rank": 14
         },
         {
-          "query": "cardinals vs rams",
+          "query": "blather",
           "rank": 15
         },
         {
-          "query": "betis vs barcelona",
+          "query": "ravens vs browns",
           "rank": 16
         },
         {
-          "query": "ravens vs browns",
+          "query": "carlsbad caverns cheetos impact",
           "rank": 17
         },
         {
-          "query": "penn state vs michigan",
+          "query": "kayem foods meat recall usda",
           "rank": 18
         },
         {
-          "query": "saints vs giants",
+          "query": "fogerty meaning",
           "rank": 19
         },
         {
-          "query": "jets vs patriots",
+          "query": "titans vs colts",
           "rank": 20
         },
         {
-          "query": "florida state vs miami fl",
+          "query": "baja boat sharks",
           "rank": 21
         },
         {
-          "query": "gaffe",
+          "query": "nebraska vs oregon",
           "rank": 22
         },
         {
-          "query": "wnba",
+          "query": "victoria secret fashion show 2026",
           "rank": 23
         },
         {
-          "query": "real betis barcelona",
+          "query": "packers",
           "rank": 24
         },
         {
-          "query": "nebraska vs oregon",
+          "query": "cowboys game",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-10-19",
+      "sourceDate": "2026-10-20",
       "table": "top_terms",
       "terms": [
         {
-          "query": "kayem foods meat recall usda",
+          "query": "psg - barcelona",
           "rank": 1
         },
         {
-          "query": "jalen hurts",
+          "query": "kyle kennedy",
           "rank": 2
         },
         {
-          "query": "spurs vs coventry",
+          "query": "christina applegate",
           "rank": 3
         },
         {
-          "query": "richard riehle",
+          "query": "liverpool vs villarreal",
           "rank": 4
         },
         {
-          "query": "social security trust fund depletion",
+          "query": "nba",
           "rank": 5
         },
         {
-          "query": "strait of hormuz news",
+          "query": "celtics",
           "rank": 6
         },
         {
-          "query": "gluten free ritz cracker launch",
+          "query": "social security number database integrity",
           "rank": 7
         },
         {
-          "query": "kim jong un dead",
+          "query": "man city vs aek",
           "rank": 8
         },
         {
-          "query": "social security administration cola increase",
+          "query": "psg",
           "rank": 9
         },
         {
-          "query": "pentagon plea deal appeals denied",
+          "query": "stuttgart - atlético madrid",
           "rank": 10
         },
         {
-          "query": "richard grenell",
+          "query": "burger king hello kitty meal",
           "rank": 11
         },
         {
-          "query": "chris ballard",
+          "query": "fc barcelona",
           "rank": 12
         },
         {
-          "query": "getafe - rayo vallecano",
+          "query": "nba games",
           "rank": 13
         },
         {
-          "query": "iran us",
+          "query": "trump administration cnn press ban",
           "rank": 14
         },
         {
-          "query": "child neglect",
+          "query": "roma vs slovan bratislava",
           "rank": 15
         },
         {
-          "query": "lay's new holiday potato chips",
+          "query": "thanksgiving week weather forecast",
           "rank": 16
         },
         {
-          "query": "volcano",
+          "query": "fred lorenzen brain study results",
           "rank": 17
         },
         {
-          "query": "getafe vs rayo",
+          "query": "paul george",
           "rank": 18
         },
         {
-          "query": "alaska",
+          "query": "democrats midterm election expectations",
           "rank": 19
         },
         {
-          "query": "davante adams",
+          "query": "elizabeth ii",
           "rank": 20
         },
         {
-          "query": "measles",
+          "query": "california great white shark breach",
           "rank": 21
         },
         {
-          "query": "harry and meghan",
+          "query": "najee harris",
           "rank": 22
         },
         {
-          "query": "christiane amanpour",
+          "query": "xavi espart",
           "rank": 23
         },
         {
-          "query": "north korea",
+          "query": "vivek ramaswamy",
           "rank": 24
         },
         {
-          "query": "apple iphone duo sold out",
+          "query": "boston celtics vs detroit pistons match player stats",
           "rank": 25
         }
       ]

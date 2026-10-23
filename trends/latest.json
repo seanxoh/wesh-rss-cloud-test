@@ -6,223 +6,211 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-22T21:33:41.910Z",
-  "runId": "39858234322",
+  "capturedAt": "2026-10-23T04:46:32.686Z",
+  "runId": "39902106091",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 159772054,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-20",
+      "sourceDate": "2026-10-22",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "cowboys vs packers",
+          "query": "76ers vs knicks",
           "rank": 1
         },
         {
-          "query": "vaporetto",
+          "query": "real madrid rb leipzig",
           "rank": 2
         },
         {
-          "query": "real madrid sevilla",
+          "query": "thunder vs spurs",
           "rank": 3
         },
         {
-          "query": "bills vs raiders",
+          "query": "kyle kennedy",
           "rank": 4
         },
         {
-          "query": "steelers vs buccaneers",
+          "query": "wrest",
           "rank": 5
         },
         {
-          "query": "chargers vs chiefs",
+          "query": "real madrid vs rb leipzig",
           "rank": 6
         },
         {
-          "query": "bears vs falcons",
+          "query": "celtics vs pistons",
           "rank": 7
         },
         {
-          "query": "texans vs jaguars",
+          "query": "arial",
           "rank": 8
         },
         {
-          "query": "kim jong un",
+          "query": "christina applegate",
           "rank": 9
         },
         {
-          "query": "cardinals vs rams",
+          "query": "bayern vs arsenal",
           "rank": 10
         },
         {
-          "query": "saints vs giants",
+          "query": "psg barcelona",
           "rank": 11
         },
         {
-          "query": "panthers vs eagles",
+          "query": "psg vs barcelona",
           "rank": 12
         },
         {
-          "query": "real madrid vs sevilla",
+          "query": "bioware",
           "rank": 13
         },
         {
-          "query": "jets vs patriots",
+          "query": "english horn",
           "rank": 14
         },
         {
-          "query": "blather",
+          "query": "76ers",
           "rank": 15
         },
         {
-          "query": "ravens vs browns",
+          "query": "us social security administration database cleanup",
           "rank": 16
         },
         {
-          "query": "carlsbad caverns cheetos impact",
+          "query": "stooge",
           "rank": 17
         },
         {
-          "query": "kayem foods meat recall usda",
+          "query": "amy acton",
           "rank": 18
         },
         {
-          "query": "fogerty meaning",
+          "query": "mantis shrimp",
           "rank": 19
         },
         {
-          "query": "titans vs colts",
+          "query": "knicks",
           "rank": 20
         },
         {
-          "query": "baja boat sharks",
+          "query": "psg",
           "rank": 21
         },
         {
-          "query": "nebraska vs oregon",
+          "query": "ramaswamy",
           "rank": 22
         },
         {
-          "query": "victoria secret fashion show 2026",
+          "query": "como vs man utd",
           "rank": 23
         },
         {
-          "query": "packers",
+          "query": "php vulnerability",
           "rank": 24
         },
         {
-          "query": "cowboys game",
+          "query": "flood watch",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-10-20",
+      "sourceDate": "2026-10-22",
       "table": "top_terms",
       "terms": [
         {
-          "query": "psg - barcelona",
+          "query": "timberwolves vs heat",
           "rank": 1
         },
         {
-          "query": "kyle kennedy",
+          "query": "john anderson",
           "rank": 2
         },
         {
-          "query": "christina applegate",
-          "rank": 3
-        },
-        {
-          "query": "liverpool vs villarreal",
+          "query": "warriors vs lakers",
           "rank": 4
         },
         {
-          "query": "nba",
+          "query": "atlas - américa",
           "rank": 5
         },
         {
-          "query": "celtics",
-          "rank": 6
-        },
-        {
-          "query": "social security number database integrity",
+          "query": "bulls vs raptors",
           "rank": 7
         },
         {
-          "query": "man city vs aek",
+          "query": "mavericks vs rockets",
           "rank": 8
         },
         {
-          "query": "psg",
+          "query": "bucks vs wizards",
           "rank": 9
         },
         {
-          "query": "stuttgart - atlético madrid",
+          "query": "valkyries vs dream",
           "rank": 10
         },
         {
-          "query": "burger king hello kitty meal",
+          "query": "hawks vs magic",
           "rank": 11
         },
         {
-          "query": "fc barcelona",
+          "query": "pacers vs pelicans",
           "rank": 12
         },
         {
-          "query": "nba games",
+          "query": "wizards",
           "rank": 13
         },
         {
-          "query": "trump administration cnn press ban",
+          "query": "judge judy",
           "rank": 14
         },
         {
-          "query": "roma vs slovan bratislava",
+          "query": "toluca - tijuana",
           "rank": 15
         },
         {
-          "query": "thanksgiving week weather forecast",
+          "query": "toledo chemical leak",
           "rank": 16
         },
         {
-          "query": "fred lorenzen brain study results",
+          "query": "hornets vs nets",
           "rank": 17
         },
         {
-          "query": "paul george",
+          "query": "lauderhill",
           "rank": 18
         },
         {
-          "query": "democrats midterm election expectations",
+          "query": "jazz vs grizzlies",
           "rank": 19
         },
         {
-          "query": "elizabeth ii",
+          "query": "former chiefs player allen bailey",
           "rank": 20
         },
         {
-          "query": "california great white shark breach",
+          "query": "darik pearson cover band frontman",
           "rank": 21
         },
         {
-          "query": "najee harris",
+          "query": "glee reboot",
           "rank": 22
         },
         {
-          "query": "xavi espart",
+          "query": "puebla - monterrey",
           "rank": 23
         },
         {
-          "query": "vivek ramaswamy",
+          "query": "suns vs trail blazers",
           "rank": 24
-        },
-        {
-          "query": "boston celtics vs detroit pistons match player stats",
-          "rank": 25
         }
       ]
     }

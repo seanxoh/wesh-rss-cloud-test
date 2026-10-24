@@ -6,19 +6,19 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-23T21:22:59.874Z",
-  "runId": "40026333616",
+  "capturedAt": "2026-10-24T04:33:45.718Z",
+  "runId": "40062821459",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 175222350,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-22",
+      "sourceDate": "2026-10-23",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "76ers vs knicks",
+          "query": "john anderson",
           "rank": 1
         },
         {
@@ -26,191 +26,203 @@
           "rank": 2
         },
         {
-          "query": "thunder vs spurs",
+          "query": "warriors vs lakers",
           "rank": 3
         },
         {
-          "query": "kyle kennedy",
+          "query": "tom skerritt",
           "rank": 4
         },
         {
-          "query": "wrest",
+          "query": "real madrid vs rb leipzig",
           "rank": 5
         },
         {
-          "query": "real madrid vs rb leipzig",
+          "query": "php vulnerability",
           "rank": 6
         },
         {
-          "query": "celtics vs pistons",
+          "query": "timberwolves vs heat",
           "rank": 7
         },
         {
-          "query": "arial",
+          "query": "english horn",
           "rank": 8
         },
         {
-          "query": "christina applegate",
+          "query": "thunder vs spurs",
           "rank": 9
         },
         {
-          "query": "bayern vs arsenal",
+          "query": "mantis shrimp",
           "rank": 10
         },
         {
-          "query": "psg barcelona",
+          "query": "allen bailey",
           "rank": 11
         },
         {
-          "query": "psg vs barcelona",
+          "query": "php",
           "rank": 12
         },
         {
-          "query": "bioware",
+          "query": "bayern vs arsenal",
           "rank": 13
         },
         {
-          "query": "english horn",
+          "query": "cavaliers vs 76ers",
           "rank": 14
         },
         {
-          "query": "76ers",
+          "query": "como vs man utd",
           "rank": 15
         },
         {
-          "query": "us social security administration database cleanup",
+          "query": "mavericks vs rockets",
           "rank": 16
         },
         {
-          "query": "stooge",
+          "query": "us social security administration database cleanup",
           "rank": 17
         },
         {
-          "query": "amy acton",
+          "query": "patriots vs bears",
           "rank": 18
         },
         {
-          "query": "mantis shrimp",
+          "query": "suns vs trail blazers",
           "rank": 19
         },
         {
-          "query": "knicks",
+          "query": "american gothic",
           "rank": 20
         },
         {
-          "query": "psg",
+          "query": "hilt meaning",
           "rank": 21
         },
         {
-          "query": "ramaswamy",
+          "query": "timberwolves",
           "rank": 22
         },
         {
-          "query": "como vs man utd",
+          "query": "10 things i hate about you",
           "rank": 23
         },
         {
-          "query": "php vulnerability",
+          "query": "martha stewart views on balance",
           "rank": 24
         },
         {
-          "query": "flood watch",
+          "query": "europa league",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-10-22",
+      "sourceDate": "2026-10-23",
       "table": "top_terms",
       "terms": [
         {
-          "query": "timberwolves vs heat",
+          "query": "bulls vs bucks",
           "rank": 1
         },
         {
-          "query": "john anderson",
+          "query": "connor hellebuyck",
           "rank": 2
         },
         {
-          "query": "warriors vs lakers",
+          "query": "ipswich town vs nottm forest",
+          "rank": 3
+        },
+        {
+          "query": "education department drops pslf challenge",
           "rank": 4
         },
         {
-          "query": "atlas - américa",
+          "query": "asbury park mesh tunnel cats",
           "rank": 5
         },
         {
-          "query": "bulls vs raptors",
+          "query": "crime",
+          "rank": 6
+        },
+        {
+          "query": "gladiator ii netflix release date",
           "rank": 7
         },
         {
-          "query": "mavericks vs rockets",
+          "query": "grayson chrisley",
           "rank": 8
         },
         {
-          "query": "bucks vs wizards",
+          "query": "avengers doomsday",
           "rank": 9
         },
         {
-          "query": "valkyries vs dream",
+          "query": "laura owens",
           "rank": 10
         },
         {
-          "query": "hawks vs magic",
+          "query": "anthony richardson",
           "rank": 11
         },
         {
-          "query": "pacers vs pelicans",
+          "query": "tropical cyclone",
           "rank": 12
         },
         {
-          "query": "wizards",
+          "query": "ric flair",
           "rank": 13
         },
         {
-          "query": "judge judy",
+          "query": "morgan freeman",
           "rank": 14
         },
         {
-          "query": "toluca - tijuana",
+          "query": "netflix mosquito bowl movie reviews",
           "rank": 15
         },
         {
-          "query": "toledo chemical leak",
+          "query": "danielle parton",
           "rank": 16
         },
         {
-          "query": "hornets vs nets",
+          "query": "boeing 737",
           "rank": 17
         },
         {
-          "query": "lauderhill",
+          "query": "ariana grande",
           "rank": 18
         },
         {
-          "query": "jazz vs grizzlies",
+          "query": "zach charbonnet",
           "rank": 19
         },
         {
-          "query": "former chiefs player allen bailey",
+          "query": "dólar estadounidense",
           "rank": 20
         },
         {
-          "query": "darik pearson cover band frontman",
+          "query": "gas prices",
           "rank": 21
         },
         {
-          "query": "glee reboot",
+          "query": "vincent kompany",
           "rank": 22
         },
         {
-          "query": "puebla - monterrey",
+          "query": "radiation",
           "rank": 23
         },
         {
-          "query": "suns vs trail blazers",
+          "query": "tyler reddick",
           "rank": 24
+        },
+        {
+          "query": "marines",
+          "rank": 25
         }
       ]
     }

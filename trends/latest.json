@@ -6,15 +6,15 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-24T20:46:53.488Z",
-  "runId": "40131301795",
+  "capturedAt": "2026-10-25T04:38:12.279Z",
+  "runId": "40162593452",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 176866650,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-23",
+      "sourceDate": "2026-10-24",
       "table": "top_rising_terms",
       "terms": [
         {
@@ -22,206 +22,206 @@
           "rank": 1
         },
         {
-          "query": "real madrid rb leipzig",
+          "query": "tom skerritt",
           "rank": 2
         },
         {
-          "query": "warriors vs lakers",
+          "query": "bears vs patriots",
           "rank": 3
         },
         {
-          "query": "tom skerritt",
+          "query": "cavaliers vs 76ers",
           "rank": 4
         },
         {
-          "query": "real madrid vs rb leipzig",
+          "query": "nuggets vs thunder",
           "rank": 5
         },
         {
-          "query": "php vulnerability",
+          "query": "warriors vs lakers",
           "rank": 6
         },
         {
-          "query": "timberwolves vs heat",
+          "query": "ethan klein",
           "rank": 7
         },
         {
-          "query": "english horn",
+          "query": "royal caribbean bahamas cruise rerouted",
           "rank": 8
         },
         {
-          "query": "thunder vs spurs",
+          "query": "shyness",
           "rank": 9
         },
         {
-          "query": "mantis shrimp",
+          "query": "patriots",
           "rank": 10
         },
         {
-          "query": "allen bailey",
+          "query": "hilt meaning",
           "rank": 11
         },
         {
-          "query": "php",
+          "query": "bears game",
           "rank": 12
         },
         {
-          "query": "bayern vs arsenal",
+          "query": "knicks vs celtics",
           "rank": 13
         },
         {
-          "query": "cavaliers vs 76ers",
+          "query": "suns vs trail blazers",
           "rank": 14
         },
         {
-          "query": "como vs man utd",
+          "query": "bears",
           "rank": 15
         },
         {
-          "query": "mavericks vs rockets",
+          "query": "yaxel lendeborg",
           "rank": 16
         },
         {
-          "query": "us social security administration database cleanup",
+          "query": "thursday night football",
           "rank": 17
         },
         {
-          "query": "patriots vs bears",
+          "query": "amazon prime automatic refund eligibility",
           "rank": 18
         },
         {
-          "query": "suns vs trail blazers",
+          "query": "europa league",
           "rank": 19
         },
         {
-          "query": "american gothic",
+          "query": "charles iii",
           "rank": 20
         },
         {
-          "query": "hilt meaning",
+          "query": "chicago bears",
           "rank": 21
         },
         {
-          "query": "timberwolves",
+          "query": "national slap your coworker day",
           "rank": 22
         },
         {
-          "query": "10 things i hate about you",
+          "query": "mavericks vs rockets",
           "rank": 23
         },
         {
-          "query": "martha stewart views on balance",
+          "query": "ziaire williams",
           "rank": 24
         },
         {
-          "query": "europa league",
+          "query": "lakers",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-10-23",
+      "sourceDate": "2026-10-24",
       "table": "top_terms",
       "terms": [
         {
-          "query": "bulls vs bucks",
+          "query": "texas a&m vs alabama",
           "rank": 1
         },
         {
-          "query": "connor hellebuyck",
+          "query": "indiana vs michigan",
           "rank": 2
         },
         {
-          "query": "ipswich town vs nottm forest",
+          "query": "under the skin netflix departure",
           "rank": 3
         },
         {
-          "query": "education department drops pslf challenge",
+          "query": "tennessee vs south carolina",
           "rank": 4
         },
         {
-          "query": "asbury park mesh tunnel cats",
+          "query": "ufc",
           "rank": 5
         },
         {
-          "query": "crime",
+          "query": "oregon vs illinois",
           "rank": 6
         },
         {
-          "query": "gladiator ii netflix release date",
+          "query": "oklahoma vs ms state",
           "rank": 7
         },
         {
-          "query": "grayson chrisley",
+          "query": "byu vs ucf",
           "rank": 8
         },
         {
-          "query": "avengers doomsday",
+          "query": "iowa vs minnesota",
           "rank": 9
         },
         {
-          "query": "laura owens",
+          "query": "pittsburgh vs miami fl",
           "rank": 10
         },
         {
-          "query": "anthony richardson",
+          "query": "texas tech vs cincinnati",
           "rank": 11
         },
         {
-          "query": "tropical cyclone",
+          "query": "atlético madrid - deportivo",
           "rank": 12
         },
         {
-          "query": "ric flair",
+          "query": "ufc today",
           "rank": 13
         },
         {
-          "query": "morgan freeman",
+          "query": "mi state vs ucla",
           "rank": 14
         },
         {
-          "query": "netflix mosquito bowl movie reviews",
+          "query": "chelsea vs spurs",
           "rank": 15
         },
         {
-          "query": "danielle parton",
+          "query": "baylor vs kansas",
           "rank": 16
         },
         {
-          "query": "boeing 737",
+          "query": "aston villa vs man city",
           "rank": 17
         },
         {
-          "query": "ariana grande",
+          "query": "kansas state vs arizona state",
           "rank": 18
         },
         {
-          "query": "zach charbonnet",
+          "query": "barcelona - granada cf",
           "rank": 19
         },
         {
-          "query": "dólar estadounidense",
+          "query": "west virginia vs tcu",
           "rank": 20
         },
         {
-          "query": "gas prices",
+          "query": "inter miami vs rbny",
           "rank": 21
         },
         {
-          "query": "vincent kompany",
+          "query": "boston college vs georgia tech",
           "rank": 22
         },
         {
-          "query": "radiation",
+          "query": "weber state vs montana state",
           "rank": 23
         },
         {
-          "query": "tyler reddick",
+          "query": "auburn vs lsu",
           "rank": 24
         },
         {
-          "query": "marines",
+          "query": "ducks vs flyers",
           "rank": 25
         }
       ]

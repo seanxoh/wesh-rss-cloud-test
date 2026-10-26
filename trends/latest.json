@@ -6,222 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-25T20:48:54.542Z",
-  "runId": "40232517169",
+  "capturedAt": "2026-10-26T04:43:53.039Z",
+  "runId": "40270543067",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 176498920,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-24",
+      "sourceDate": "2026-10-25",
       "table": "top_rising_terms",
-      "terms": [
-        {
-          "query": "john anderson",
-          "rank": 1
-        },
-        {
-          "query": "tom skerritt",
-          "rank": 2
-        },
-        {
-          "query": "bears vs patriots",
-          "rank": 3
-        },
-        {
-          "query": "cavaliers vs 76ers",
-          "rank": 4
-        },
-        {
-          "query": "nuggets vs thunder",
-          "rank": 5
-        },
-        {
-          "query": "warriors vs lakers",
-          "rank": 6
-        },
-        {
-          "query": "ethan klein",
-          "rank": 7
-        },
-        {
-          "query": "royal caribbean bahamas cruise rerouted",
-          "rank": 8
-        },
-        {
-          "query": "shyness",
-          "rank": 9
-        },
-        {
-          "query": "patriots",
-          "rank": 10
-        },
-        {
-          "query": "hilt meaning",
-          "rank": 11
-        },
-        {
-          "query": "bears game",
-          "rank": 12
-        },
-        {
-          "query": "knicks vs celtics",
-          "rank": 13
-        },
-        {
-          "query": "suns vs trail blazers",
-          "rank": 14
-        },
-        {
-          "query": "bears",
-          "rank": 15
-        },
-        {
-          "query": "yaxel lendeborg",
-          "rank": 16
-        },
-        {
-          "query": "thursday night football",
-          "rank": 17
-        },
-        {
-          "query": "amazon prime automatic refund eligibility",
-          "rank": 18
-        },
-        {
-          "query": "europa league",
-          "rank": 19
-        },
-        {
-          "query": "charles iii",
-          "rank": 20
-        },
-        {
-          "query": "chicago bears",
-          "rank": 21
-        },
-        {
-          "query": "national slap your coworker day",
-          "rank": 22
-        },
-        {
-          "query": "mavericks vs rockets",
-          "rank": 23
-        },
-        {
-          "query": "ziaire williams",
-          "rank": 24
-        },
-        {
-          "query": "lakers",
-          "rank": 25
-        }
-      ]
-    },
-    {
-      "type": "TOP",
-      "sourceDate": "2026-10-24",
-      "table": "top_terms",
       "terms": [
         {
           "query": "texas a&m vs alabama",
           "rank": 1
         },
         {
-          "query": "indiana vs michigan",
+          "query": "ethan klein",
           "rank": 2
         },
         {
-          "query": "under the skin netflix departure",
+          "query": "indiana vs michigan",
           "rank": 3
         },
         {
-          "query": "tennessee vs south carolina",
+          "query": "mobius",
           "rank": 4
         },
         {
-          "query": "ufc",
+          "query": "knicks vs celtics",
           "rank": 5
         },
         {
-          "query": "oregon vs illinois",
+          "query": "rays vs brewers",
           "rank": 6
         },
         {
-          "query": "oklahoma vs ms state",
+          "query": "tennessee vs south carolina",
           "rank": 7
         },
         {
-          "query": "byu vs ucf",
+          "query": "lsu vs auburn",
           "rank": 8
         },
         {
-          "query": "iowa vs minnesota",
+          "query": "byu vs ucf",
           "rank": 9
         },
         {
-          "query": "pittsburgh vs miami fl",
+          "query": "interstitial",
           "rank": 10
         },
         {
-          "query": "texas tech vs cincinnati",
+          "query": "under the skin netflix departure",
           "rank": 11
         },
         {
-          "query": "atlético madrid - deportivo",
+          "query": "mobius meaning",
           "rank": 12
         },
         {
-          "query": "ufc today",
+          "query": "oregon vs illinois",
           "rank": 13
         },
         {
-          "query": "mi state vs ucla",
+          "query": "interstitial meaning",
           "rank": 14
         },
         {
-          "query": "chelsea vs spurs",
+          "query": "ric flair",
           "rank": 15
         },
         {
-          "query": "baylor vs kansas",
+          "query": "pittsburgh vs miami fl",
           "rank": 16
         },
         {
-          "query": "aston villa vs man city",
+          "query": "nuggets vs thunder",
           "rank": 17
         },
         {
-          "query": "kansas state vs arizona state",
+          "query": "iowa vs minnesota",
           "rank": 18
         },
         {
-          "query": "barcelona - granada cf",
+          "query": "grizzlies vs warriors",
           "rank": 19
         },
         {
-          "query": "west virginia vs tcu",
+          "query": "clippers vs lakers",
           "rank": 20
         },
         {
-          "query": "inter miami vs rbny",
+          "query": "bulls vs bucks",
           "rank": 21
         },
         {
-          "query": "boston college vs georgia tech",
+          "query": "pistons vs heat",
           "rank": 22
         },
         {
-          "query": "weber state vs montana state",
+          "query": "college football today",
           "rank": 23
         },
         {
-          "query": "auburn vs lsu",
+          "query": "college football scores",
           "rank": 24
         },
         {
-          "query": "ducks vs flyers",
+          "query": "brewers game",
+          "rank": 25
+        }
+      ]
+    },
+    {
+      "type": "TOP",
+      "sourceDate": "2026-10-25",
+      "table": "top_terms",
+      "terms": [
+        {
+          "query": "giants vs texans",
+          "rank": 1
+        },
+        {
+          "query": "barcelona - real madrid",
+          "rank": 2
+        },
+        {
+          "query": "broncos vs cardinals",
+          "rank": 3
+        },
+        {
+          "query": "browns vs titans",
+          "rank": 4
+        },
+        {
+          "query": "buccaneers vs panthers",
+          "rank": 5
+        },
+        {
+          "query": "colts vs vikings",
+          "rank": 6
+        },
+        {
+          "query": "dolphins vs jets",
+          "rank": 7
+        },
+        {
+          "query": "where to watch fc barcelona vs real madrid",
+          "rank": 8
+        },
+        {
+          "query": "daylight saving time",
+          "rank": 9
+        },
+        {
+          "query": "mcrib",
+          "rank": 10
+        },
+        {
+          "query": "lakers vs jazz",
+          "rank": 11
+        },
+        {
+          "query": "falcons vs 49ers",
+          "rank": 12
+        },
+        {
+          "query": "derek hough pet passes away",
+          "rank": 13
+        },
+        {
+          "query": "jj mccarthy",
+          "rank": 14
+        },
+        {
+          "query": "lions vs packers",
+          "rank": 15
+        },
+        {
+          "query": "man utd vs bournemouth",
+          "rank": 16
+        },
+        {
+          "query": "barcelona vs. real madrid",
+          "rank": 17
+        },
+        {
+          "query": "ravens vs bengals",
+          "rank": 18
+        },
+        {
+          "query": "brazil elections 2026",
+          "rank": 19
+        },
+        {
+          "query": "f1",
+          "rank": 20
+        },
+        {
+          "query": "raiders vs rams",
+          "rank": 21
+        },
+        {
+          "query": "powerball ohio winners october 24 2026",
+          "rank": 22
+        },
+        {
+          "query": "panthers vs blackhawks",
+          "rank": 23
+        },
+        {
+          "query": "winter storm",
+          "rank": 24
+        },
+        {
+          "query": "hope florida",
           "rank": 25
         }
       ]

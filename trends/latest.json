@@ -6,222 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-26T22:38:25.185Z",
-  "runId": "40413961581",
+  "capturedAt": "2026-10-27T05:00:51.329Z",
+  "runId": "40452872031",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 180020200,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-25",
+      "sourceDate": "2026-10-26",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "texas a&m vs alabama",
+          "query": "49ers vs falcons",
           "rank": 1
         },
         {
-          "query": "ethan klein",
+          "query": "steelers vs saints",
           "rank": 2
         },
         {
-          "query": "indiana vs michigan",
+          "query": "mobius",
           "rank": 3
         },
         {
-          "query": "mobius",
+          "query": "packers vs lions",
           "rank": 4
         },
         {
-          "query": "knicks vs celtics",
+          "query": "texas a&m vs alabama",
           "rank": 5
         },
         {
-          "query": "rays vs brewers",
+          "query": "barcelona vs real madrid",
           "rank": 6
         },
         {
-          "query": "tennessee vs south carolina",
+          "query": "barcelona real madrid",
           "rank": 7
         },
         {
-          "query": "lsu vs auburn",
+          "query": "madrid vs barcelona",
           "rank": 8
         },
         {
-          "query": "byu vs ucf",
+          "query": "giants vs texans",
           "rank": 9
         },
         {
-          "query": "interstitial",
+          "query": "broncos vs cardinals",
           "rank": 10
         },
         {
-          "query": "under the skin netflix departure",
+          "query": "rams vs raiders",
           "rank": 11
         },
         {
-          "query": "mobius meaning",
+          "query": "indiana vs michigan",
           "rank": 12
         },
         {
-          "query": "oregon vs illinois",
+          "query": "jackie jackson jamaican bassist",
           "rank": 13
         },
         {
-          "query": "interstitial meaning",
+          "query": "ole miss vs texas",
           "rank": 14
         },
         {
-          "query": "ric flair",
+          "query": "buccaneers vs panthers",
           "rank": 15
         },
         {
-          "query": "pittsburgh vs miami fl",
+          "query": "bengals vs ravens",
           "rank": 16
         },
         {
-          "query": "nuggets vs thunder",
+          "query": "spurs vs mavericks",
           "rank": 17
         },
         {
-          "query": "iowa vs minnesota",
+          "query": "browns vs titans",
           "rank": 18
         },
         {
-          "query": "grizzlies vs warriors",
+          "query": "tennessee vs south carolina",
           "rank": 19
         },
         {
-          "query": "clippers vs lakers",
+          "query": "texas roadhouse thanksgiving christmas closures",
           "rank": 20
         },
         {
-          "query": "bulls vs bucks",
+          "query": "colts vs vikings",
           "rank": 21
         },
         {
-          "query": "pistons vs heat",
+          "query": "brewers score",
           "rank": 22
         },
         {
-          "query": "college football today",
+          "query": "interstitial meaning",
           "rank": 23
         },
         {
-          "query": "college football scores",
+          "query": "troy aikman lawrence mccutcheon tribute",
           "rank": 24
         },
         {
-          "query": "brewers game",
+          "query": "byu vs ucf",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-10-25",
+      "sourceDate": "2026-10-26",
       "table": "top_terms",
       "terms": [
         {
-          "query": "giants vs texans",
+          "query": "where to watch ballon d or 2026",
           "rank": 1
         },
         {
-          "query": "barcelona - real madrid",
+          "query": "texas roadhouse steak complaint kenneth card",
           "rank": 2
         },
         {
-          "query": "broncos vs cardinals",
+          "query": "alan dysert",
           "rank": 3
         },
         {
-          "query": "browns vs titans",
+          "query": "walter koenig",
           "rank": 4
         },
         {
-          "query": "buccaneers vs panthers",
+          "query": "psg vs ol",
           "rank": 5
         },
         {
-          "query": "colts vs vikings",
+          "query": "dazn",
           "rank": 6
         },
         {
-          "query": "dolphins vs jets",
+          "query": "balon de oro",
           "rank": 7
         },
         {
-          "query": "where to watch fc barcelona vs real madrid",
+          "query": "psg - lyon",
           "rank": 8
         },
         {
-          "query": "daylight saving time",
+          "query": "anthropic ipo",
           "rank": 9
         },
         {
-          "query": "mcrib",
+          "query": "microsoft",
           "rank": 10
         },
         {
-          "query": "lakers vs jazz",
+          "query": "chris brown",
           "rank": 11
         },
         {
-          "query": "falcons vs 49ers",
+          "query": "beyoncé",
           "rank": 12
         },
         {
-          "query": "derek hough pet passes away",
+          "query": "chrishell stause",
           "rank": 13
         },
         {
-          "query": "jj mccarthy",
+          "query": "at&t settlement payout dates texas",
           "rank": 14
         },
         {
-          "query": "lions vs packers",
+          "query": "united flight 1681",
           "rank": 15
         },
         {
-          "query": "man utd vs bournemouth",
+          "query": "sevilla - osasuna",
           "rank": 16
         },
         {
-          "query": "barcelona vs. real madrid",
+          "query": "sevilla vs osasuna",
           "rank": 17
         },
         {
-          "query": "ravens vs bengals",
+          "query": "vicky lopez",
           "rank": 18
         },
         {
-          "query": "brazil elections 2026",
+          "query": "galatasaray vs fenerbahçe",
           "rank": 19
         },
         {
-          "query": "f1",
+          "query": "mein schiff 3 collision",
           "rank": 20
         },
         {
-          "query": "raiders vs rams",
+          "query": "ai bubble",
           "rank": 21
         },
         {
-          "query": "powerball ohio winners october 24 2026",
+          "query": "green bay packers officiating complaints",
           "rank": 22
         },
         {
-          "query": "panthers vs blackhawks",
+          "query": "antimatter",
           "rank": 23
         },
         {
-          "query": "winter storm",
+          "query": "nascar news",
           "rank": 24
         },
         {
-          "query": "hope florida",
+          "query": "trump administration student debt collection",
           "rank": 25
         }
       ]

@@ -6,47 +6,47 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-27T22:12:02.140Z",
-  "runId": "40592922972",
+  "capturedAt": "2026-10-28T05:39:20.028Z",
+  "runId": "40639235910",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 181615780,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-26",
+      "sourceDate": "2026-10-27",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "49ers vs falcons",
+          "query": "chiefs vs seahawks",
           "rank": 1
         },
         {
-          "query": "steelers vs saints",
+          "query": "troy aikman lawrence mccutcheon tribute",
           "rank": 2
         },
         {
-          "query": "mobius",
+          "query": "49ers vs falcons",
           "rank": 3
         },
         {
-          "query": "packers vs lions",
+          "query": "jawn",
           "rank": 4
         },
         {
-          "query": "texas a&m vs alabama",
+          "query": "packers vs lions",
           "rank": 5
         },
         {
-          "query": "barcelona vs real madrid",
+          "query": "steelers vs saints",
           "rank": 6
         },
         {
-          "query": "barcelona real madrid",
+          "query": "rams vs raiders",
           "rank": 7
         },
         {
-          "query": "madrid vs barcelona",
+          "query": "broncos vs cardinals",
           "rank": 8
         },
         {
@@ -54,174 +54,174 @@
           "rank": 9
         },
         {
-          "query": "broncos vs cardinals",
+          "query": "texas roadhouse thanksgiving christmas closures",
           "rank": 10
         },
         {
-          "query": "rams vs raiders",
+          "query": "who won the ballon d'or 2026",
           "rank": 11
         },
         {
-          "query": "indiana vs michigan",
+          "query": "bengals vs ravens",
           "rank": 12
         },
         {
-          "query": "jackie jackson jamaican bassist",
+          "query": "ballon d'or 2026",
           "rank": 13
         },
         {
-          "query": "ole miss vs texas",
+          "query": "buccaneers vs panthers",
           "rank": 14
         },
         {
-          "query": "buccaneers vs panthers",
+          "query": "browns vs titans",
           "rank": 15
         },
         {
-          "query": "bengals vs ravens",
+          "query": "colts vs vikings",
           "rank": 16
         },
         {
-          "query": "spurs vs mavericks",
+          "query": "ballon d'or",
           "rank": 17
         },
         {
-          "query": "browns vs titans",
+          "query": "jawn meaning",
           "rank": 18
         },
         {
-          "query": "tennessee vs south carolina",
+          "query": "dolphins vs jets",
           "rank": 19
         },
         {
-          "query": "texas roadhouse thanksgiving christmas closures",
+          "query": "texas roadhouse steak complaint kenneth card",
           "rank": 20
         },
         {
-          "query": "colts vs vikings",
+          "query": "jalen williams injury",
           "rank": 21
         },
         {
-          "query": "brewers score",
+          "query": "barcelona real madrid",
           "rank": 22
         },
         {
-          "query": "interstitial meaning",
+          "query": "barcelona vs real madrid",
           "rank": 23
         },
         {
-          "query": "troy aikman lawrence mccutcheon tribute",
+          "query": "lakers vs jazz",
           "rank": 24
         },
         {
-          "query": "byu vs ucf",
+          "query": "jalen williams",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-10-26",
+      "sourceDate": "2026-10-27",
       "table": "top_terms",
       "terms": [
         {
-          "query": "where to watch ballon d or 2026",
+          "query": "fleetwood vs arsenal",
           "rank": 1
         },
         {
-          "query": "texas roadhouse steak complaint kenneth card",
+          "query": "susan saint james",
           "rank": 2
         },
         {
-          "query": "alan dysert",
+          "query": "jason galanis",
           "rank": 3
         },
         {
-          "query": "walter koenig",
+          "query": "mcdonalds new holiday menu items",
           "rank": 4
         },
         {
-          "query": "psg vs ol",
+          "query": "deforest buckner",
           "rank": 5
         },
         {
-          "query": "dazn",
+          "query": "quenton nelson",
           "rank": 6
         },
         {
-          "query": "balon de oro",
+          "query": "ben earle crissie rhodes break",
           "rank": 7
         },
         {
-          "query": "psg - lyon",
+          "query": "israel elections netanyahu",
           "rank": 8
         },
         {
-          "query": "anthropic ipo",
+          "query": "unruly aircraft passenger",
           "rank": 9
         },
         {
-          "query": "microsoft",
+          "query": "ted bundy",
           "rank": 10
         },
         {
-          "query": "chris brown",
+          "query": "alexander brothers",
           "rank": 11
         },
         {
-          "query": "beyoncé",
+          "query": "roma vs cagliari",
           "rank": 12
         },
         {
-          "query": "chrishell stause",
+          "query": "flight attendant",
           "rank": 13
         },
         {
-          "query": "at&t settlement payout dates texas",
+          "query": "jonathan taylor",
           "rank": 14
         },
         {
-          "query": "united flight 1681",
+          "query": "dortmund vs werder",
           "rank": 15
         },
         {
-          "query": "sevilla - osasuna",
+          "query": "the voice elimination episode kelly clarkson",
           "rank": 16
         },
         {
-          "query": "sevilla vs osasuna",
+          "query": "eric swalwell",
           "rank": 17
         },
         {
-          "query": "vicky lopez",
+          "query": "texas roadhouse",
           "rank": 18
         },
         {
-          "query": "galatasaray vs fenerbahçe",
+          "query": "torino vs como",
           "rank": 19
         },
         {
-          "query": "mein schiff 3 collision",
+          "query": "matthew perry",
           "rank": 20
         },
         {
-          "query": "ai bubble",
+          "query": "carrie ann inaba",
           "rank": 21
         },
         {
-          "query": "green bay packers officiating complaints",
+          "query": "kyle larson",
           "rank": 22
         },
         {
-          "query": "antimatter",
+          "query": "boeing stock",
           "rank": 23
         },
         {
-          "query": "nascar news",
+          "query": "deion sanders videographer uncle neely",
           "rank": 24
         },
         {
-          "query": "trump administration student debt collection",
+          "query": "sexiest man alive 2026",
           "rank": 25
         }
       ]

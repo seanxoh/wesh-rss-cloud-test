@@ -6,130 +6,23 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-29T22:43:25.692Z",
-  "runId": "40967983112",
+  "capturedAt": "2026-10-30T05:44:35.890Z",
+  "runId": "41010089202",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 154617990,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-27",
+      "sourceDate": "2026-10-29",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "chiefs vs seahawks",
+          "query": "irs 5000 dollar adoption refund",
           "rank": 1
         },
         {
-          "query": "troy aikman lawrence mccutcheon tribute",
-          "rank": 2
-        },
-        {
-          "query": "49ers vs falcons",
-          "rank": 3
-        },
-        {
-          "query": "jawn",
-          "rank": 4
-        },
-        {
-          "query": "packers vs lions",
-          "rank": 5
-        },
-        {
-          "query": "steelers vs saints",
-          "rank": 6
-        },
-        {
-          "query": "rams vs raiders",
-          "rank": 7
-        },
-        {
-          "query": "broncos vs cardinals",
-          "rank": 8
-        },
-        {
-          "query": "giants vs texans",
-          "rank": 9
-        },
-        {
-          "query": "texas roadhouse thanksgiving christmas closures",
-          "rank": 10
-        },
-        {
-          "query": "who won the ballon d'or 2026",
-          "rank": 11
-        },
-        {
-          "query": "bengals vs ravens",
-          "rank": 12
-        },
-        {
-          "query": "ballon d'or 2026",
-          "rank": 13
-        },
-        {
-          "query": "buccaneers vs panthers",
-          "rank": 14
-        },
-        {
-          "query": "browns vs titans",
-          "rank": 15
-        },
-        {
-          "query": "colts vs vikings",
-          "rank": 16
-        },
-        {
-          "query": "ballon d'or",
-          "rank": 17
-        },
-        {
-          "query": "jawn meaning",
-          "rank": 18
-        },
-        {
-          "query": "dolphins vs jets",
-          "rank": 19
-        },
-        {
-          "query": "texas roadhouse steak complaint kenneth card",
-          "rank": 20
-        },
-        {
-          "query": "jalen williams injury",
-          "rank": 21
-        },
-        {
-          "query": "barcelona real madrid",
-          "rank": 22
-        },
-        {
-          "query": "barcelona vs real madrid",
-          "rank": 23
-        },
-        {
-          "query": "lakers vs jazz",
-          "rank": 24
-        },
-        {
-          "query": "jalen williams",
-          "rank": 25
-        }
-      ]
-    },
-    {
-      "type": "TOP",
-      "sourceDate": "2026-10-27",
-      "table": "top_terms",
-      "terms": [
-        {
-          "query": "fleetwood vs arsenal",
-          "rank": 1
-        },
-        {
-          "query": "susan saint james",
+          "query": "grist",
           "rank": 2
         },
         {
@@ -137,91 +30,178 @@
           "rank": 3
         },
         {
-          "query": "mcdonalds new holiday menu items",
+          "query": "susan saint james",
           "rank": 4
         },
         {
-          "query": "deforest buckner",
+          "query": "donnie iris",
           "rank": 5
         },
         {
-          "query": "quenton nelson",
+          "query": "trail blazers vs lakers",
           "rank": 6
         },
         {
-          "query": "ben earle crissie rhodes break",
+          "query": "fleetwood vs arsenal",
           "rank": 7
         },
         {
-          "query": "israel elections netanyahu",
+          "query": "israel election results",
           "rank": 8
         },
         {
-          "query": "unruly aircraft passenger",
+          "query": "kings vs spurs",
           "rank": 9
         },
         {
-          "query": "ted bundy",
+          "query": "pistons vs knicks",
           "rank": 10
         },
         {
-          "query": "alexander brothers",
+          "query": "liverpool vs chelsea",
           "rank": 11
         },
         {
-          "query": "roma vs cagliari",
+          "query": "nets vs celtics",
           "rank": 12
         },
         {
-          "query": "flight attendant",
+          "query": "grist meaning",
           "rank": 13
         },
         {
-          "query": "jonathan taylor",
+          "query": "mcdonalds new holiday menu items",
           "rank": 14
         },
         {
-          "query": "dortmund vs werder",
+          "query": "man city vs brighton",
           "rank": 15
         },
         {
-          "query": "the voice elimination episode kelly clarkson",
+          "query": "rout",
           "rank": 16
         },
         {
-          "query": "eric swalwell",
+          "query": "tornado watch",
           "rank": 17
         },
         {
-          "query": "texas roadhouse",
+          "query": "warriors vs nuggets",
           "rank": 18
         },
         {
-          "query": "torino vs como",
+          "query": "israel elections",
           "rank": 19
         },
         {
-          "query": "matthew perry",
+          "query": "dolores huerta",
           "rank": 20
         },
         {
-          "query": "carrie ann inaba",
+          "query": "spain train crash",
           "rank": 21
         },
         {
-          "query": "kyle larson",
+          "query": "dancing with the stars",
           "rank": 22
         },
         {
-          "query": "boeing stock",
+          "query": "dwts",
           "rank": 23
         },
         {
-          "query": "deion sanders videographer uncle neely",
+          "query": "carabao cup",
           "rank": 24
         },
         {
-          "query": "sexiest man alive 2026",
+          "query": "justin tucker",
+          "rank": 25
+        }
+      ]
+    },
+    {
+      "type": "TOP",
+      "sourceDate": "2026-10-29",
+      "table": "top_terms",
+      "terms": [
+        {
+          "query": "76ers vs pacers",
+          "rank": 1
+        },
+        {
+          "query": "warriors vs timberwolves",
+          "rank": 2
+        },
+        {
+          "query": "knicks vs bulls",
+          "rank": 3
+        },
+        {
+          "query": "spurs vs jazz",
+          "rank": 4
+        },
+        {
+          "query": "cincinnati vs inter miami",
+          "rank": 5
+        },
+        {
+          "query": "wizards vs cavaliers",
+          "rank": 6
+        },
+        {
+          "query": "heat vs hawks",
+          "rank": 8
+        },
+        {
+          "query": "hornets vs pistons",
+          "rank": 11
+        },
+        {
+          "query": "ernie johnson",
+          "rank": 12
+        },
+        {
+          "query": "barbara barrie",
+          "rank": 13
+        },
+        {
+          "query": "google stock",
+          "rank": 14
+        },
+        {
+          "query": "thunder vs mavericks",
+          "rank": 16
+        },
+        {
+          "query": "quentin tarantino",
+          "rank": 17
+        },
+        {
+          "query": "misiorowski",
+          "rank": 18
+        },
+        {
+          "query": "rockets vs bucks",
+          "rank": 20
+        },
+        {
+          "query": "nuggets vs pelicans",
+          "rank": 21
+        },
+        {
+          "query": "tyrese haliburton",
+          "rank": 22
+        },
+        {
+          "query": "bayern vs magdeburg",
+          "rank": 23
+        },
+        {
+          "query": "wedding",
+          "rank": 24
+        },
+        {
+          "query": "derailment",
           "rank": 25
         }
       ]

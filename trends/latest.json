@@ -6,202 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-10-31T21:31:29.552Z",
-  "runId": "41243976313",
+  "capturedAt": "2026-11-01T05:59:01.584Z",
+  "runId": "41278962640",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 178894620,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-29",
+      "sourceDate": "2026-10-31",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "irs 5000 dollar adoption refund",
+          "query": "patrick stewart",
           "rank": 1
         },
         {
-          "query": "grist",
+          "query": "panthers vs packers",
           "rank": 2
         },
         {
-          "query": "jason galanis",
+          "query": "sir patrick stewart",
           "rank": 3
         },
         {
-          "query": "susan saint james",
+          "query": "how to vote in the us",
           "rank": 4
         },
         {
-          "query": "donnie iris",
+          "query": "patrick stewart cause of death",
           "rank": 5
         },
         {
-          "query": "trail blazers vs lakers",
+          "query": "grange meaning",
           "rank": 6
         },
         {
-          "query": "fleetwood vs arsenal",
+          "query": "jeffery simmons",
           "rank": 7
         },
         {
-          "query": "israel election results",
+          "query": "américa tijuana",
           "rank": 8
         },
         {
-          "query": "kings vs spurs",
+          "query": "larry cordle",
           "rank": 9
         },
         {
-          "query": "pistons vs knicks",
+          "query": "mcdonald's pokémon happy meal",
           "rank": 10
         },
         {
-          "query": "liverpool vs chelsea",
+          "query": "grange",
           "rank": 11
         },
         {
-          "query": "nets vs celtics",
+          "query": "richard norton",
           "rank": 12
         },
         {
-          "query": "grist meaning",
+          "query": "le havre vs psg",
           "rank": 13
         },
         {
-          "query": "mcdonalds new holiday menu items",
+          "query": "professor x",
           "rank": 14
         },
         {
-          "query": "man city vs brighton",
+          "query": "lewy body dementia",
           "rank": 15
         },
         {
-          "query": "rout",
+          "query": "lakers vs clippers",
           "rank": 16
         },
         {
-          "query": "tornado watch",
+          "query": "christian watson",
           "rank": 17
         },
         {
-          "query": "warriors vs nuggets",
+          "query": "knicks vs 76ers",
           "rank": 18
         },
         {
-          "query": "israel elections",
+          "query": "cómo votar en estados unidos",
           "rank": 19
         },
         {
-          "query": "dolores huerta",
+          "query": "panthers",
           "rank": 20
         },
         {
-          "query": "spain train crash",
+          "query": "packers",
           "rank": 21
         },
         {
-          "query": "dancing with the stars",
+          "query": "cavaliers vs hawks",
           "rank": 22
         },
         {
-          "query": "dwts",
+          "query": "flood watch",
           "rank": 23
         },
         {
-          "query": "carabao cup",
+          "query": "thursday night football",
           "rank": 24
         },
         {
-          "query": "justin tucker",
+          "query": "va payment dates weekend rule",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-10-29",
+      "sourceDate": "2026-10-31",
       "table": "top_terms",
       "terms": [
         {
-          "query": "76ers vs pacers",
+          "query": "chelsea vs man utd",
           "rank": 1
         },
         {
-          "query": "warriors vs timberwolves",
+          "query": "notre dame vs navy",
           "rank": 2
         },
         {
-          "query": "knicks vs bulls",
+          "query": "michigan vs rutgers",
           "rank": 3
         },
         {
-          "query": "spurs vs jazz",
+          "query": "wisconsin vs iowa",
           "rank": 4
         },
         {
-          "query": "cincinnati vs inter miami",
+          "query": "auburn vs ole miss",
           "rank": 5
         },
         {
-          "query": "wizards vs cavaliers",
+          "query": "arizona vs texas tech",
           "rank": 6
         },
         {
-          "query": "heat vs hawks",
+          "query": "levante - atlético madrid",
+          "rank": 7
+        },
+        {
+          "query": "illinois vs maryland",
           "rank": 8
         },
         {
-          "query": "hornets vs pistons",
+          "query": "california vs nc state",
+          "rank": 9
+        },
+        {
+          "query": "isiah thomas",
+          "rank": 10
+        },
+        {
+          "query": "smu vs syracuse",
           "rank": 11
         },
         {
-          "query": "ernie johnson",
+          "query": "sri lanka vs pakistan",
           "rank": 12
         },
         {
-          "query": "barbara barrie",
+          "query": "welcome to derry",
           "rank": 13
         },
         {
-          "query": "google stock",
+          "query": "florida georgia game",
           "rank": 14
         },
         {
-          "query": "thunder vs mavericks",
+          "query": "manchester city - brighton",
+          "rank": 15
+        },
+        {
+          "query": "what time is trick or treating",
           "rank": 16
         },
         {
-          "query": "quentin tarantino",
+          "query": "boston college vs duke",
           "rank": 17
         },
         {
-          "query": "misiorowski",
+          "query": "coventry vs sunderland",
           "rank": 18
         },
         {
-          "query": "rockets vs bucks",
+          "query": "ncaa football today",
+          "rank": 19
+        },
+        {
+          "query": "bournemouth vs leeds",
           "rank": 20
         },
         {
-          "query": "nuggets vs pelicans",
+          "query": "thomas castellanos",
           "rank": 21
         },
         {
-          "query": "tyrese haliburton",
+          "query": "bowling green vs wmu",
           "rank": 22
         },
         {
-          "query": "bayern vs magdeburg",
+          "query": "once upon a farm tractor wheels recall",
           "rank": 23
         },
         {
-          "query": "wedding",
+          "query": "uab vs south florida",
           "rank": 24
         },
         {
-          "query": "derailment",
+          "query": "blackhawks vs bruins",
           "rank": 25
         }
       ]

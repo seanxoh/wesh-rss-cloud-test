@@ -6,222 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-01T21:59:35.334Z",
-  "runId": "41354786725",
+  "capturedAt": "2026-11-02T05:58:31.081Z",
+  "runId": "41397077648",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 177874420,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-10-31",
+      "sourceDate": "2026-11-01",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "patrick stewart",
+          "query": "barcelona alavés",
           "rank": 1
         },
         {
-          "query": "panthers vs packers",
+          "query": "barcelona vs alavés",
           "rank": 2
         },
         {
-          "query": "sir patrick stewart",
+          "query": "how to vote in the us",
           "rank": 3
         },
         {
-          "query": "how to vote in the us",
+          "query": "social security administration payment schedule 2026",
           "rank": 4
         },
         {
-          "query": "patrick stewart cause of death",
+          "query": "florida vs georgia",
           "rank": 5
         },
         {
-          "query": "grange meaning",
+          "query": "lakers vs warriors",
           "rank": 6
         },
         {
-          "query": "jeffery simmons",
+          "query": "michigan vs rutgers",
           "rank": 7
         },
         {
-          "query": "américa tijuana",
+          "query": "minnesota vs indiana",
           "rank": 8
         },
         {
-          "query": "larry cordle",
+          "query": "michael douglas on jack nicholson",
           "rank": 9
         },
         {
-          "query": "mcdonald's pokémon happy meal",
+          "query": "richard norton",
           "rank": 10
         },
         {
-          "query": "grange",
+          "query": "auburn vs ole miss",
           "rank": 11
         },
         {
-          "query": "richard norton",
+          "query": "grange meaning",
           "rank": 12
         },
         {
-          "query": "le havre vs psg",
+          "query": "larry cordle",
           "rank": 13
         },
         {
-          "query": "professor x",
+          "query": "knicks vs 76ers",
           "rank": 14
         },
         {
-          "query": "lewy body dementia",
+          "query": "mcdonald's pokémon happy meal",
           "rank": 15
         },
         {
-          "query": "lakers vs clippers",
+          "query": "grange",
           "rank": 16
         },
         {
-          "query": "christian watson",
+          "query": "south carolina vs oklahoma",
           "rank": 17
         },
         {
-          "query": "knicks vs 76ers",
+          "query": "notre dame vs navy",
           "rank": 18
         },
         {
-          "query": "cómo votar en estados unidos",
+          "query": "richard norton peptides",
           "rank": 19
         },
         {
-          "query": "panthers",
+          "query": "glum",
           "rank": 20
         },
         {
-          "query": "packers",
+          "query": "bulls vs celtics",
           "rank": 21
         },
         {
-          "query": "cavaliers vs hawks",
+          "query": "canelo fight",
           "rank": 22
         },
         {
-          "query": "flood watch",
+          "query": "wisconsin vs iowa",
           "rank": 23
         },
         {
-          "query": "thursday night football",
+          "query": "college football today",
           "rank": 24
         },
         {
-          "query": "va payment dates weekend rule",
+          "query": "what time does trick or treating start",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-10-31",
+      "sourceDate": "2026-11-01",
       "table": "top_terms",
       "terms": [
         {
-          "query": "chelsea vs man utd",
+          "query": "cardinals vs cowboys",
           "rank": 1
         },
         {
-          "query": "notre dame vs navy",
+          "query": "vikings vs lions",
           "rank": 2
         },
         {
-          "query": "michigan vs rutgers",
+          "query": "chiefs vs broncos",
           "rank": 3
         },
         {
-          "query": "wisconsin vs iowa",
+          "query": "titans vs bengals",
           "rank": 4
         },
         {
-          "query": "auburn vs ole miss",
+          "query": "ravens vs bills",
           "rank": 5
         },
         {
-          "query": "arizona vs texas tech",
+          "query": "browns vs steelers",
           "rank": 6
         },
         {
-          "query": "levante - atlético madrid",
+          "query": "learjet 60",
           "rank": 7
         },
         {
-          "query": "illinois vs maryland",
+          "query": "raiders vs jets",
           "rank": 8
         },
         {
-          "query": "california vs nc state",
+          "query": "patriots vs dolphins",
           "rank": 9
         },
         {
-          "query": "isiah thomas",
+          "query": "falcons vs buccaneers",
           "rank": 10
         },
         {
-          "query": "smu vs syracuse",
+          "query": "chargers vs rams",
           "rank": 11
         },
         {
-          "query": "sri lanka vs pakistan",
+          "query": "cowboys game",
           "rank": 12
         },
         {
-          "query": "welcome to derry",
+          "query": "detroit lions",
           "rank": 13
         },
         {
-          "query": "florida georgia game",
+          "query": "buffalo bills",
           "rank": 14
         },
         {
-          "query": "manchester city - brighton",
+          "query": "colts vs jaguars",
           "rank": 15
         },
         {
-          "query": "what time is trick or treating",
+          "query": "racing santander vs real madrid",
           "rank": 16
         },
         {
-          "query": "boston college vs duke",
+          "query": "chris murphy",
           "rank": 17
         },
         {
-          "query": "coventry vs sunderland",
+          "query": "celtics vs magic",
           "rank": 18
         },
         {
-          "query": "ncaa football today",
+          "query": "lamar jackson",
           "rank": 19
         },
         {
-          "query": "bournemouth vs leeds",
+          "query": "cowboys",
           "rank": 20
         },
         {
-          "query": "thomas castellanos",
+          "query": "bills game",
           "rank": 21
         },
         {
-          "query": "bowling green vs wmu",
+          "query": "bengals game",
           "rank": 22
         },
         {
-          "query": "once upon a farm tractor wheels recall",
+          "query": "san juan mountains winter storm warning",
           "rank": 23
         },
         {
-          "query": "uab vs south florida",
+          "query": "hayley stevens",
           "rank": 24
         },
         {
-          "query": "blackhawks vs bruins",
+          "query": "nyc marathon tracker",
           "rank": 25
         }
       ]

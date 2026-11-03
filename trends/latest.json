@@ -6,222 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-03T00:56:25.089Z",
-  "runId": "41556333532",
+  "capturedAt": "2026-11-03T14:09:38.786Z",
+  "runId": "41650917596",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 179525020,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-11-01",
+      "sourceDate": "2026-11-02",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "barcelona alavés",
+          "query": "native american heritage month",
           "rank": 1
         },
         {
-          "query": "barcelona vs alavés",
+          "query": "barcelona alavés",
           "rank": 2
         },
         {
-          "query": "how to vote in the us",
+          "query": "cardinals vs cowboys",
           "rank": 3
         },
         {
-          "query": "social security administration payment schedule 2026",
+          "query": "jack campbell",
           "rank": 4
         },
         {
-          "query": "florida vs georgia",
+          "query": "barcelona vs alavés",
           "rank": 5
         },
         {
-          "query": "lakers vs warriors",
+          "query": "ohio state vs usc",
           "rank": 6
         },
         {
-          "query": "michigan vs rutgers",
+          "query": "chiefs vs broncos",
           "rank": 7
         },
         {
-          "query": "minnesota vs indiana",
+          "query": "vikings vs lions",
           "rank": 8
         },
         {
-          "query": "michael douglas on jack nicholson",
+          "query": "browns vs steelers",
           "rank": 9
         },
         {
-          "query": "richard norton",
+          "query": "maturated",
           "rank": 10
         },
         {
-          "query": "auburn vs ole miss",
+          "query": "raiders vs jets",
           "rank": 11
         },
         {
-          "query": "grange meaning",
+          "query": "racing santander vs real madrid",
           "rank": 12
         },
         {
-          "query": "larry cordle",
+          "query": "ravens vs bills",
           "rank": 13
         },
         {
-          "query": "knicks vs 76ers",
+          "query": "patriots vs dolphins",
           "rank": 14
         },
         {
-          "query": "mcdonald's pokémon happy meal",
+          "query": "minnesota vs indiana",
           "rank": 15
         },
         {
-          "query": "grange",
+          "query": "florida vs georgia",
           "rank": 16
         },
         {
-          "query": "south carolina vs oklahoma",
+          "query": "titans vs bengals",
           "rank": 17
         },
         {
-          "query": "notre dame vs navy",
+          "query": "falcons vs buccaneers",
           "rank": 18
         },
         {
-          "query": "richard norton peptides",
+          "query": "racing de santander real madrid",
           "rank": 19
         },
         {
-          "query": "glum",
+          "query": "ms state vs texas",
           "rank": 20
         },
         {
-          "query": "bulls vs celtics",
+          "query": "michigan vs rutgers",
           "rank": 21
         },
         {
-          "query": "canelo fight",
+          "query": "spacex stock price recent performance",
           "rank": 22
         },
         {
-          "query": "wisconsin vs iowa",
+          "query": "chargers vs rams",
           "rank": 23
         },
         {
-          "query": "college football today",
+          "query": "heidi klum",
           "rank": 24
         },
         {
-          "query": "what time does trick or treating start",
+          "query": "south carolina vs oklahoma",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-11-01",
+      "sourceDate": "2026-11-02",
       "table": "top_terms",
       "terms": [
         {
-          "query": "cardinals vs cowboys",
+          "query": "adam robinson",
           "rank": 1
         },
         {
-          "query": "vikings vs lions",
+          "query": "zelda",
           "rank": 2
         },
         {
-          "query": "chiefs vs broncos",
+          "query": "matt wright",
           "rank": 3
         },
         {
-          "query": "titans vs bengals",
+          "query": "newcastle vs everton",
           "rank": 4
         },
         {
-          "query": "ravens vs bills",
+          "query": "ice post release immigrant detentions",
           "rank": 5
         },
         {
-          "query": "browns vs steelers",
+          "query": "popeyes cajun onion rings return",
           "rank": 6
         },
         {
-          "query": "learjet 60",
+          "query": "apple earnings",
           "rank": 7
         },
         {
-          "query": "raiders vs jets",
+          "query": "pltr stock",
           "rank": 8
         },
         {
-          "query": "patriots vs dolphins",
+          "query": "the big o",
           "rank": 9
         },
         {
-          "query": "falcons vs buccaneers",
+          "query": "lindsay clancy",
           "rank": 10
         },
         {
-          "query": "chargers vs rams",
+          "query": "target pokemon card lottery system",
           "rank": 11
         },
         {
-          "query": "cowboys game",
+          "query": "ben arbuckle",
           "rank": 12
         },
         {
-          "query": "detroit lions",
+          "query": "can i vote today",
           "rank": 13
         },
         {
-          "query": "buffalo bills",
+          "query": "michael wilbon",
           "rank": 14
         },
         {
-          "query": "colts vs jaguars",
+          "query": "vote",
           "rank": 15
         },
         {
-          "query": "racing santander vs real madrid",
+          "query": "mark tilbury gta 6 financial advice",
           "rank": 16
         },
         {
-          "query": "chris murphy",
+          "query": "ella langley toy story outfit",
           "rank": 17
         },
         {
-          "query": "celtics vs magic",
+          "query": "david schwimmer",
           "rank": 18
         },
         {
-          "query": "lamar jackson",
+          "query": "dc power outage",
           "rank": 19
         },
         {
-          "query": "cowboys",
+          "query": "voting near me",
           "rank": 20
         },
         {
-          "query": "bills game",
+          "query": "social media",
           "rank": 21
         },
         {
-          "query": "bengals game",
+          "query": "deportivo - osasuna",
           "rank": 22
         },
         {
-          "query": "san juan mountains winter storm warning",
+          "query": "sam altman ram",
           "rank": 23
         },
         {
-          "query": "hayley stevens",
+          "query": "dancing with the stars disney night",
           "rank": 24
         },
         {
-          "query": "nyc marathon tracker",
+          "query": "am i registered to vote",
           "rank": 25
         }
       ]

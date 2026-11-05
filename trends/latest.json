@@ -6,222 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-04T23:39:11.437Z",
-  "runId": "41935382054",
+  "capturedAt": "2026-11-05T06:42:16.635Z",
+  "runId": "41982180084",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 178424620,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-11-02",
+      "sourceDate": "2026-11-04",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "native american heritage month",
+          "query": "bears vs seahawks",
           "rank": 1
         },
         {
-          "query": "barcelona alavés",
+          "query": "adam robinson",
           "rank": 2
         },
         {
-          "query": "cardinals vs cowboys",
+          "query": "pique",
           "rank": 3
         },
         {
-          "query": "jack campbell",
+          "query": "barcelona aston villa",
           "rank": 4
         },
         {
-          "query": "barcelona vs alavés",
+          "query": "pique meaning",
           "rank": 5
         },
         {
-          "query": "ohio state vs usc",
+          "query": "where to vote",
           "rank": 6
         },
         {
-          "query": "chiefs vs broncos",
+          "query": "nettle",
           "rank": 7
         },
         {
-          "query": "vikings vs lions",
+          "query": "eagles vs commanders",
           "rank": 8
         },
         {
-          "query": "browns vs steelers",
+          "query": "election results",
           "rank": 9
         },
         {
-          "query": "maturated",
+          "query": "anita louis soul children singer",
           "rank": 10
         },
         {
-          "query": "raiders vs jets",
+          "query": "barcelona vs aston villa",
           "rank": 11
         },
         {
-          "query": "racing santander vs real madrid",
+          "query": "election results so far",
           "rank": 12
         },
         {
-          "query": "ravens vs bills",
+          "query": "nettle meaning",
           "rank": 13
         },
         {
-          "query": "patriots vs dolphins",
+          "query": "2026 us election results",
           "rank": 14
         },
         {
-          "query": "minnesota vs indiana",
+          "query": "whelp",
           "rank": 15
         },
         {
-          "query": "florida vs georgia",
+          "query": "jesus de miguel",
           "rank": 16
         },
         {
-          "query": "titans vs bengals",
+          "query": "social security payment schedule november 2026",
           "rank": 17
         },
         {
-          "query": "falcons vs buccaneers",
+          "query": "tornado watch",
           "rank": 18
         },
         {
-          "query": "racing de santander real madrid",
+          "query": "monday night football",
           "rank": 19
         },
         {
-          "query": "ms state vs texas",
+          "query": "rhabdomyolysis",
           "rank": 20
         },
         {
-          "query": "michigan vs rutgers",
+          "query": "thunder vs cavaliers",
           "rank": 21
         },
         {
-          "query": "spacex stock price recent performance",
+          "query": "olmesartan",
           "rank": 22
         },
         {
-          "query": "chargers vs rams",
+          "query": "democratic party",
           "rank": 23
         },
         {
-          "query": "heidi klum",
+          "query": "man utd vs roma",
           "rank": 24
         },
         {
-          "query": "south carolina vs oklahoma",
+          "query": "midterm elections results",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-11-02",
+      "sourceDate": "2026-11-04",
       "table": "top_terms",
       "terms": [
         {
-          "query": "adam robinson",
+          "query": "aek vs real madrid",
           "rank": 1
         },
         {
-          "query": "zelda",
+          "query": "rb leipzig vs man city",
           "rank": 2
         },
         {
-          "query": "matt wright",
+          "query": "slavia praha vs arsenal",
           "rank": 3
         },
         {
-          "query": "newcastle vs everton",
+          "query": "dortmund - real betis",
           "rank": 4
         },
         {
-          "query": "ice post release immigrant detentions",
+          "query": "dow jones",
           "rank": 5
         },
         {
-          "query": "popeyes cajun onion rings return",
+          "query": "what does habibi mean",
           "rank": 6
         },
         {
-          "query": "apple earnings",
+          "query": "princes william and harry shared cause",
           "rank": 7
         },
         {
-          "query": "pltr stock",
+          "query": "lens vs como",
           "rank": 8
         },
         {
-          "query": "the big o",
+          "query": "joe milton",
           "rank": 9
         },
         {
-          "query": "lindsay clancy",
+          "query": "edp445",
           "rank": 10
         },
         {
-          "query": "target pokemon card lottery system",
+          "query": "bob heinz",
           "rank": 11
         },
         {
-          "query": "ben arbuckle",
+          "query": "jacoby brissett",
           "rank": 12
         },
         {
-          "query": "can i vote today",
+          "query": "robby krieger spouse news",
           "rank": 13
         },
         {
-          "query": "michael wilbon",
+          "query": "cadillac blazer vehicle safety recall",
           "rank": 14
         },
         {
-          "query": "vote",
+          "query": "aek athens f.c. vs real madrid standings",
           "rank": 15
         },
         {
-          "query": "mark tilbury gta 6 financial advice",
+          "query": "grizzly bear",
           "rank": 16
         },
         {
-          "query": "ella langley toy story outfit",
+          "query": "when will mississippi be called",
           "rank": 17
         },
         {
-          "query": "david schwimmer",
+          "query": "christmas forecast",
           "rank": 18
         },
         {
-          "query": "dc power outage",
+          "query": "cardi b",
           "rank": 19
         },
         {
-          "query": "voting near me",
+          "query": "starbucks holiday drinks",
           "rank": 20
         },
         {
-          "query": "social media",
+          "query": "wrexham vs middlesbrough",
           "rank": 21
         },
         {
-          "query": "deportivo - osasuna",
+          "query": "natalee holloway",
           "rank": 22
         },
         {
-          "query": "sam altman ram",
+          "query": "dewanna bonner wnba finals reaction",
           "rank": 23
         },
         {
-          "query": "dancing with the stars disney night",
+          "query": "edp",
           "rank": 24
         },
         {
-          "query": "am i registered to vote",
+          "query": "bob dylan",
           "rank": 25
         }
       ]

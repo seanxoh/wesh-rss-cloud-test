@@ -6,222 +6,218 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-07T21:47:41.973Z",
-  "runId": "42417528028",
+  "capturedAt": "2026-11-08T05:57:49.272Z",
+  "runId": "42452776573",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 171367119,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-11-05",
+      "sourceDate": "2026-11-07",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "2026 us election results",
+          "query": "dreck",
           "rank": 1
         },
         {
-          "query": "us election results",
+          "query": "russell brand",
           "rank": 2
         },
         {
-          "query": "election results 2026",
+          "query": "jaguars vs ravens",
           "rank": 3
         },
         {
-          "query": "election results",
+          "query": "dreck meaning",
           "rank": 4
         },
         {
-          "query": "senate election results",
+          "query": "speedbag",
           "rank": 5
         },
         {
-          "query": "texas election results",
+          "query": "anemone",
           "rank": 6
         },
         {
-          "query": "mississippi senate race",
+          "query": "osiris",
           "rank": 7
         },
         {
-          "query": "michigan election results",
+          "query": "susan saint james",
           "rank": 8
         },
         {
-          "query": "2026 united states elections",
+          "query": "brando",
           "rank": 9
         },
         {
-          "query": "election results so far",
+          "query": "narcissus",
           "rank": 10
         },
         {
-          "query": "live election results",
+          "query": "osiris meaning",
           "rank": 11
         },
         {
-          "query": "mississippi election results",
+          "query": "brando meaning",
           "rank": 12
         },
         {
-          "query": "2026 united states senate elections",
+          "query": "heat vs warriors",
           "rank": 13
         },
         {
-          "query": "ohio election results",
+          "query": "woolens",
           "rank": 14
         },
         {
-          "query": "us senate results",
+          "query": "kimmarie johnson beverly hills 90210",
           "rank": 15
         },
         {
-          "query": "california election results",
+          "query": "bill clifton",
           "rank": 16
         },
         {
-          "query": "midterm election results",
+          "query": "macleods pharma olmesartan medoxomil recall",
           "rank": 17
         },
         {
-          "query": "aek real madrid",
+          "query": "mavericks vs spurs",
           "rank": 18
         },
         {
-          "query": "florida election results",
+          "query": "dreck definition",
           "rank": 19
         },
         {
-          "query": "elections results",
+          "query": "thursday night football",
           "rank": 20
         },
         {
-          "query": "barcelona aston villa",
+          "query": "susie wiles",
           "rank": 21
         },
         {
-          "query": "resultados de las elecciones de 2026 en estados unidos",
+          "query": "stephen miller",
           "rank": 22
         },
         {
-          "query": "texas election",
+          "query": "ravens",
           "rank": 23
         },
         {
-          "query": "midterm results",
+          "query": "jacksonville jaguars",
           "rank": 24
         },
         {
-          "query": "gina hinojosa",
+          "query": "hot rod",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-11-05",
+      "sourceDate": "2026-11-07",
       "table": "top_terms",
       "terms": [
         {
-          "query": "russell brand",
-          "rank": 1
-        },
-        {
-          "query": "stock market",
+          "query": "76ers vs cavaliers",
           "rank": 2
         },
         {
-          "query": "erin napier",
+          "query": "climate prediction center heavy snow map",
           "rank": 3
         },
         {
-          "query": "kimmarie johnson",
+          "query": "spurs vs kings",
           "rank": 4
         },
         {
-          "query": "nvidia stock",
+          "query": "tcu vs arizona",
           "rank": 5
         },
         {
-          "query": "ronaldo",
+          "query": "nebraska vs illinois",
           "rank": 6
         },
         {
-          "query": "tuten",
+          "query": "celtics vs hornets",
           "rank": 7
         },
         {
-          "query": "getafe vs brighton",
+          "query": "timberwolves vs pelicans",
           "rank": 8
         },
         {
-          "query": "chris van hollen",
+          "query": "thunder vs grizzlies",
           "rank": 9
         },
         {
-          "query": "harmeet dhillon",
+          "query": "steam free games november 2026",
           "rank": 10
         },
         {
-          "query": "2027 tax brackets",
+          "query": "virginia tech vs smu",
           "rank": 11
         },
         {
-          "query": "guy fawkes",
+          "query": "cybertruck discontinued",
           "rank": 12
         },
         {
-          "query": "az vs juventus",
+          "query": "meghan markle",
           "rank": 13
         },
         {
-          "query": "powerball winner new jersey 847 million",
+          "query": "michael sanft",
           "rank": 14
         },
         {
-          "query": "rashee rice",
+          "query": "jeremy london 7th heaven",
           "rank": 15
         },
         {
-          "query": "sandisk stock",
+          "query": "luka doncic",
           "rank": 16
         },
         {
-          "query": "qqq",
+          "query": "raptors vs bucks",
           "rank": 17
         },
         {
-          "query": "aaron judge",
+          "query": "charlie woods florida state signing",
           "rank": 18
         },
         {
-          "query": "nvda",
+          "query": "universidad de california",
           "rank": 19
         },
         {
-          "query": "voo",
+          "query": "kristaps porzingis",
           "rank": 20
         },
         {
-          "query": "spy stock",
+          "query": "scott laux blue angels removal",
           "rank": 21
         },
         {
-          "query": "sunderland vs dinamo zagreb",
+          "query": "atlante - santos",
           "rank": 22
         },
         {
-          "query": "stock market crash",
+          "query": "polar vortex",
           "rank": 23
         },
         {
-          "query": "vti",
+          "query": "south florida vs east carolina",
           "rank": 24
         },
         {
-          "query": "qqq stock",
+          "query": "paige bueckers",
           "rank": 25
         }
       ]

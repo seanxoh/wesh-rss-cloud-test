@@ -6,15 +6,15 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-08T22:01:16.907Z",
-  "runId": "42528066703",
+  "capturedAt": "2026-11-09T06:21:46.930Z",
+  "runId": "42572553888",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 175948720,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-11-07",
+      "sourceDate": "2026-11-08",
       "table": "top_rising_terms",
       "terms": [
         {
@@ -22,11 +22,11 @@
           "rank": 1
         },
         {
-          "query": "russell brand",
+          "query": "prate",
           "rank": 2
         },
         {
-          "query": "jaguars vs ravens",
+          "query": "bill clifton",
           "rank": 3
         },
         {
@@ -34,190 +34,194 @@
           "rank": 4
         },
         {
-          "query": "speedbag",
+          "query": "oregon vs ohio state",
           "rank": 5
         },
         {
-          "query": "anemone",
+          "query": "texas vs missouri",
           "rank": 6
         },
         {
-          "query": "osiris",
+          "query": "lsu vs alabama",
           "rank": 7
         },
         {
-          "query": "susan saint james",
+          "query": "osiris",
           "rank": 8
         },
         {
-          "query": "brando",
+          "query": "valencia vs real madrid",
           "rank": 9
         },
         {
-          "query": "narcissus",
+          "query": "prate definition",
           "rank": 10
         },
         {
-          "query": "osiris meaning",
+          "query": "raglan",
           "rank": 11
         },
         {
-          "query": "brando meaning",
+          "query": "valencia c. f. real madrid",
           "rank": 12
         },
         {
-          "query": "heat vs warriors",
+          "query": "dana white",
           "rank": 13
         },
         {
-          "query": "woolens",
+          "query": "trail blazers vs lakers",
           "rank": 14
         },
         {
-          "query": "kimmarie johnson beverly hills 90210",
+          "query": "byu vs utah",
           "rank": 15
         },
         {
-          "query": "bill clifton",
+          "query": "heat vs warriors",
           "rank": 16
         },
         {
-          "query": "macleods pharma olmesartan medoxomil recall",
+          "query": "jaguars vs ravens",
           "rank": 17
         },
         {
-          "query": "mavericks vs spurs",
+          "query": "texas a&m vs south carolina",
           "rank": 18
         },
         {
-          "query": "dreck definition",
+          "query": "arkansas vs auburn",
           "rank": 19
         },
         {
-          "query": "thursday night football",
+          "query": "76ers vs cavaliers",
           "rank": 20
         },
         {
-          "query": "susie wiles",
+          "query": "nebraska vs illinois",
           "rank": 21
         },
         {
-          "query": "stephen miller",
+          "query": "florida state vs boston college",
           "rank": 22
         },
         {
-          "query": "ravens",
+          "query": "stephen miller",
           "rank": 23
         },
         {
-          "query": "jacksonville jaguars",
+          "query": "college football scores",
           "rank": 24
         },
         {
-          "query": "hot rod",
+          "query": "college football today",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-11-07",
+      "sourceDate": "2026-11-08",
       "table": "top_terms",
       "terms": [
         {
-          "query": "76ers vs cavaliers",
+          "query": "cowboys vs colts",
+          "rank": 1
+        },
+        {
+          "query": "packers vs patriots",
           "rank": 2
         },
         {
-          "query": "climate prediction center heavy snow map",
+          "query": "atlético vs barcelona",
           "rank": 3
         },
         {
-          "query": "spurs vs kings",
+          "query": "giants vs eagles",
           "rank": 4
         },
         {
-          "query": "tcu vs arizona",
+          "query": "browns vs saints",
           "rank": 5
         },
         {
-          "query": "nebraska vs illinois",
+          "query": "jets vs chiefs",
           "rank": 6
         },
         {
-          "query": "celtics vs hornets",
+          "query": "broncos vs panthers",
           "rank": 7
         },
         {
-          "query": "timberwolves vs pelicans",
+          "query": "cardinals vs seahawks",
           "rank": 8
         },
         {
-          "query": "thunder vs grizzlies",
+          "query": "lions vs dolphins",
           "rank": 9
         },
         {
-          "query": "steam free games november 2026",
+          "query": "76ers vs bulls",
           "rank": 10
         },
         {
-          "query": "virginia tech vs smu",
+          "query": "texans vs chargers",
           "rank": 11
         },
         {
-          "query": "cybertruck discontinued",
+          "query": "rams vs commanders",
           "rank": 12
         },
         {
-          "query": "meghan markle",
+          "query": "49ers",
           "rank": 13
         },
         {
-          "query": "michael sanft",
+          "query": "social security benefit cuts 2032",
           "rank": 14
         },
         {
-          "query": "jeremy london 7th heaven",
+          "query": "lakers vs pistons",
           "rank": 15
         },
         {
-          "query": "luka doncic",
+          "query": "man utd vs aston villa",
           "rank": 16
         },
         {
-          "query": "raptors vs bucks",
+          "query": "nvidia",
           "rank": 17
         },
         {
-          "query": "charlie woods florida state signing",
+          "query": "atlético madrid vs fc barcelona standings",
           "rank": 18
         },
         {
-          "query": "universidad de california",
+          "query": "karlie kloss",
           "rank": 19
         },
         {
-          "query": "kristaps porzingis",
+          "query": "cruise ship worker rescued pacific ocean",
           "rank": 20
         },
         {
-          "query": "scott laux blue angels removal",
+          "query": "mahomes injury",
           "rank": 21
         },
         {
-          "query": "atlante - santos",
+          "query": "barca vs atletico",
           "rank": 22
         },
         {
-          "query": "polar vortex",
+          "query": "shedeur sanders",
           "rank": 23
         },
         {
-          "query": "south florida vs east carolina",
+          "query": "golden knights vs sabres",
           "rank": 24
         },
         {
-          "query": "paige bueckers",
+          "query": "jj mccarthy",
           "rank": 25
         }
       ]

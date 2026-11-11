@@ -6,178 +6,71 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-10T19:41:49.528Z",
-  "runId": "42887805131",
+  "capturedAt": "2026-11-11T06:12:24.042Z",
+  "runId": "42970777027",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 165457716,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-11-08",
+      "sourceDate": "2026-11-10",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "dreck",
+          "query": "buccaneers vs bears",
           "rank": 1
         },
-        {
-          "query": "prate",
-          "rank": 2
-        },
-        {
-          "query": "bill clifton",
-          "rank": 3
-        },
-        {
-          "query": "dreck meaning",
-          "rank": 4
-        },
-        {
-          "query": "oregon vs ohio state",
-          "rank": 5
-        },
-        {
-          "query": "texas vs missouri",
-          "rank": 6
-        },
-        {
-          "query": "lsu vs alabama",
-          "rank": 7
-        },
-        {
-          "query": "osiris",
-          "rank": 8
-        },
-        {
-          "query": "valencia vs real madrid",
-          "rank": 9
-        },
-        {
-          "query": "prate definition",
-          "rank": 10
-        },
-        {
-          "query": "raglan",
-          "rank": 11
-        },
-        {
-          "query": "valencia c. f. real madrid",
-          "rank": 12
-        },
-        {
-          "query": "dana white",
-          "rank": 13
-        },
-        {
-          "query": "trail blazers vs lakers",
-          "rank": 14
-        },
-        {
-          "query": "byu vs utah",
-          "rank": 15
-        },
-        {
-          "query": "heat vs warriors",
-          "rank": 16
-        },
-        {
-          "query": "jaguars vs ravens",
-          "rank": 17
-        },
-        {
-          "query": "texas a&m vs south carolina",
-          "rank": 18
-        },
-        {
-          "query": "arkansas vs auburn",
-          "rank": 19
-        },
-        {
-          "query": "76ers vs cavaliers",
-          "rank": 20
-        },
-        {
-          "query": "nebraska vs illinois",
-          "rank": 21
-        },
-        {
-          "query": "florida state vs boston college",
-          "rank": 22
-        },
-        {
-          "query": "stephen miller",
-          "rank": 23
-        },
-        {
-          "query": "college football scores",
-          "rank": 24
-        },
-        {
-          "query": "college football today",
-          "rank": 25
-        }
-      ]
-    },
-    {
-      "type": "TOP",
-      "sourceDate": "2026-11-08",
-      "table": "top_terms",
-      "terms": [
         {
           "query": "cowboys vs colts",
-          "rank": 1
+          "rank": 2
         },
         {
           "query": "packers vs patriots",
-          "rank": 2
-        },
-        {
-          "query": "atlético vs barcelona",
           "rank": 3
         },
         {
-          "query": "giants vs eagles",
+          "query": "loamy",
           "rank": 4
         },
         {
-          "query": "browns vs saints",
+          "query": "giants vs eagles",
           "rank": 5
         },
         {
-          "query": "jets vs chiefs",
+          "query": "raiders vs 49ers",
           "rank": 6
         },
         {
-          "query": "broncos vs panthers",
+          "query": "jets vs chiefs",
           "rank": 7
         },
         {
-          "query": "cardinals vs seahawks",
+          "query": "bengals vs falcons",
           "rank": 8
         },
         {
-          "query": "lions vs dolphins",
+          "query": "broncos vs panthers",
           "rank": 9
         },
         {
-          "query": "76ers vs bulls",
+          "query": "browns vs saints",
           "rank": 10
         },
         {
-          "query": "texans vs chargers",
+          "query": "atlético vs barcelona",
           "rank": 11
         },
         {
-          "query": "rams vs commanders",
+          "query": "cardinals vs seahawks",
           "rank": 12
         },
         {
-          "query": "49ers",
+          "query": "atlético madrid barcelona",
           "rank": 13
         },
         {
-          "query": "social security benefit cuts 2032",
+          "query": "lions vs dolphins",
           "rank": 14
         },
         {
@@ -185,43 +78,142 @@
           "rank": 15
         },
         {
-          "query": "man utd vs aston villa",
+          "query": "rochelle fleming",
           "rank": 16
         },
         {
-          "query": "nvidia",
+          "query": "jensen huang",
           "rank": 17
         },
         {
-          "query": "atlético madrid vs fc barcelona standings",
+          "query": "rams vs commanders",
           "rank": 18
         },
         {
-          "query": "karlie kloss",
+          "query": "texans vs chargers",
           "rank": 19
         },
         {
-          "query": "cruise ship worker rescued pacific ocean",
+          "query": "nvidia ceo",
           "rank": 20
         },
         {
-          "query": "mahomes injury",
+          "query": "social security benefit cuts 2032",
           "rank": 21
         },
         {
-          "query": "barca vs atletico",
+          "query": "james gunn",
           "rank": 22
         },
         {
-          "query": "shedeur sanders",
+          "query": "man utd vs aston villa",
           "rank": 23
         },
         {
-          "query": "golden knights vs sabres",
+          "query": "knicks vs cavaliers",
           "rank": 24
         },
         {
-          "query": "jj mccarthy",
+          "query": "alice huang",
+          "rank": 25
+        }
+      ]
+    },
+    {
+      "type": "TOP",
+      "sourceDate": "2026-11-10",
+      "table": "top_terms",
+      "terms": [
+        {
+          "query": "bills",
+          "rank": 1
+        },
+        {
+          "query": "lakers vs hawks",
+          "rank": 4
+        },
+        {
+          "query": "jordan davis",
+          "rank": 5
+        },
+        {
+          "query": "spurs vs suns",
+          "rank": 6
+        },
+        {
+          "query": "pelicans vs warriors",
+          "rank": 7
+        },
+        {
+          "query": "pacers vs mavericks",
+          "rank": 8
+        },
+        {
+          "query": "adrian peterson",
+          "rank": 9
+        },
+        {
+          "query": "cavaliers vs hornets",
+          "rank": 10
+        },
+        {
+          "query": "nuggets vs rockets",
+          "rank": 11
+        },
+        {
+          "query": "toukie smith",
+          "rank": 12
+        },
+        {
+          "query": "thomas massie",
+          "rank": 13
+        },
+        {
+          "query": "kyler murray",
+          "rank": 14
+        },
+        {
+          "query": "wizards vs pistons",
+          "rank": 15
+        },
+        {
+          "query": "bobby taylor st louis drummer",
+          "rank": 16
+        },
+        {
+          "query": "carla hall",
+          "rank": 17
+        },
+        {
+          "query": "grizzlies vs raptors",
+          "rank": 18
+        },
+        {
+          "query": "keleki latu",
+          "rank": 19
+        },
+        {
+          "query": "russell brand movies",
+          "rank": 20
+        },
+        {
+          "query": "odell beckham jr",
+          "rank": 21
+        },
+        {
+          "query": "justin jefferson",
+          "rank": 22
+        },
+        {
+          "query": "jessie bates",
+          "rank": 23
+        },
+        {
+          "query": "michael wilson",
+          "rank": 24
+        },
+        {
+          "query": "country music",
           "rank": 25
         }
       ]

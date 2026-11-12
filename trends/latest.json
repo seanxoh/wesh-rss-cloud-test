@@ -6,11 +6,11 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-12T15:10:21.367Z",
-  "runId": "43244865642",
+  "capturedAt": "2026-11-12T23:36:55.893Z",
+  "runId": "43330311223",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 170281660,
+  "bytesProcessed": 0,
   "lists": [
     {
       "type": "RISING",

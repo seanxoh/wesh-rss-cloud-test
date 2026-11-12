@@ -6,214 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-12T00:40:03.095Z",
-  "runId": "43128925788",
+  "capturedAt": "2026-11-12T15:10:21.367Z",
+  "runId": "43244865642",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 170281660,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-11-10",
+      "sourceDate": "2026-11-11",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "buccaneers vs bears",
+          "query": "loamy",
           "rank": 1
         },
         {
-          "query": "cowboys vs colts",
+          "query": "bills vs vikings",
           "rank": 2
         },
         {
-          "query": "packers vs patriots",
+          "query": "buccaneers vs bears",
           "rank": 3
         },
         {
-          "query": "loamy",
+          "query": "scrivener",
           "rank": 4
         },
         {
-          "query": "giants vs eagles",
+          "query": "metonymy",
           "rank": 5
         },
         {
-          "query": "raiders vs 49ers",
+          "query": "rochelle fleming",
           "rank": 6
         },
         {
-          "query": "jets vs chiefs",
+          "query": "foofaraw",
           "rank": 7
         },
         {
-          "query": "bengals vs falcons",
+          "query": "wainwright",
           "rank": 8
         },
         {
-          "query": "broncos vs panthers",
+          "query": "wainwright meaning",
           "rank": 9
         },
         {
-          "query": "browns vs saints",
+          "query": "betterballen foods llc frozen meat warning",
           "rank": 10
         },
         {
-          "query": "atlético vs barcelona",
+          "query": "haberdasher",
           "rank": 11
         },
         {
-          "query": "cardinals vs seahawks",
+          "query": "james gunn",
           "rank": 12
         },
         {
-          "query": "atlético madrid barcelona",
+          "query": "metonymy meaning",
           "rank": 13
         },
         {
-          "query": "lions vs dolphins",
+          "query": "flimflam",
           "rank": 14
         },
         {
-          "query": "lakers vs pistons",
+          "query": "foofaraw meaning",
           "rank": 15
         },
         {
-          "query": "rochelle fleming",
+          "query": "protozoology",
           "rank": 16
         },
         {
-          "query": "jensen huang",
+          "query": "lakers vs hawks",
           "rank": 17
         },
         {
-          "query": "rams vs commanders",
+          "query": "jordan davis",
           "rank": 18
         },
         {
-          "query": "texans vs chargers",
+          "query": "scrivener definition",
           "rank": 19
         },
         {
-          "query": "nvidia ceo",
+          "query": "kirk cousins",
           "rank": 20
         },
         {
-          "query": "social security benefit cuts 2032",
+          "query": "loamy definition",
           "rank": 21
         },
         {
-          "query": "james gunn",
+          "query": "nfl trades",
           "rank": 22
         },
         {
-          "query": "man utd vs aston villa",
+          "query": "monday night football",
           "rank": 23
         },
         {
-          "query": "knicks vs cavaliers",
+          "query": "nfl trade deadline",
           "rank": 24
         },
         {
-          "query": "alice huang",
+          "query": "carson wentz",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-11-10",
+      "sourceDate": "2026-11-11",
       "table": "top_terms",
       "terms": [
         {
-          "query": "bills",
+          "query": "olive garden veterans day",
           "rank": 1
         },
         {
-          "query": "lakers vs hawks",
+          "query": "usman nurmagomedov",
+          "rank": 2
+        },
+        {
+          "query": "yella beezy",
+          "rank": 3
+        },
+        {
+          "query": "rex ryan",
           "rank": 4
         },
         {
-          "query": "jordan davis",
+          "query": "ss united states sinking",
           "rank": 5
         },
         {
-          "query": "spurs vs suns",
+          "query": "is today veterans day",
           "rank": 6
         },
         {
-          "query": "pelicans vs warriors",
+          "query": "billy gray",
           "rank": 7
         },
         {
-          "query": "pacers vs mavericks",
+          "query": "irma p hall",
           "rank": 8
         },
         {
-          "query": "adrian peterson",
+          "query": "pochettino",
           "rank": 9
         },
         {
-          "query": "cavaliers vs hornets",
+          "query": "building collapse nyc",
           "rank": 10
         },
         {
-          "query": "nuggets vs rockets",
+          "query": "disco singer rochelle fleming passes",
           "rank": 11
         },
         {
-          "query": "toukie smith",
+          "query": "texas roadhouse",
           "rank": 12
         },
         {
-          "query": "thomas massie",
+          "query": "tomb of the unknown soldier",
           "rank": 13
         },
         {
-          "query": "kyler murray",
+          "query": "joao below deck",
           "rank": 14
         },
         {
-          "query": "wizards vs pistons",
+          "query": "leonardo dicaprio",
           "rank": 15
         },
         {
-          "query": "bobby taylor st louis drummer",
+          "query": "ayesha curry",
           "rank": 16
         },
         {
-          "query": "carla hall",
+          "query": "chilis",
           "rank": 17
         },
         {
-          "query": "grizzlies vs raptors",
+          "query": "armistice day",
           "rank": 18
         },
         {
-          "query": "keleki latu",
+          "query": "veteran",
           "rank": 19
         },
         {
-          "query": "russell brand movies",
+          "query": "pep guardiola",
           "rank": 20
         },
         {
-          "query": "odell beckham jr",
+          "query": "pat desiato passing rock bassist",
           "rank": 21
         },
         {
-          "query": "justin jefferson",
+          "query": "brad ausmus",
           "rank": 22
         },
         {
-          "query": "jessie bates",
+          "query": "jemima goldsmith",
           "rank": 23
         },
         {
-          "query": "michael wilson",
+          "query": "los angeles lakers bronny james",
           "rank": 24
         },
         {
-          "query": "country music",
+          "query": "landfill",
           "rank": 25
         }
       ]

@@ -6,222 +6,202 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-12T23:36:55.893Z",
-  "runId": "43330311223",
+  "capturedAt": "2026-11-13T06:40:57.622Z",
+  "runId": "43380373951",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 161550510,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-11-11",
+      "sourceDate": "2026-11-12",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "loamy",
+          "query": "microsoft outage",
           "rank": 1
         },
         {
-          "query": "bills vs vikings",
+          "query": "outlook outage",
           "rank": 2
         },
         {
-          "query": "buccaneers vs bears",
+          "query": "outlook down",
           "rank": 3
         },
         {
-          "query": "scrivener",
+          "query": "is outlook down",
           "rank": 4
         },
         {
-          "query": "metonymy",
+          "query": "microsoft down",
           "rank": 5
         },
         {
-          "query": "rochelle fleming",
+          "query": "kimberly powell",
           "rank": 6
         },
         {
-          "query": "foofaraw",
+          "query": "patoot",
           "rank": 7
         },
         {
-          "query": "wainwright",
+          "query": "anthony clark",
           "rank": 8
         },
         {
-          "query": "wainwright meaning",
+          "query": "rheostats",
           "rank": 9
         },
         {
-          "query": "betterballen foods llc frozen meat warning",
+          "query": "brooklyn building",
           "rank": 10
         },
         {
-          "query": "haberdasher",
+          "query": "microsoft outlook outage",
           "rank": 11
         },
         {
-          "query": "james gunn",
+          "query": "stacy keach",
           "rank": 12
         },
         {
-          "query": "metonymy meaning",
+          "query": "dan hicks",
           "rank": 13
         },
         {
-          "query": "flimflam",
+          "query": "kimberly powell nvidia",
           "rank": 14
         },
         {
-          "query": "foofaraw meaning",
+          "query": "microsoft outlook",
           "rank": 15
         },
         {
-          "query": "protozoology",
+          "query": "yella beezy",
           "rank": 16
         },
         {
-          "query": "lakers vs hawks",
+          "query": "thunder vs trail blazers",
           "rank": 17
         },
         {
-          "query": "jordan davis",
+          "query": "italy vs france",
           "rank": 18
         },
         {
-          "query": "scrivener definition",
+          "query": "rheostats meaning",
           "rank": 19
         },
         {
-          "query": "kirk cousins",
+          "query": "tornado watch",
           "rank": 20
         },
         {
-          "query": "loamy definition",
+          "query": "mark mcguinn",
           "rank": 21
         },
         {
-          "query": "nfl trades",
+          "query": "cavaliers vs knicks",
           "rank": 22
         },
         {
-          "query": "monday night football",
+          "query": "is outlook down right now",
           "rank": 23
         },
         {
-          "query": "nfl trade deadline",
+          "query": "spurs vs bulls",
           "rank": 24
         },
         {
-          "query": "carson wentz",
+          "query": "disco singer rochelle fleming passes",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-11-11",
+      "sourceDate": "2026-11-12",
       "table": "top_terms",
       "terms": [
         {
-          "query": "olive garden veterans day",
-          "rank": 1
-        },
-        {
-          "query": "usman nurmagomedov",
-          "rank": 2
-        },
-        {
-          "query": "yella beezy",
+          "query": "dc shooting",
           "rank": 3
         },
         {
-          "query": "rex ryan",
-          "rank": 4
-        },
-        {
-          "query": "ss united states sinking",
-          "rank": 5
-        },
-        {
-          "query": "is today veterans day",
+          "query": "social security cuts",
           "rank": 6
         },
         {
-          "query": "billy gray",
+          "query": "czechia vs spain",
           "rank": 7
         },
         {
-          "query": "irma p hall",
+          "query": "jensen huang third affair",
           "rank": 8
         },
         {
-          "query": "pochettino",
+          "query": "chequia - españa",
           "rank": 9
         },
         {
-          "query": "building collapse nyc",
+          "query": "morgan wallen tour 2027",
           "rank": 10
         },
         {
-          "query": "disco singer rochelle fleming passes",
+          "query": "italia - francia",
           "rank": 11
         },
         {
-          "query": "texas roadhouse",
+          "query": "inglaterra - croacia",
           "rank": 12
         },
         {
-          "query": "tomb of the unknown soldier",
+          "query": "tommy mcmillen",
           "rank": 13
         },
         {
-          "query": "joao below deck",
+          "query": "türkiye vs belgium",
           "rank": 14
         },
         {
-          "query": "leonardo dicaprio",
+          "query": "freeze watch",
           "rank": 15
         },
         {
-          "query": "ayesha curry",
+          "query": "england national football team vs croatia national football team standings",
           "rank": 16
         },
         {
-          "query": "chilis",
+          "query": "nintendo black friday",
           "rank": 17
         },
         {
-          "query": "armistice day",
+          "query": "phil collins",
           "rank": 18
         },
         {
-          "query": "veteran",
+          "query": "yes dear anthony clark",
           "rank": 19
         },
         {
-          "query": "pep guardiola",
+          "query": "commanders vs giants",
           "rank": 20
         },
         {
-          "query": "pat desiato passing rock bassist",
-          "rank": 21
-        },
-        {
-          "query": "brad ausmus",
+          "query": "aaron reitz letter richard blumenthal",
           "rank": 22
         },
         {
-          "query": "jemima goldsmith",
+          "query": "aspyn ovard daughter diagnosis",
           "rank": 23
         },
         {
-          "query": "los angeles lakers bronny james",
+          "query": "fresno state bulldogs men's basketball",
           "rank": 24
         },
         {
-          "query": "landfill",
+          "query": "msft",
           "rank": 25
         }
       ]

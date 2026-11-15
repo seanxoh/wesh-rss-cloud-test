@@ -6,202 +6,210 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-14T22:21:21.379Z",
-  "runId": "43647640795",
+  "capturedAt": "2026-11-15T06:25:25.270Z",
+  "runId": "43685351621",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 173138787,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-11-12",
+      "sourceDate": "2026-11-14",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "microsoft outage",
+          "query": "flights grounded",
           "rank": 1
         },
         {
-          "query": "outlook outage",
+          "query": "faa ground stop",
           "rank": 2
         },
         {
-          "query": "outlook down",
+          "query": "ground stop",
           "rank": 3
         },
         {
-          "query": "is outlook down",
+          "query": "planes grounded",
           "rank": 4
         },
         {
-          "query": "microsoft down",
+          "query": "faa",
           "rank": 5
         },
         {
-          "query": "kimberly powell",
+          "query": "all flights grounded",
           "rank": 6
         },
         {
-          "query": "patoot",
+          "query": "nationwide ground stop",
           "rank": 7
         },
         {
-          "query": "anthony clark",
+          "query": "flights grounded today",
           "rank": 8
         },
         {
-          "query": "rheostats",
+          "query": "why are flights grounded",
           "rank": 9
         },
         {
-          "query": "brooklyn building",
+          "query": "sam hartman",
           "rank": 10
         },
         {
-          "query": "microsoft outlook outage",
+          "query": "are flights still grounded",
           "rank": 11
         },
         {
-          "query": "stacy keach",
+          "query": "mottle",
           "rank": 12
         },
         {
-          "query": "dan hicks",
+          "query": "faa ground stop today",
           "rank": 13
         },
         {
-          "query": "kimberly powell nvidia",
+          "query": "northwestern vs ohio state",
           "rank": 14
         },
         {
-          "query": "microsoft outlook",
+          "query": "argentina uruguay",
           "rank": 15
         },
         {
-          "query": "yella beezy",
+          "query": "alabama vs vanderbilt",
           "rank": 16
         },
         {
-          "query": "thunder vs trail blazers",
+          "query": "trib",
           "rank": 17
         },
         {
-          "query": "italy vs france",
+          "query": "why are all flights grounded",
           "rank": 18
         },
         {
-          "query": "rheostats meaning",
+          "query": "portugal vs denmark",
           "rank": 19
         },
         {
-          "query": "tornado watch",
+          "query": "argentina vs uruguay",
           "rank": 20
         },
         {
-          "query": "mark mcguinn",
+          "query": "warriors vs spurs",
           "rank": 21
         },
         {
-          "query": "cavaliers vs knicks",
+          "query": "airports shut down",
           "rank": 22
         },
         {
-          "query": "is outlook down right now",
+          "query": "michigan vs oregon",
           "rank": 23
         },
         {
-          "query": "spurs vs bulls",
+          "query": "florida state vs pittsburgh",
           "rank": 24
         },
         {
-          "query": "disco singer rochelle fleming passes",
+          "query": "trib meaning",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-11-12",
+      "sourceDate": "2026-11-14",
       "table": "top_terms",
       "terms": [
         {
-          "query": "dc shooting",
-          "rank": 3
+          "query": "haiti vs usa",
+          "rank": 2
         },
         {
-          "query": "social security cuts",
+          "query": "missouri vs georgia",
+          "rank": 5
+        },
+        {
+          "query": "usc vs indiana",
           "rank": 6
         },
         {
-          "query": "czechia vs spain",
+          "query": "boston college vs notre dame",
           "rank": 7
         },
         {
-          "query": "jensen huang third affair",
+          "query": "auburn vs ms state",
           "rank": 8
         },
         {
-          "query": "chequia - españa",
+          "query": "duke vs miami fl",
           "rank": 9
         },
         {
-          "query": "morgan wallen tour 2027",
+          "query": "portugal - dinamarca",
           "rank": 10
         },
         {
-          "query": "italia - francia",
+          "query": "georgia tech vs clemson",
           "rank": 11
         },
         {
-          "query": "inglaterra - croacia",
+          "query": "ufc tonight",
           "rank": 12
         },
         {
-          "query": "tommy mcmillen",
+          "query": "wake forest vs smu",
           "rank": 13
         },
         {
-          "query": "türkiye vs belgium",
+          "query": "nebraska vs rutgers",
           "rank": 14
         },
         {
-          "query": "freeze watch",
+          "query": "wisconsin vs maryland",
           "rank": 15
         },
         {
-          "query": "england national football team vs croatia national football team standings",
+          "query": "florida vs kentucky",
           "rank": 16
         },
         {
-          "query": "nintendo black friday",
+          "query": "washington vs mi state",
           "rank": 17
         },
         {
-          "query": "phil collins",
+          "query": "kansas state vs tcu",
           "rank": 18
         },
         {
-          "query": "yes dear anthony clark",
+          "query": "kansas vs west virginia",
           "rank": 19
         },
         {
-          "query": "commanders vs giants",
+          "query": "norway vs wales",
           "rank": 20
         },
         {
-          "query": "aaron reitz letter richard blumenthal",
+          "query": "portugal national football team vs denmark national football team standings",
+          "rank": 21
+        },
+        {
+          "query": "arizona state vs ucf",
           "rank": 22
         },
         {
-          "query": "aspyn ovard daughter diagnosis",
+          "query": "haití - estados unidos",
           "rank": 23
         },
         {
-          "query": "fresno state bulldogs men's basketball",
+          "query": "posiciones de selección de fútbol de portugal contra selección de fútbol de dinamarca",
           "rank": 24
         },
         {
-          "query": "msft",
+          "query": "jets vs blackhawks",
           "rank": 25
         }
       ]

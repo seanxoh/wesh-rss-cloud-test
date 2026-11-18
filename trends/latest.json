@@ -6,210 +6,186 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-17T20:53:06.716Z",
-  "runId": "44173940611",
+  "capturedAt": "2026-11-18T07:24:11.027Z",
+  "runId": "44258573430",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 147996202,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-11-14",
+      "sourceDate": "2026-11-17",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "flights grounded",
+          "query": "chargers vs ravens",
           "rank": 1
         },
         {
-          "query": "faa ground stop",
+          "query": "ravens vs chargers",
           "rank": 2
         },
         {
-          "query": "ground stop",
+          "query": "robert pattinson james bond",
           "rank": 3
         },
         {
-          "query": "planes grounded",
+          "query": "robert pattinson",
           "rank": 4
         },
         {
-          "query": "faa",
+          "query": "bank outage",
           "rank": 5
         },
         {
-          "query": "all flights grounded",
+          "query": "bank outages",
           "rank": 6
         },
         {
-          "query": "nationwide ground stop",
+          "query": "monday night football",
           "rank": 7
         },
         {
-          "query": "flights grounded today",
+          "query": "banks down",
           "rank": 8
         },
         {
-          "query": "why are flights grounded",
+          "query": "grammy nominations 2027",
           "rank": 9
         },
         {
-          "query": "sam hartman",
+          "query": "steelers vs bengals",
           "rank": 10
         },
         {
-          "query": "are flights still grounded",
+          "query": "monday night football tonight",
           "rank": 11
         },
         {
-          "query": "mottle",
+          "query": "new james bond",
           "rank": 12
         },
         {
-          "query": "faa ground stop today",
+          "query": "germany vs netherlands",
           "rank": 13
         },
         {
-          "query": "northwestern vs ohio state",
+          "query": "flood watch",
           "rank": 14
         },
         {
-          "query": "argentina uruguay",
+          "query": "magic vs celtics",
           "rank": 15
         },
         {
-          "query": "alabama vs vanderbilt",
+          "query": "76ers vs nets",
           "rank": 16
         },
         {
-          "query": "trib",
+          "query": "social security early payment november",
           "rank": 17
         },
         {
-          "query": "why are all flights grounded",
+          "query": "warriors vs pelicans",
           "rank": 18
         },
         {
-          "query": "portugal vs denmark",
+          "query": "james bond",
           "rank": 19
         },
         {
-          "query": "argentina vs uruguay",
+          "query": "chargers",
           "rank": 20
         },
         {
-          "query": "warriors vs spurs",
+          "query": "ravens",
           "rank": 21
         },
         {
-          "query": "airports shut down",
+          "query": "mnf tonight",
           "rank": 22
         },
         {
-          "query": "michigan vs oregon",
+          "query": "rockets vs heat",
           "rank": 23
         },
         {
-          "query": "florida state vs pittsburgh",
+          "query": "bulls vs cavaliers",
           "rank": 24
         },
         {
-          "query": "trib meaning",
+          "query": "blooket join",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-11-14",
+      "sourceDate": "2026-11-17",
       "table": "top_terms",
       "terms": [
         {
-          "query": "haiti vs usa",
-          "rank": 2
+          "query": "grammy nominations",
+          "rank": 3
         },
         {
-          "query": "missouri vs georgia",
+          "query": "nationwide blackout",
           "rank": 5
         },
         {
-          "query": "usc vs indiana",
+          "query": "ray tintori",
           "rank": 6
         },
         {
-          "query": "boston college vs notre dame",
-          "rank": 7
-        },
-        {
-          "query": "auburn vs ms state",
+          "query": "dirty bomb",
           "rank": 8
         },
         {
-          "query": "duke vs miami fl",
+          "query": "trail blazers vs timberwolves",
           "rank": 9
         },
         {
-          "query": "portugal - dinamarca",
+          "query": "clarence thomas first amendment warning",
           "rank": 10
         },
         {
-          "query": "georgia tech vs clemson",
-          "rank": 11
-        },
-        {
-          "query": "ufc tonight",
-          "rank": 12
-        },
-        {
-          "query": "wake forest vs smu",
-          "rank": 13
-        },
-        {
-          "query": "nebraska vs rutgers",
-          "rank": 14
-        },
-        {
-          "query": "wisconsin vs maryland",
+          "query": "suns vs nuggets",
           "rank": 15
         },
         {
-          "query": "florida vs kentucky",
+          "query": "canadá - guatemala",
           "rank": 16
         },
         {
-          "query": "washington vs mi state",
+          "query": "nasa curiosity gediz vallis discovery",
           "rank": 17
         },
         {
-          "query": "kansas state vs tcu",
+          "query": "drug recall",
           "rank": 18
         },
         {
-          "query": "kansas vs west virginia",
+          "query": "united airlines outage",
           "rank": 19
         },
         {
-          "query": "norway vs wales",
+          "query": "hunger games sunrise on the reaping",
           "rank": 20
         },
         {
-          "query": "portugal national football team vs denmark national football team standings",
-          "rank": 21
-        },
-        {
-          "query": "arizona state vs ucf",
+          "query": "dr michael freeman",
           "rank": 22
         },
         {
-          "query": "haití - estados unidos",
+          "query": "arch manning postgame celebration viral video",
           "rank": 23
         },
         {
-          "query": "posiciones de selección de fútbol de portugal contra selección de fútbol de dinamarca",
+          "query": "jack lowden",
           "rank": 24
         },
         {
-          "query": "jets vs blackhawks",
+          "query": "tara harding ford bronco purchase",
           "rank": 25
         }
       ]

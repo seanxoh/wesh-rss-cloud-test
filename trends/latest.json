@@ -6,186 +6,202 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-18T20:29:16.056Z",
-  "runId": "44391475755",
+  "capturedAt": "2026-11-19T07:21:40.283Z",
+  "runId": "44478980015",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 159459750,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-11-17",
+      "sourceDate": "2026-11-18",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "chargers vs ravens",
+          "query": "sixpence",
           "rank": 1
         },
         {
-          "query": "ravens vs chargers",
+          "query": "nsa",
           "rank": 2
         },
         {
-          "query": "robert pattinson james bond",
+          "query": "argentina vs costa rica",
           "rank": 3
         },
         {
-          "query": "robert pattinson",
+          "query": "pistons vs spurs",
           "rank": 4
         },
         {
-          "query": "bank outage",
+          "query": "penny lane",
           "rank": 5
         },
         {
-          "query": "bank outages",
+          "query": "chargers vs ravens",
           "rank": 6
         },
         {
-          "query": "monday night football",
+          "query": "trail blazers vs timberwolves",
           "rank": 7
         },
         {
-          "query": "banks down",
+          "query": "kingpin",
           "rank": 8
         },
         {
-          "query": "grammy nominations 2027",
+          "query": "emergency alert system",
           "rank": 9
         },
         {
-          "query": "steelers vs bengals",
+          "query": "dancing with the stars",
           "rank": 10
         },
         {
-          "query": "monday night football tonight",
+          "query": "what is a dirty bomb",
           "rank": 11
         },
         {
-          "query": "new james bond",
+          "query": "propranolol extended release capsules metal recall",
           "rank": 12
         },
         {
-          "query": "germany vs netherlands",
+          "query": "clarence thomas first amendment warning",
           "rank": 13
         },
         {
-          "query": "flood watch",
+          "query": "ravens",
           "rank": 14
         },
         {
-          "query": "magic vs celtics",
+          "query": "duke basketball",
           "rank": 15
         },
         {
-          "query": "76ers vs nets",
+          "query": "usa vs haiti",
           "rank": 16
         },
         {
-          "query": "social security early payment november",
+          "query": "flood watch",
           "rank": 17
         },
         {
-          "query": "warriors vs pelicans",
+          "query": "chargers",
           "rank": 18
         },
         {
-          "query": "james bond",
+          "query": "noodles & company restaurant closures",
           "rank": 19
         },
         {
-          "query": "chargers",
+          "query": "united airlines outage",
           "rank": 20
         },
         {
-          "query": "ravens",
+          "query": "nvda",
           "rank": 21
         },
         {
-          "query": "mnf tonight",
+          "query": "monday night football",
           "rank": 22
         },
         {
-          "query": "rockets vs heat",
+          "query": "nvda stock",
           "rank": 23
         },
         {
-          "query": "bulls vs cavaliers",
+          "query": "concacaf nations league",
           "rank": 24
         },
         {
-          "query": "blooket join",
+          "query": "when does gta 6 come out",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-11-17",
+      "sourceDate": "2026-11-18",
       "table": "top_terms",
       "terms": [
         {
-          "query": "grammy nominations",
-          "rank": 3
+          "query": "méxico - jamaica",
+          "rank": 1
         },
         {
-          "query": "nationwide blackout",
+          "query": "hornets vs lakers",
           "rank": 5
         },
         {
-          "query": "ray tintori",
+          "query": "andrej stojakovic",
           "rank": 6
         },
         {
-          "query": "dirty bomb",
+          "query": "game awards",
+          "rank": 7
+        },
+        {
+          "query": "apple outage",
           "rank": 8
         },
         {
-          "query": "trail blazers vs timberwolves",
+          "query": "argentina - costa rica",
           "rank": 9
         },
         {
-          "query": "clarence thomas first amendment warning",
-          "rank": 10
+          "query": "mexico soccer",
+          "rank": 11
         },
         {
-          "query": "suns vs nuggets",
+          "query": "jazz vs clippers",
+          "rank": 13
+        },
+        {
+          "query": "chile vs colombia",
+          "rank": 14
+        },
+        {
+          "query": "mi state vs tennessee",
           "rank": 15
         },
         {
-          "query": "canadá - guatemala",
+          "query": "who got eliminated on dancing with the stars",
           "rank": 16
         },
         {
-          "query": "nasa curiosity gediz vallis discovery",
+          "query": "manni l perez",
           "rank": 17
         },
         {
-          "query": "drug recall",
+          "query": "mexico vs",
           "rank": 18
         },
         {
-          "query": "united airlines outage",
+          "query": "liga de naciones concacaf",
           "rank": 19
         },
         {
-          "query": "hunger games sunrise on the reaping",
+          "query": "mcdonalds home alone meal",
           "rank": 20
         },
         {
-          "query": "dr michael freeman",
+          "query": "anne hathaway",
+          "rank": 21
+        },
+        {
+          "query": "lesley vogel",
           "rank": 22
         },
         {
-          "query": "arch manning postgame celebration viral video",
+          "query": "indiana vs arkansas",
           "rank": 23
         },
         {
-          "query": "jack lowden",
+          "query": "maple leafs vs blackhawks",
           "rank": 24
         },
         {
-          "query": "tara harding ford bronco purchase",
+          "query": "fraud",
           "rank": 25
         }
       ]

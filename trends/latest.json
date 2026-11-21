@@ -6,202 +6,210 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-20T20:13:29.111Z",
-  "runId": "44809363443",
+  "capturedAt": "2026-11-21T07:02:53.290Z",
+  "runId": "44878376082",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 156305794,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-11-18",
+      "sourceDate": "2026-11-20",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "sixpence",
+          "query": "galangal",
           "rank": 1
         },
         {
-          "query": "nsa",
+          "query": "galangal meaning",
           "rank": 2
         },
         {
-          "query": "argentina vs costa rica",
+          "query": "colts vs texans",
           "rank": 3
         },
         {
-          "query": "pistons vs spurs",
+          "query": "larry poindexter",
           "rank": 4
         },
         {
-          "query": "penny lane",
+          "query": "ant stock",
           "rank": 5
         },
         {
-          "query": "chargers vs ravens",
+          "query": "knicks vs timberwolves",
           "rank": 6
         },
         {
-          "query": "trail blazers vs timberwolves",
+          "query": "fiona the hippo",
           "rank": 7
         },
         {
-          "query": "kingpin",
+          "query": "anthropic stock",
           "rank": 8
         },
         {
-          "query": "emergency alert system",
+          "query": "clippers vs spurs",
           "rank": 9
         },
         {
-          "query": "dancing with the stars",
+          "query": "puka nacua",
           "rank": 10
         },
         {
-          "query": "what is a dirty bomb",
+          "query": "colts",
           "rank": 11
         },
         {
-          "query": "propranolol extended release capsules metal recall",
+          "query": "texans",
           "rank": 12
         },
         {
-          "query": "clarence thomas first amendment warning",
+          "query": "celtics vs nuggets",
           "rank": 13
         },
         {
-          "query": "ravens",
+          "query": "ella langley",
           "rank": 14
         },
         {
-          "query": "duke basketball",
+          "query": "thursday night football",
           "rank": 15
         },
         {
-          "query": "usa vs haiti",
+          "query": "kfc closing",
           "rank": 16
         },
         {
-          "query": "flood watch",
+          "query": "ant",
           "rank": 17
         },
         {
-          "query": "chargers",
+          "query": "anthropic",
           "rank": 18
         },
         {
-          "query": "noodles & company restaurant closures",
+          "query": "lucia gta 6",
           "rank": 19
         },
         {
-          "query": "united airlines outage",
+          "query": "janitor ai",
           "rank": 20
         },
         {
-          "query": "nvda",
+          "query": "cma awards 2026",
           "rank": 21
         },
         {
-          "query": "monday night football",
+          "query": "anthropic ipo",
           "rank": 22
         },
         {
-          "query": "nvda stock",
+          "query": "gta6",
           "rank": 23
         },
         {
-          "query": "concacaf nations league",
+          "query": "taylor swift",
           "rank": 24
         },
         {
-          "query": "when does gta 6 come out",
+          "query": "gta vi",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-11-18",
+      "sourceDate": "2026-11-20",
       "table": "top_terms",
       "terms": [
         {
-          "query": "méxico - jamaica",
-          "rank": 1
+          "query": "fiona",
+          "rank": 2
         },
         {
-          "query": "hornets vs lakers",
+          "query": "trail blazers vs bucks",
           "rank": 5
         },
         {
-          "query": "andrej stojakovic",
+          "query": "ant stock price",
           "rank": 6
         },
         {
-          "query": "game awards",
+          "query": "quinnipiac university",
           "rank": 7
         },
         {
-          "query": "apple outage",
+          "query": "puka nacua suspension",
           "rank": 8
         },
         {
-          "query": "argentina - costa rica",
+          "query": "hunger games",
           "rank": 9
         },
         {
-          "query": "mexico soccer",
+          "query": "lance broadway",
+          "rank": 10
+        },
+        {
+          "query": "pete rose",
           "rank": 11
         },
         {
-          "query": "jazz vs clippers",
+          "query": "boeing 747",
+          "rank": 12
+        },
+        {
+          "query": "patrick stewart",
           "rank": 13
         },
         {
-          "query": "chile vs colombia",
+          "query": "tank dell",
           "rank": 14
         },
         {
-          "query": "mi state vs tennessee",
+          "query": "rice vs temple",
           "rank": 15
         },
         {
-          "query": "who got eliminated on dancing with the stars",
+          "query": "wild vs flames",
           "rank": 16
         },
         {
-          "query": "manni l perez",
+          "query": "ducks vs avalanche",
           "rank": 17
         },
         {
-          "query": "mexico vs",
+          "query": "blue jackets vs blackhawks",
           "rank": 18
         },
         {
-          "query": "liga de naciones concacaf",
+          "query": "sabres vs capitals",
           "rank": 19
         },
         {
-          "query": "mcdonalds home alone meal",
+          "query": "marlon jackson",
           "rank": 20
         },
         {
-          "query": "anne hathaway",
+          "query": "daniel jones",
           "rank": 21
         },
         {
-          "query": "lesley vogel",
+          "query": "marvel announces iron man replacement",
           "rank": 22
         },
         {
-          "query": "indiana vs arkansas",
+          "query": "canadiens vs hurricanes",
           "rank": 23
         },
         {
-          "query": "maple leafs vs blackhawks",
+          "query": "brooke rollins",
           "rank": 24
         },
         {
-          "query": "fraud",
+          "query": "oilers vs lightning",
           "rank": 25
         }
       ]

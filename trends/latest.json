@@ -6,210 +6,190 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-21T19:12:33.304Z",
-  "runId": "44939684183",
+  "capturedAt": "2026-11-22T06:43:35.854Z",
+  "runId": "44995004890",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 149148972,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-11-20",
+      "sourceDate": "2026-11-21",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "galangal",
+          "query": "ohio state vs nebraska",
           "rank": 1
         },
         {
-          "query": "galangal meaning",
+          "query": "hierophant",
           "rank": 2
         },
         {
-          "query": "colts vs texans",
+          "query": "oregon vs mi state",
           "rank": 3
         },
         {
-          "query": "larry poindexter",
+          "query": "riemann hypothesis",
           "rank": 4
         },
         {
-          "query": "ant stock",
+          "query": "real madrid vs celta",
           "rank": 5
         },
         {
-          "query": "knicks vs timberwolves",
+          "query": "chattanooga vs alabama",
           "rank": 6
         },
         {
-          "query": "fiona the hippo",
+          "query": "real madrid celta de vigo",
           "rank": 7
         },
         {
-          "query": "anthropic stock",
+          "query": "stuttgarter meaning",
           "rank": 8
         },
         {
-          "query": "clippers vs spurs",
+          "query": "patrick petty",
           "rank": 9
         },
         {
-          "query": "puka nacua",
+          "query": "vanderbilt vs florida",
           "rank": 10
         },
         {
-          "query": "colts",
+          "query": "byu vs kansas",
           "rank": 11
         },
         {
-          "query": "texans",
+          "query": "bucks vs 76ers",
           "rank": 12
         },
         {
-          "query": "celtics vs nuggets",
+          "query": "daniel jones",
           "rank": 13
         },
         {
-          "query": "ella langley",
+          "query": "clemson vs duke",
           "rank": 14
         },
         {
-          "query": "thursday night football",
+          "query": "maven",
           "rank": 15
         },
         {
-          "query": "kfc closing",
+          "query": "lsu vs tennessee",
           "rank": 16
         },
         {
-          "query": "ant",
+          "query": "kings vs lakers",
           "rank": 17
         },
         {
-          "query": "anthropic",
+          "query": "5th circuit proxy voting ruling",
           "rank": 18
         },
         {
-          "query": "lucia gta 6",
+          "query": "knicks vs timberwolves",
           "rank": 19
         },
         {
-          "query": "janitor ai",
+          "query": "colorado vs cincinnati",
           "rank": 20
         },
         {
-          "query": "cma awards 2026",
+          "query": "patrick stewart",
           "rank": 21
         },
         {
-          "query": "anthropic ipo",
+          "query": "iowa state vs ucf",
           "rank": 22
         },
         {
-          "query": "gta6",
+          "query": "colts vs texans",
           "rank": 23
         },
         {
-          "query": "taylor swift",
+          "query": "man city vs fulham",
           "rank": 24
         },
         {
-          "query": "gta vi",
+          "query": "nebraska football",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-11-20",
+      "sourceDate": "2026-11-21",
       "table": "top_terms",
       "terms": [
         {
-          "query": "fiona",
-          "rank": 2
-        },
-        {
-          "query": "trail blazers vs bucks",
-          "rank": 5
-        },
-        {
-          "query": "ant stock price",
+          "query": "arkansas vs texas",
           "rank": 6
         },
         {
-          "query": "quinnipiac university",
+          "query": "indiana vs washington",
           "rank": 7
         },
         {
-          "query": "puka nacua suspension",
-          "rank": 8
-        },
-        {
-          "query": "hunger games",
+          "query": "texas a&m vs oklahoma",
           "rank": 9
         },
         {
-          "query": "lance broadway",
-          "rank": 10
-        },
-        {
-          "query": "pete rose",
+          "query": "iowa vs illinois",
           "rank": 11
         },
         {
-          "query": "boeing 747",
+          "query": "nc state vs florida state",
           "rank": 12
         },
         {
-          "query": "patrick stewart",
+          "query": "newcastle vs arsenal",
           "rank": 13
         },
         {
-          "query": "tank dell",
+          "query": "rutgers vs penn state",
           "rank": 14
         },
         {
-          "query": "rice vs temple",
+          "query": "houston vs west virginia",
           "rank": 15
         },
         {
-          "query": "wild vs flames",
-          "rank": 16
-        },
-        {
-          "query": "ducks vs avalanche",
+          "query": "samford vs auburn",
           "rank": 17
         },
         {
-          "query": "blue jackets vs blackhawks",
+          "query": "texas tech vs baylor",
           "rank": 18
         },
         {
-          "query": "sabres vs capitals",
+          "query": "northwestern vs minnesota",
           "rank": 19
         },
         {
-          "query": "marlon jackson",
+          "query": "wisconsin vs purdue",
           "rank": 20
         },
         {
-          "query": "daniel jones",
+          "query": "la liga",
           "rank": 21
         },
         {
-          "query": "marvel announces iron man replacement",
+          "query": "montana vs montana state",
           "rank": 22
         },
         {
-          "query": "canadiens vs hurricanes",
+          "query": "unc vs virginia",
           "rank": 23
         },
         {
-          "query": "brooke rollins",
+          "query": "tn tech vs ms state",
           "rank": 24
         },
         {
-          "query": "oilers vs lightning",
+          "query": "noaa winter snow map el niño",
           "rank": 25
         }
       ]

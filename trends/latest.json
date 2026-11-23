@@ -6,190 +6,182 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-22T19:35:24.776Z",
-  "runId": "45061605804",
+  "capturedAt": "2026-11-23T07:33:24.966Z",
+  "runId": "45131938883",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 142425090,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-11-21",
+      "sourceDate": "2026-11-22",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "ohio state vs nebraska",
+          "query": "titans vs cowboys",
           "rank": 1
         },
         {
-          "query": "hierophant",
+          "query": "steelers vs eagles",
           "rank": 2
         },
         {
-          "query": "oregon vs mi state",
+          "query": "barcelona villarreal",
           "rank": 3
         },
         {
-          "query": "riemann hypothesis",
+          "query": "hierophant",
           "rank": 4
         },
         {
-          "query": "real madrid vs celta",
+          "query": "tom jackson",
           "rank": 5
         },
         {
-          "query": "chattanooga vs alabama",
+          "query": "ohio state vs nebraska",
           "rank": 6
         },
         {
-          "query": "real madrid celta de vigo",
+          "query": "cardinals vs chiefs",
           "rank": 7
         },
         {
-          "query": "stuttgarter meaning",
+          "query": "saints vs bears",
           "rank": 8
         },
         {
-          "query": "patrick petty",
+          "query": "buccaneers vs lions",
           "rank": 9
         },
         {
-          "query": "vanderbilt vs florida",
+          "query": "ucla vs michigan",
           "rank": 10
         },
         {
-          "query": "byu vs kansas",
+          "query": "real madrid vs celta",
           "rank": 11
         },
         {
-          "query": "bucks vs 76ers",
+          "query": "georgia vs south carolina",
           "rank": 12
         },
         {
-          "query": "daniel jones",
+          "query": "barcelona vs villarreal",
           "rank": 13
         },
         {
-          "query": "clemson vs duke",
+          "query": "real madrid celta de vigo",
           "rank": 14
         },
         {
-          "query": "maven",
+          "query": "lsu vs tennessee",
           "rank": 15
         },
         {
-          "query": "lsu vs tennessee",
+          "query": "dolphins vs bills",
           "rank": 16
         },
         {
-          "query": "kings vs lakers",
+          "query": "ravens vs panthers",
           "rank": 17
         },
         {
-          "query": "5th circuit proxy voting ruling",
+          "query": "chattanooga vs alabama",
           "rank": 18
         },
         {
-          "query": "knicks vs timberwolves",
+          "query": "oregon vs mi state",
           "rank": 19
         },
         {
-          "query": "colorado vs cincinnati",
+          "query": "tom jackson espn",
           "rank": 20
         },
         {
-          "query": "patrick stewart",
+          "query": "indiana vs washington",
           "rank": 21
         },
         {
-          "query": "iowa state vs ucf",
+          "query": "raiders vs broncos",
           "rank": 22
         },
         {
-          "query": "colts vs texans",
+          "query": "virginia tech vs miami fl",
           "rank": 23
         },
         {
-          "query": "man city vs fulham",
+          "query": "liverpool vs man utd",
           "rank": 24
         },
         {
-          "query": "nebraska football",
+          "query": "college football scores",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-11-21",
+      "sourceDate": "2026-11-22",
       "table": "top_terms",
       "terms": [
         {
-          "query": "arkansas vs texas",
-          "rank": 6
+          "query": "jaguars vs giants",
+          "rank": 10
         },
         {
-          "query": "indiana vs washington",
-          "rank": 7
-        },
-        {
-          "query": "texas a&m vs oklahoma",
-          "rank": 9
-        },
-        {
-          "query": "iowa vs illinois",
+          "query": "jets vs chargers",
           "rank": 11
         },
         {
-          "query": "nc state vs florida state",
-          "rank": 12
-        },
-        {
-          "query": "newcastle vs arsenal",
+          "query": "getafe - atlético madrid",
           "rank": 13
         },
         {
-          "query": "rutgers vs penn state",
+          "query": "tarik skubal",
           "rank": 14
         },
         {
-          "query": "houston vs west virginia",
+          "query": "pistons vs hawks",
           "rank": 15
         },
         {
-          "query": "samford vs auburn",
+          "query": "barcelona - villarreal",
+          "rank": 16
+        },
+        {
+          "query": "sheila mangubat",
           "rank": 17
         },
         {
-          "query": "texas tech vs baylor",
+          "query": "nfl standings eagles",
           "rank": 18
         },
         {
-          "query": "northwestern vs minnesota",
+          "query": "mr irrelevant",
           "rank": 19
         },
         {
-          "query": "wisconsin vs purdue",
+          "query": "united states attorney",
           "rank": 20
         },
         {
-          "query": "la liga",
+          "query": "john tuggle",
           "rank": 21
         },
         {
-          "query": "montana vs montana state",
+          "query": "delta airlines flight delays",
           "rank": 22
         },
         {
-          "query": "unc vs virginia",
+          "query": "nfl standings cowboys",
           "rank": 23
         },
         {
-          "query": "tn tech vs ms state",
+          "query": "atalanta vs inter",
           "rank": 24
         },
         {
-          "query": "noaa winter snow map el niño",
+          "query": "kc standings nfl",
           "rank": 25
         }
       ]

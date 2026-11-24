@@ -6,182 +6,222 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-23T23:51:12.547Z",
-  "runId": "45292304442",
+  "capturedAt": "2026-11-24T09:50:58.502Z",
+  "runId": "45369054963",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 175178440,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-11-22",
+      "sourceDate": "2026-11-23",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "titans vs cowboys",
+          "query": "tom jackson",
           "rank": 1
         },
         {
-          "query": "steelers vs eagles",
+          "query": "titans vs cowboys",
           "rank": 2
         },
         {
-          "query": "barcelona villarreal",
+          "query": "steelers vs eagles",
           "rank": 3
         },
         {
-          "query": "hierophant",
+          "query": "vikings vs 49ers",
           "rank": 4
         },
         {
-          "query": "tom jackson",
+          "query": "raiders vs broncos",
           "rank": 5
         },
         {
-          "query": "ohio state vs nebraska",
+          "query": "barcelona villarreal",
           "rank": 6
         },
         {
-          "query": "cardinals vs chiefs",
+          "query": "disney discontinues hulu standalone app",
           "rank": 7
         },
         {
-          "query": "saints vs bears",
+          "query": "cardinals vs chiefs",
           "rank": 8
         },
         {
-          "query": "buccaneers vs lions",
+          "query": "jaguars vs giants",
           "rank": 9
         },
         {
-          "query": "ucla vs michigan",
+          "query": "saints vs bears",
           "rank": 10
         },
         {
-          "query": "real madrid vs celta",
+          "query": "buccaneers vs lions",
           "rank": 11
         },
         {
-          "query": "georgia vs south carolina",
+          "query": "modicum",
           "rank": 12
         },
         {
-          "query": "barcelona vs villarreal",
+          "query": "dolphins vs bills",
           "rank": 13
         },
         {
-          "query": "real madrid celta de vigo",
+          "query": "barcelona vs villarreal",
           "rank": 14
         },
         {
-          "query": "lsu vs tennessee",
+          "query": "tom jackson espn",
           "rank": 15
         },
         {
-          "query": "dolphins vs bills",
+          "query": "ravens vs panthers",
           "rank": 16
         },
         {
-          "query": "ravens vs panthers",
+          "query": "celtics vs warriors",
           "rank": 17
         },
         {
-          "query": "chattanooga vs alabama",
+          "query": "nu meaning",
           "rank": 18
         },
         {
-          "query": "oregon vs mi state",
+          "query": "liverpool vs man utd",
           "rank": 19
         },
         {
-          "query": "tom jackson espn",
+          "query": "jets vs chargers",
           "rank": 20
         },
         {
-          "query": "indiana vs washington",
+          "query": "cubism",
           "rank": 21
         },
         {
-          "query": "raiders vs broncos",
+          "query": "pacers vs knicks",
           "rank": 22
         },
         {
-          "query": "virginia tech vs miami fl",
+          "query": "49ers",
           "rank": 23
         },
         {
-          "query": "liverpool vs man utd",
+          "query": "49ers game",
           "rank": 24
         },
         {
-          "query": "college football scores",
+          "query": "maxx morando",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-11-22",
+      "sourceDate": "2026-11-23",
       "table": "top_terms",
       "terms": [
         {
-          "query": "jaguars vs giants",
+          "query": "cruise ship",
+          "rank": 1
+        },
+        {
+          "query": "avengers doomsday",
+          "rank": 2
+        },
+        {
+          "query": "jensen huang reinstated as ceo",
+          "rank": 3
+        },
+        {
+          "query": "gta 6 update",
+          "rank": 4
+        },
+        {
+          "query": "brentford vs everton",
+          "rank": 5
+        },
+        {
+          "query": "comedian gabriel iglesias",
+          "rank": 6
+        },
+        {
+          "query": "planets beyond neptune",
+          "rank": 7
+        },
+        {
+          "query": "jimmy gomez",
+          "rank": 8
+        },
+        {
+          "query": "who gets social security nov 25",
+          "rank": 9
+        },
+        {
+          "query": "fire country",
           "rank": 10
         },
         {
-          "query": "jets vs chargers",
+          "query": "paul goldschmidt",
           "rank": 11
         },
         {
-          "query": "getafe - atlético madrid",
+          "query": "vanity fair taylor swift",
+          "rank": 12
+        },
+        {
+          "query": "brandon aiyuk",
           "rank": 13
         },
         {
-          "query": "tarik skubal",
+          "query": "karen read",
           "rank": 14
         },
         {
-          "query": "pistons vs hawks",
+          "query": "dementia",
           "rank": 15
         },
         {
-          "query": "barcelona - villarreal",
+          "query": "levante - elche c. f.",
           "rank": 16
         },
         {
-          "query": "sheila mangubat",
+          "query": "professor severus snape",
           "rank": 17
         },
         {
-          "query": "nfl standings eagles",
+          "query": "professional golfer",
           "rank": 18
         },
         {
-          "query": "mr irrelevant",
+          "query": "día de acción de gracias",
           "rank": 19
         },
         {
-          "query": "united states attorney",
+          "query": "coastal flood watch",
           "rank": 20
         },
         {
-          "query": "john tuggle",
+          "query": "sophie cunningham indiana fever offseason",
           "rank": 21
         },
         {
-          "query": "delta airlines flight delays",
+          "query": "brad pitt",
           "rank": 22
         },
         {
-          "query": "nfl standings cowboys",
+          "query": "is tonight a full moon",
           "rank": 23
         },
         {
-          "query": "atalanta vs inter",
+          "query": "dwts finale",
           "rank": 24
         },
         {
-          "query": "kc standings nfl",
+          "query": "tyson fury",
           "rank": 25
         }
       ]

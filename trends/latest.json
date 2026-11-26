@@ -6,214 +6,210 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-25T21:39:27.475Z",
-  "runId": "45706317210",
+  "capturedAt": "2026-11-26T08:12:40.158Z",
+  "runId": "45781215966",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 165989314,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-11-24",
+      "sourceDate": "2026-11-25",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "bengals vs commanders",
+          "query": "real madrid psv",
           "rank": 1
         },
         {
-          "query": "real madrid psv",
+          "query": "sabah vs barcelona",
           "rank": 2
         },
         {
-          "query": "disney discontinues hulu standalone app",
+          "query": "ssi payments two deposits december 2026",
           "rank": 3
         },
         {
-          "query": "real madrid vs psv",
+          "query": "oberman",
           "rank": 4
         },
         {
-          "query": "nu meaning",
+          "query": "real madrid vs psv",
           "rank": 5
         },
         {
-          "query": "monday night football",
+          "query": "who won dancing with the stars",
           "rank": 6
         },
         {
-          "query": "lambda",
+          "query": "sabah futbol klubu barcelona",
           "rank": 7
         },
         {
-          "query": "vikings vs 49ers",
+          "query": "ezra frech",
           "rank": 8
         },
         {
-          "query": "trail blazers vs 76ers",
+          "query": "who won dancing with the stars 2026",
           "rank": 9
         },
         {
-          "query": "celtics vs warriors",
+          "query": "parabola",
           "rank": 10
         },
         {
-          "query": "gabriel iglesias",
+          "query": "mike mccarthy",
           "rank": 11
         },
         {
-          "query": "spurs vs kings",
+          "query": "oberman meaning",
           "rank": 12
         },
         {
-          "query": "commanders",
+          "query": "bengals vs commanders",
           "rank": 13
         },
         {
-          "query": "jazz vs lakers",
+          "query": "aaron rodgers",
           "rank": 14
         },
         {
-          "query": "jensen huang",
+          "query": "wind advisory",
           "rank": 15
         },
         {
-          "query": "man city vs napoli",
+          "query": "heat vs 76ers",
           "rank": 16
         },
         {
-          "query": "uefa champions league",
+          "query": "dancing with the stars voting",
           "rank": 17
         },
         {
-          "query": "champions league",
+          "query": "dancing with the stars",
           "rank": 18
         },
         {
-          "query": "bengals",
+          "query": "celtics vs wizards",
           "rank": 19
         },
         {
-          "query": "blooket join",
+          "query": "uefa champions league",
           "rank": 20
         },
         {
-          "query": "blooket",
+          "query": "mavericks vs nuggets",
           "rank": 21
         },
         {
-          "query": "washington commanders",
+          "query": "champions league",
           "rank": 22
         },
         {
-          "query": "nvda stock",
+          "query": "psg vs roma",
           "rank": 23
         },
         {
-          "query": "nvda",
+          "query": "thanksgiving 2026",
           "rank": 24
         },
         {
-          "query": "gimkit",
+          "query": "iowa lead detonation",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-11-24",
+      "sourceDate": "2026-11-25",
       "table": "top_terms",
       "terms": [
         {
-          "query": "arsenal vs dortmund",
-          "rank": 2
+          "query": "nfl",
+          "rank": 1
         },
         {
-          "query": "real madrid",
-          "rank": 3
+          "query": "nfl schedule",
+          "rank": 4
         },
         {
-          "query": "christie miller",
+          "query": "andy taylor",
           "rank": 5
         },
         {
-          "query": "steven hack",
-          "rank": 6
-        },
-        {
-          "query": "al-nassr vs al sadd",
+          "query": "walmart thanksgiving hours",
           "rank": 7
         },
         {
-          "query": "galatasaray vs aston villa",
+          "query": "sporting vs man utd",
           "rank": 8
         },
         {
-          "query": "what time is dancing with the stars on tonight",
+          "query": "lebron james",
           "rank": 9
         },
         {
-          "query": "manchester city - napoli",
+          "query": "club brugge vs liverpool",
           "rank": 10
         },
         {
-          "query": "champions league schedule",
+          "query": "lead bomb iowa",
           "rank": 11
         },
         {
-          "query": "man overboard",
+          "query": "nfl game tonight",
           "rank": 12
         },
         {
-          "query": "como vs aek",
+          "query": "pacifica pier",
           "rank": 13
         },
         {
-          "query": "maryland vs tennessee",
+          "query": "chipotle bogo",
           "rank": 14
         },
         {
-          "query": "microsoft code red",
+          "query": "losc vs bayern",
           "rank": 15
         },
         {
-          "query": "trev alberts",
+          "query": "atlético madrid - viking",
           "rank": 16
         },
         {
-          "query": "slovan bratislava - real betis",
+          "query": "macys thanksgiving 2026 grounded",
           "rank": 17
         },
         {
-          "query": "陈吉宁",
+          "query": "atlético vs viking",
           "rank": 18
         },
         {
-          "query": "wind advisory",
+          "query": "chris evert",
           "rank": 19
         },
         {
-          "query": "teruaki sato",
+          "query": "the mosquito bowl",
           "rank": 20
         },
         {
-          "query": "lawsuit",
+          "query": "losc - bayern",
           "rank": 21
         },
         {
-          "query": "tiktok down",
+          "query": "liquor store near me",
           "rank": 22
         },
         {
-          "query": "jk dobbins",
+          "query": "bulls vs hornets",
           "rank": 23
         },
         {
-          "query": "pope francis",
+          "query": "zyri",
           "rank": 24
         },
         {
-          "query": "cia",
+          "query": "sporting lisboa - manchester united",
           "rank": 25
         }
       ]

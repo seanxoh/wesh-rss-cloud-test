@@ -6,75 +6,75 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-26T21:28:34.477Z",
-  "runId": "45898375612",
+  "capturedAt": "2026-11-27T08:25:24.481Z",
+  "runId": "45965525026",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 176829040,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-11-25",
+      "sourceDate": "2026-11-26",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "real madrid psv",
+          "query": "aaron rodgers",
           "rank": 1
         },
         {
-          "query": "sabah vs barcelona",
+          "query": "rams vs packers",
           "rank": 2
         },
         {
-          "query": "ssi payments two deposits december 2026",
+          "query": "bears vs lions",
           "rank": 3
         },
         {
-          "query": "oberman",
+          "query": "packers vs rams",
           "rank": 4
         },
         {
-          "query": "real madrid vs psv",
+          "query": "mike mccarthy",
           "rank": 5
         },
         {
-          "query": "who won dancing with the stars",
+          "query": "oberman",
           "rank": 6
         },
         {
-          "query": "sabah futbol klubu barcelona",
+          "query": "andy taylor",
           "rank": 7
         },
         {
-          "query": "ezra frech",
+          "query": "eagles vs cowboys",
           "rank": 8
         },
         {
-          "query": "who won dancing with the stars 2026",
+          "query": "sabah vs barcelona",
           "rank": 9
         },
         {
-          "query": "parabola",
+          "query": "what stores are open on thanksgiving",
           "rank": 10
         },
         {
-          "query": "mike mccarthy",
+          "query": "is walmart open on thanksgiving",
           "rank": 11
         },
         {
-          "query": "oberman meaning",
+          "query": "walmart thanksgiving hours",
           "rank": 12
         },
         {
-          "query": "bengals vs commanders",
+          "query": "harry drumdini",
           "rank": 13
         },
         {
-          "query": "aaron rodgers",
+          "query": "ezra frech",
           "rank": 14
         },
         {
-          "query": "wind advisory",
+          "query": "cavaliers vs knicks",
           "rank": 15
         },
         {
@@ -82,134 +82,146 @@
           "rank": 16
         },
         {
-          "query": "dancing with the stars voting",
+          "query": "monterrey américa",
           "rank": 17
         },
         {
-          "query": "dancing with the stars",
+          "query": "thanksgiving 2026",
           "rank": 18
         },
         {
-          "query": "celtics vs wizards",
+          "query": "spurs vs trail blazers",
           "rank": 19
         },
         {
-          "query": "uefa champions league",
+          "query": "is target open on thanksgiving",
           "rank": 20
         },
         {
-          "query": "mavericks vs nuggets",
+          "query": "who won dancing with the stars 2026",
           "rank": 21
         },
         {
-          "query": "champions league",
+          "query": "rams",
           "rank": 22
         },
         {
-          "query": "psg vs roma",
+          "query": "happy thanksgiving gif",
           "rank": 23
         },
         {
-          "query": "thanksgiving 2026",
+          "query": "macys parade",
           "rank": 24
         },
         {
-          "query": "iowa lead detonation",
+          "query": "happy thanksgiving images",
           "rank": 25
         }
       ]
     },
     {
       "type": "TOP",
-      "sourceDate": "2026-11-25",
+      "sourceDate": "2026-11-26",
       "table": "top_terms",
       "terms": [
         {
-          "query": "nfl",
+          "query": "bears",
           "rank": 1
         },
         {
-          "query": "nfl schedule",
+          "query": "cowboys game",
+          "rank": 2
+        },
+        {
+          "query": "is walmart open today",
+          "rank": 3
+        },
+        {
+          "query": "mcdonald's",
           "rank": 4
         },
         {
-          "query": "andy taylor",
+          "query": "bears nfl standings",
           "rank": 5
         },
         {
-          "query": "walmart thanksgiving hours",
+          "query": "michael giles and andy taylor",
+          "rank": 6
+        },
+        {
+          "query": "national dog show",
           "rank": 7
         },
         {
-          "query": "sporting vs man utd",
+          "query": "john 3:16",
           "rank": 8
         },
         {
-          "query": "lebron james",
+          "query": "what football games are on today",
           "rank": 9
         },
         {
-          "query": "club brugge vs liverpool",
+          "query": "dominion power outage",
           "rank": 10
         },
         {
-          "query": "lead bomb iowa",
+          "query": "joe milton",
           "rank": 11
         },
         {
-          "query": "nfl game tonight",
+          "query": "cvs",
           "rank": 12
         },
         {
-          "query": "pacifica pier",
+          "query": "games today",
           "rank": 13
         },
         {
-          "query": "chipotle bogo",
+          "query": "jahmyr gibbs",
           "rank": 14
         },
         {
-          "query": "losc vs bayern",
+          "query": "d'andre swift",
           "rank": 15
         },
         {
-          "query": "atlético madrid - viking",
+          "query": "feliz dia de accion de gracias",
           "rank": 16
         },
         {
-          "query": "macys thanksgiving 2026 grounded",
+          "query": "crystal palace - real sociedad",
           "rank": 17
         },
         {
-          "query": "atlético vs viking",
+          "query": "olympiacos vs milan",
           "rank": 18
         },
         {
-          "query": "chris evert",
+          "query": "lowes black friday 2026",
           "rank": 19
         },
         {
-          "query": "the mosquito bowl",
+          "query": "jalen hurts",
           "rank": 20
         },
         {
-          "query": "losc - bayern",
+          "query": "terry bradshaw",
           "rank": 21
         },
         {
-          "query": "liquor store near me",
+          "query": "what time does walmart open on black friday",
           "rank": 22
         },
         {
-          "query": "bulls vs hornets",
+          "query": "wu tang",
           "rank": 23
         },
         {
-          "query": "zyri",
+          "query": "arkansas vs mi state",
           "rank": 24
         },
         {
-          "query": "sporting lisboa - manchester united",
+          "query": "juventus vs omonoia",
           "rank": 25
         }
       ]

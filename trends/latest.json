@@ -6,162 +6,55 @@
     "dmaId": 534,
     "dmaName": "Orlando-Daytona Beach-Melbourne FL"
   },
-  "capturedAt": "2026-11-27T21:14:33.043Z",
-  "runId": "46068978228",
+  "capturedAt": "2026-11-28T07:44:00.158Z",
+  "runId": "46122540125",
   "source": "Google Trends",
   "granularity": "daily",
-  "bytesProcessed": 0,
+  "bytesProcessed": 162486636,
   "lists": [
     {
       "type": "RISING",
-      "sourceDate": "2026-11-26",
+      "sourceDate": "2026-11-27",
       "table": "top_rising_terms",
       "terms": [
         {
-          "query": "aaron rodgers",
+          "query": "cowboys vs eagles",
           "rank": 1
-        },
-        {
-          "query": "rams vs packers",
-          "rank": 2
-        },
-        {
-          "query": "bears vs lions",
-          "rank": 3
-        },
-        {
-          "query": "packers vs rams",
-          "rank": 4
-        },
-        {
-          "query": "mike mccarthy",
-          "rank": 5
-        },
-        {
-          "query": "oberman",
-          "rank": 6
-        },
-        {
-          "query": "andy taylor",
-          "rank": 7
         },
         {
           "query": "eagles vs cowboys",
-          "rank": 8
-        },
-        {
-          "query": "sabah vs barcelona",
-          "rank": 9
-        },
-        {
-          "query": "what stores are open on thanksgiving",
-          "rank": 10
-        },
-        {
-          "query": "is walmart open on thanksgiving",
-          "rank": 11
-        },
-        {
-          "query": "walmart thanksgiving hours",
-          "rank": 12
-        },
-        {
-          "query": "harry drumdini",
-          "rank": 13
-        },
-        {
-          "query": "ezra frech",
-          "rank": 14
-        },
-        {
-          "query": "cavaliers vs knicks",
-          "rank": 15
-        },
-        {
-          "query": "heat vs 76ers",
-          "rank": 16
-        },
-        {
-          "query": "monterrey américa",
-          "rank": 17
-        },
-        {
-          "query": "thanksgiving 2026",
-          "rank": 18
-        },
-        {
-          "query": "spurs vs trail blazers",
-          "rank": 19
-        },
-        {
-          "query": "is target open on thanksgiving",
-          "rank": 20
-        },
-        {
-          "query": "who won dancing with the stars 2026",
-          "rank": 21
-        },
-        {
-          "query": "rams",
-          "rank": 22
-        },
-        {
-          "query": "happy thanksgiving gif",
-          "rank": 23
-        },
-        {
-          "query": "macys parade",
-          "rank": 24
-        },
-        {
-          "query": "happy thanksgiving images",
-          "rank": 25
-        }
-      ]
-    },
-    {
-      "type": "TOP",
-      "sourceDate": "2026-11-26",
-      "table": "top_terms",
-      "terms": [
-        {
-          "query": "bears",
-          "rank": 1
-        },
-        {
-          "query": "cowboys game",
           "rank": 2
         },
         {
-          "query": "is walmart open today",
+          "query": "broncos vs steelers",
           "rank": 3
         },
         {
-          "query": "mcdonald's",
+          "query": "chiefs vs bills",
           "rank": 4
         },
         {
-          "query": "bears nfl standings",
+          "query": "bills vs chiefs",
           "rank": 5
         },
         {
-          "query": "michael giles and andy taylor",
+          "query": "bears vs lions",
           "rank": 6
         },
         {
-          "query": "national dog show",
+          "query": "peahen",
           "rank": 7
         },
         {
-          "query": "john 3:16",
+          "query": "alice walker",
           "rank": 8
         },
         {
-          "query": "what football games are on today",
+          "query": "pachuca guadalajara",
           "rank": 9
         },
         {
-          "query": "dominion power outage",
+          "query": "sheaf",
           "rank": 10
         },
         {
@@ -169,59 +62,158 @@
           "rank": 11
         },
         {
-          "query": "cvs",
+          "query": "pachuca vs guadalajara",
           "rank": 12
         },
         {
-          "query": "games today",
+          "query": "nebraska vs iowa",
           "rank": 13
         },
         {
-          "query": "jahmyr gibbs",
+          "query": "ms state vs ole miss",
           "rank": 14
         },
         {
-          "query": "d'andre swift",
+          "query": "cowboys",
           "rank": 15
         },
         {
-          "query": "feliz dia de accion de gracias",
+          "query": "cowboys game",
           "rank": 16
         },
         {
-          "query": "crystal palace - real sociedad",
+          "query": "ibuprofen recall",
           "rank": 17
         },
         {
-          "query": "olympiacos vs milan",
+          "query": "eagles",
           "rank": 18
         },
         {
-          "query": "lowes black friday 2026",
+          "query": "spurs vs trail blazers",
           "rank": 19
         },
         {
-          "query": "jalen hurts",
+          "query": "monterrey américa",
           "rank": 20
         },
         {
-          "query": "terry bradshaw",
+          "query": "rams vs packers",
           "rank": 21
         },
         {
-          "query": "what time does walmart open on black friday",
+          "query": "chiefs",
           "rank": 22
         },
         {
-          "query": "wu tang",
+          "query": "packers vs rams",
           "rank": 23
         },
         {
-          "query": "arkansas vs mi state",
+          "query": "eagles game",
           "rank": 24
         },
         {
-          "query": "juventus vs omonoia",
+          "query": "miranda lambert",
+          "rank": 25
+        }
+      ]
+    },
+    {
+      "type": "TOP",
+      "sourceDate": "2026-11-27",
+      "table": "top_terms",
+      "terms": [
+        {
+          "query": "steelers",
+          "rank": 1
+        },
+        {
+          "query": "amazon",
+          "rank": 2
+        },
+        {
+          "query": "florida vs florida state",
+          "rank": 3
+        },
+        {
+          "query": "nottm forest vs chelsea",
+          "rank": 5
+        },
+        {
+          "query": "costco",
+          "rank": 7
+        },
+        {
+          "query": "avalanche vs wild",
+          "rank": 8
+        },
+        {
+          "query": "andrea stewart cousins",
+          "rank": 9
+        },
+        {
+          "query": "jojo siwa",
+          "rank": 10
+        },
+        {
+          "query": "michael halterman",
+          "rank": 11
+        },
+        {
+          "query": "air force vs new mexico",
+          "rank": 12
+        },
+        {
+          "query": "nd state vs sjsu",
+          "rank": 13
+        },
+        {
+          "query": "konstantin lifschitz",
+          "rank": 14
+        },
+        {
+          "query": "ncaa football today",
+          "rank": 15
+        },
+        {
+          "query": "stars vs blues",
+          "rank": 16
+        },
+        {
+          "query": "deb fischer",
+          "rank": 17
+        },
+        {
+          "query": "kevin o'leary",
+          "rank": 18
+        },
+        {
+          "query": "mammoth",
+          "rank": 19
+        },
+        {
+          "query": "red wings vs blue jackets",
+          "rank": 20
+        },
+        {
+          "query": "panthers vs capitals",
+          "rank": 21
+        },
+        {
+          "query": "canucks vs flyers",
+          "rank": 22
+        },
+        {
+          "query": "golden knights vs sharks",
+          "rank": 23
+        },
+        {
+          "query": "app state vs south alabama",
+          "rank": 24
+        },
+        {
+          "query": "kirby bumpus",
           "rank": 25
         }
       ]
